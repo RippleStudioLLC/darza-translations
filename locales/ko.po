@@ -1,5 +1,5 @@
 # Darza's Dominion in Korean.
-# How to translate: https://darzawiki.com/translate/guide
+# Translated by players at https://darzawiki.com/translate/ko. The wiki also picks up changes made to this file.
 msgid ""
 msgstr ""
 "Project-Id-Version: Darza's Dominion\n"

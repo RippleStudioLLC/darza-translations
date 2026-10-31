@@ -1572,7 +1572,7 @@ msgstr[0] ""
 msgstr[1] ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
-msgid "<c#b3b3b3>Enemy shots through it deal you {percent}% less<c/>"
+msgid "<c#b3b3b3>Enemy shots through it deal you {percent}% less<c/>{cutMarks}"
 msgstr ""
 
 #. {1} is a number.

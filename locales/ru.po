@@ -17,7 +17,7 @@ msgstr ""
 #: DarzasClient/DarzasDominion/Darza/Game/Boosts/ClientBoosts.cs
 #: DarzasDominion/DarzaGameServer/Worlds/Boosting/BoostBreakdowns.cs
 msgid "Exp"
-msgstr ""
+msgstr "Опыт"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Boosts/ClientBoosts.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/MarketBoard/MarketSellPage.cs

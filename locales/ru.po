@@ -4577,6 +4577,10 @@ msgid "Weapon SFX"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopAudioPage.cs
+msgid "Ability SFX"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopAudioPage.cs
 msgid "Output"
 msgstr ""
 

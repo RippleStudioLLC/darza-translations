@@ -9,6 +9,32 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
+#: DarzasClient/DarzasDominion/Darza/Game/Boosts/ClientBoosts.cs
+#: DarzasDominion/DarzaGameServer/Worlds/Boosting/BoostBreakdowns.cs
+msgid "Loot Boost"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/Boosts/ClientBoosts.cs
+#: DarzasDominion/DarzaGameServer/Worlds/Boosting/BoostBreakdowns.cs
+msgid "Exp"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/Boosts/ClientBoosts.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/MarketBoard/MarketSellPage.cs
+#: DarzasDominion/DarzaGameServer/Worlds/Boosting/BoostBreakdowns.cs
+msgid "Silver"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/Boosts/ClientBoosts.cs
+#: DarzasDominion/DarzaGameServer/Worlds/Boosting/BoostBreakdowns.cs
+msgid "Loot"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/Chat/ChatLinkView.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/BoostTooltip.cs
+msgid "Boosts"
+msgstr ""
+
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Components/DynamicObjectMessage.cs
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Entities/Character.cs
 #: DarzasClient/DarzasDominion/Darza/Game/ParticleSystems/Fx/Stage/FxStage.Scenes.cs
@@ -17,6 +43,12 @@ msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/ContributionDisplay.cs
 msgid "Rank"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/Objects/ContributionDisplay.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/PartyListMenu.cs
+#: DarzasClient/DarzasDominion/Nodes/GameChatBox.cs
+msgid "Guild"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/ContributionDisplay.cs
@@ -879,6 +911,14 @@ msgstr ""
 msgid "titles blah blah edit this later"
 msgstr ""
 
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/BoostTooltip.cs
+msgid "No boosts right now."
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/BoostTooltip.cs
+msgid "{left} paused"
+msgstr ""
+
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopAccountCustomizationMenuTooltip.cs
 msgid ""
 "<c#0xffff77>Account Customization<c/> lets you set account-wide cosmetics and profile flair.\n"
@@ -1308,6 +1348,10 @@ msgid "Radius:"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
+msgid "<c#b3b3b3>Bursts round you as you cast<c/>"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Rate:"
 msgstr ""
 
@@ -1373,11 +1417,19 @@ msgid "Mana Cost:"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
+msgid "On Strike:"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "On Ally Hit:"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "On Enemy Hit:"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
+msgid "<c#b3b3b3>Flies off in a random direction<c/>"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
@@ -1390,6 +1442,12 @@ msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "<c#b3b3b3>You take it too, by running into a shot<c/>"
+msgstr ""
+
+#. {0} is the heading "Fortifies:".
+#. {2} is marks for the item's quality and affixes, which may be empty.
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
+msgid "{0} <c#4BBAF2>{fortify} BP<c/>{2}"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
@@ -1413,6 +1471,41 @@ msgid "Arc:"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
+msgid "Spread:"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
+msgid "Charge:"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
+msgid "<c#A9D7F2>Afterimage:<c/>"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
+msgid "<c#b3b3b3>{ticks} Hit a Second for {seconds}s<c/>"
+msgid_plural "<c#b3b3b3>{ticks} Hits a Second for {seconds}s<c/>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
+msgid "<c#A9D7F2>Volley:<c/>"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
+msgid "Delay:"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
+msgid "Width:"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
+msgid "<c#A9D7F2>AoE:<c/>"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "<c#A9D7F2>Hits All Enemies in Beam<c/>"
 msgstr ""
 
@@ -1433,7 +1526,7 @@ msgid "{critChance}% <c#A9D7F2>Chance to Crit for<c/> {critDamage}% <c#A9D7F2>Da
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
-msgid "Width:"
+msgid "Burn:"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
@@ -1457,6 +1550,24 @@ msgstr ""
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Max Channel: "
 msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
+msgid "Barricade: <c#C9D3D7>{side}x{side} round you for {seconds}s<c/>"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
+msgid "Barricade: <c#C9D3D7>{pillars} pillar in a ring round you for {seconds}s<c/>{marks}"
+msgid_plural "Barricade: <c#C9D3D7>{pillars} pillars in a ring round you for {seconds}s<c/>{marks}"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
+msgid "Barricade: <c#C9D3D7>{pillars} pillar in an arc round you for {seconds}s<c/>{marks}"
+msgid_plural "Barricade: <c#C9D3D7>{pillars} pillars in an arc round you for {seconds}s<c/>{marks}"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Barricade: <c#C9D3D7>{pillars} pillar for {seconds}s<c/>{marks}"
@@ -1484,6 +1595,26 @@ msgstr ""
 #. {2} is marks for the item's quality and affixes, which may be empty.
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "{sign}{percent}% Effect Radius{2}"
+msgstr ""
+
+#. {2} is marks for the item's quality and affixes, which may be empty.
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
+msgid "{sign}{percent}% Beam Width{2}"
+msgstr ""
+
+#. {2} is marks for the item's quality and affixes, which may be empty.
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
+msgid "{sign}{percent}% Spread{2}"
+msgstr ""
+
+#. {2} is marks for the item's quality and affixes, which may be empty.
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
+msgid "{sign}{seconds}s Charge Time{2}"
+msgstr ""
+
+#. {2} is marks for the item's quality and affixes, which may be empty.
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
+msgid "{sign}{seconds}s Burn Time{2}"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
@@ -1599,15 +1730,7 @@ msgid "Cooldown:"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
-msgid "Delay:"
-msgstr ""
-
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "After Channeling:"
-msgstr ""
-
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
-msgid "<c#A9D7F2>AoE:<c/>"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
@@ -1918,15 +2041,26 @@ msgid ""
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/OyunsRerollingTooltip.cs
+msgid "Tiers"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/OyunsRerollingTooltip.cs
+msgid ""
+"A reroll can climb any number of tiers but drops at most one: a pink lands on blue or better,\n"
+"a green on orange or better, a red anywhere. An event or HATED affix drops no lower than pink."
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/OyunsRerollingTooltip.cs
 msgid "Odds"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/OyunsRerollingTooltip.cs
 msgid ""
 "Each tier has a weight - red 10, orange 20, green 40, blue 20, pink 10, event 5 where the item\n"
-"has event affixes, HATED 10 for a HATED character spending a duplicate - and every affix of a tier\n"
-"is as likely as the next. A roll scroll's affix makes the stats it lists more likely inside each tier:\n"
-"+30% weight for red, rising 30% a tier to +210% for event. The Table shows every affix's chance."
+"has event affixes, HATED 10 for a HATED character spending a duplicate or for anyone rerolling\n"
+"a HATED affix - and every affix of a tier is as likely as the next. A roll scroll's affix makes\n"
+"the stats it lists more likely inside each tier: +30% weight for red, rising 30% a tier to +210%\n"
+"for event. The Table shows every affix's chance."
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/OyunsRerollingTooltip.cs
@@ -2706,6 +2840,7 @@ msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/CharacterList/CharacterDetailPanel.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/CharacterList/TotemStripNode.cs
+#: DarzasDominion/DarzaGameServer/Worlds/Boosting/BoostBreakdowns.cs
 msgid "Totems"
 msgstr ""
 
@@ -3595,10 +3730,6 @@ msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/MarketBoard/MarketSellPage.cs
 msgid "Price each"
-msgstr ""
-
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/MarketBoard/MarketSellPage.cs
-msgid "Silver"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/MarketBoard/MarketSellPage.cs
@@ -4518,6 +4649,42 @@ msgid "Slot Usage"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopControlsPage.cs
+msgid "Backpack Slot Usage"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopControlsPage.cs
+msgid "Use Backpack Slot 1"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopControlsPage.cs
+msgid "Use Backpack Slot 2"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopControlsPage.cs
+msgid "Use Backpack Slot 3"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopControlsPage.cs
+msgid "Use Backpack Slot 4"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopControlsPage.cs
+msgid "Use Backpack Slot 5"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopControlsPage.cs
+msgid "Use Backpack Slot 6"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopControlsPage.cs
+msgid "Use Backpack Slot 7"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopControlsPage.cs
+msgid "Use Backpack Slot 8"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopControlsPage.cs
 msgid "Offset Camera"
 msgstr ""
 
@@ -4933,6 +5100,11 @@ msgstr ""
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopGraphicsPage.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/MobileGraphicsPage.cs
 msgid "Self Sweep Opacity"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopGraphicsPage.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/MobileGraphicsPage.cs
+msgid "Aim Circle Opacity"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopGraphicsPage.cs
@@ -6402,11 +6574,6 @@ msgid "Location"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/PartyListMenu.cs
-#: DarzasClient/DarzasDominion/Nodes/GameChatBox.cs
-msgid "Guild"
-msgstr ""
-
-#: DarzasClient/DarzasDominion/Darza/Game/UI/PartyListMenu.cs
 msgid "Not in a party"
 msgstr ""
 
@@ -6649,6 +6816,10 @@ msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/World.cs
 msgid "Vesta, Axis Gatesguard"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/World.cs
+msgid "Your controller disconnected. Escaping to safety."
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/World.cs
@@ -7161,6 +7332,7 @@ msgid "+{_amount} Gold"
 msgstr ""
 
 #: DarzasDominion/DarzaGameServer/Logic/Behaviors/Death/GiveSilver.cs
+#: DarzasDominion/DarzaGameServer/Logic/Behaviors/Death/Loot/MinionDrops.cs
 msgid "+{amount} Silver"
 msgstr ""
 
@@ -7169,11 +7341,7 @@ msgid "You received +{amount} silver!"
 msgstr ""
 
 #: DarzasDominion/DarzaGameServer/Logic/Behaviors/Death/Loot/MinionDrops.cs
-msgid "+{SilverAmount} Silver"
-msgstr ""
-
-#: DarzasDominion/DarzaGameServer/Logic/Behaviors/Death/Loot/MinionDrops.cs
-msgid "You found +{SilverAmount} silver!"
+msgid "You found +{amount} silver!"
 msgstr ""
 
 #. {0} is the name of a class.
@@ -12254,6 +12422,13 @@ msgstr ""
 msgid "This character cannot equip that item!"
 msgstr ""
 
+#: DarzasDominion/DarzaGameServer/Networking/ImpermanenceDisconnectMonitor.cs
+msgid ""
+"Your controller disconnected, so the game escaped for you.\n"
+"\n"
+"The Impermanence totem demands standing your ground for the full escape ritual, so this counted against it. Repeated escapes like this may result in the removal of the Impermanence totem from this character."
+msgstr ""
+
 #: DarzasDominion/DarzaGameServer/PresentOpeningManager.cs
 msgid "I pounded this present just for you! Yeah, you!"
 msgstr ""
@@ -12452,6 +12627,59 @@ msgstr ""
 
 #: DarzasDominion/DarzaGameServer/Worlds/AttainmentsManager.cs
 msgid "Ruby Shield activated! Ruby attainment completed during Summer Catch-Up."
+msgstr ""
+
+#: DarzasDominion/DarzaGameServer/Worlds/Boosting/BoostBreakdowns.cs
+msgid "World Loot Boost"
+msgstr ""
+
+#: DarzasDominion/DarzaGameServer/Worlds/Boosting/BoostBreakdowns.cs
+msgid "No effect here: this world's loot boost already gives it"
+msgstr ""
+
+#: DarzasDominion/DarzaGameServer/Worlds/Boosting/BoostBreakdowns.cs
+msgid "HATED"
+msgstr ""
+
+#: DarzasDominion/DarzaGameServer/Worlds/Boosting/BoostBreakdowns.cs
+msgid "This World's Boosts: {rates}"
+msgstr ""
+
+#: DarzasDominion/DarzaGameServer/Worlds/Boosting/BoostBreakdowns.cs
+msgid "Your guild earned {name}: {effects} for {duration}!"
+msgstr ""
+
+#: DarzasDominion/DarzaGameServer/Worlds/Boosting/BoostBreakdowns.cs
+msgid "{who} earned your guild {name}: {effects} for {duration}!"
+msgstr ""
+
+#: DarzasDominion/DarzaGameServer/Worlds/Boosting/BoostBreakdowns.cs
+msgid "{days} day"
+msgid_plural "{days} days"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: DarzasDominion/DarzaGameServer/Worlds/Boosting/BoostBreakdowns.cs
+msgid "{hours} hour"
+msgid_plural "{hours} hours"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: DarzasDominion/DarzaGameServer/Worlds/Boosting/BoostBreakdowns.cs
+msgid "{minutes} minute"
+msgid_plural "{minutes} minutes"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: DarzasDominion/DarzaGameServer/Worlds/Boosting/BoostBreakdowns.cs
+msgid "Guild Boost"
+msgstr ""
+
+#: DarzasDominion/DarzaGameServer/Worlds/Boosting/BoostBreakdowns.cs
+msgid "Guild Contribution"
 msgstr ""
 
 #: DarzasDominion/DarzaGameServer/Worlds/Commands/CommandHandler.cs
@@ -12671,6 +12899,8 @@ msgid "Invalid bullet index"
 msgstr ""
 
 #: DarzasDominion/DarzaGameServer/Worlds/GameObjects/Entities/Player.AntiCheat.cs
+#: DarzasDominion/DarzaGameServer/Worlds/GameObjects/Entities/Player.PlayerBarrages.cs
+#: DarzasDominion/DarzaGameServer/Worlds/GameObjects/Entities/Player.PlayerBolts.cs
 #: DarzasDominion/DarzaGameServer/Worlds/GameObjects/Entities/Player.PlayerLasers.cs
 #: DarzasDominion/DarzaGameServer/Worlds/GameObjects/Entities/Player.PlayerSweeps.cs
 msgid "Fire rate too fast"
@@ -13172,6 +13402,20 @@ msgstr ""
 #: DarzasDominion/DarzaGameServer/Worlds/GameObjects/Map/Activatable/SoloDungeonStatue.cs
 msgid "A solo portal to {dungeonName} has opened!"
 msgstr ""
+
+#: DarzasDominion/DarzaGameServer/Worlds/Guilds/GuildContribution.cs
+msgid "+{amount} Guild Contribution Point"
+msgid_plural "+{amount} Guild Contribution Points"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: DarzasDominion/DarzaGameServer/Worlds/Guilds/GuildContribution.cs
+msgid "Guild Contribution: {guild} placed #{place} of {guilds} with {points} point"
+msgid_plural "Guild Contribution: {guild} placed #{place} of {guilds} with {points} points"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
 
 #: DarzasDominion/DarzaGameServer/Worlds/Spawning/EventObols.cs
 msgid "Your {cleared} Obol from {eventName} faded away when the event ended."

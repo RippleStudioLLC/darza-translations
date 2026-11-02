@@ -1333,7 +1333,7 @@ msgid "Fortifies:"
 msgstr ""
 
 #. {0} is the heading "Fortifies:".
-#. {1} is a number.
+#. {1} is something the game fills in.
 #. {2} is marks for the item's quality and affixes, which may be empty.
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "{0} <c#4BBAF2>{1} BP<c/>{2}"
@@ -1345,10 +1345,6 @@ msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Radius:"
-msgstr ""
-
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
-msgid "<c#b3b3b3>Bursts round you as you cast<c/>"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
@@ -1396,6 +1392,10 @@ msgid "Range:"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
+msgid "Duration:"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Shots: "
 msgstr ""
 
@@ -1420,33 +1420,21 @@ msgid "On Strike:"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
-msgid "On Ally Hit:"
+msgid "On Ally Collect:"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "On Enemy Hit:"
 msgstr ""
 
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
-msgid "<c#b3b3b3>Flies off in a random direction<c/>"
-msgstr ""
-
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
-msgid "<c#b3b3b3>Flies to allies who come near it<c/>"
-msgstr ""
-
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
-msgid "<c#b3b3b3>You take it too, by stepping near a shot<c/>"
-msgstr ""
-
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
-msgid "<c#b3b3b3>You take it too, by running into a shot<c/>"
-msgstr ""
-
 #. {0} is the heading "Fortifies:".
 #. {2} is marks for the item's quality and affixes, which may be empty.
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "{0} <c#4BBAF2>{fortify} BP<c/>{2}"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
+msgid "Protected:"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
@@ -1528,6 +1516,30 @@ msgid "Burn:"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
+msgid "Barricade:"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
+msgid "Damage Reduction:"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
+msgid "Pillars:"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
+msgid "Arc"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
+msgid "Box"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
+msgid "Ring"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Begin Channel:"
 msgstr ""
 
@@ -1547,32 +1559,6 @@ msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Max Channel: "
-msgstr ""
-
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
-msgid "Barricade: <c#C9D3D7>{side}x{side} round you for {seconds}s<c/>"
-msgstr ""
-
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
-msgid "Barricade: <c#C9D3D7>{pillars} pillar in a ring round you for {seconds}s<c/>{marks}"
-msgid_plural "Barricade: <c#C9D3D7>{pillars} pillars in a ring round you for {seconds}s<c/>{marks}"
-msgstr[0] ""
-msgstr[1] ""
-
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
-msgid "Barricade: <c#C9D3D7>{pillars} pillar in an arc round you for {seconds}s<c/>{marks}"
-msgid_plural "Barricade: <c#C9D3D7>{pillars} pillars in an arc round you for {seconds}s<c/>{marks}"
-msgstr[0] ""
-msgstr[1] ""
-
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
-msgid "Barricade: <c#C9D3D7>{pillars} pillar for {seconds}s<c/>{marks}"
-msgid_plural "Barricade: <c#C9D3D7>{pillars} pillars for {seconds}s<c/>{marks}"
-msgstr[0] ""
-msgstr[1] ""
-
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
-msgid "<c#b3b3b3>Enemy shots through it deal you {percent}% less<c/>{cutMarks}"
 msgstr ""
 
 #. {1} is a number.

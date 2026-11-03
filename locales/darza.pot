@@ -570,6 +570,10 @@ msgstr ""
 msgid "Are you sure you want to buy <c#e8e881>{data.Id}<c/> for {data.Price} {2}?"
 msgstr ""
 
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Components/TooltipLinkButton.cs
+msgid "Link in chat"
+msgstr ""
+
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Components/WindowScalePopup.cs
 msgid "Window scale"
 msgstr ""
@@ -1443,6 +1447,10 @@ msgid "On Ally Collect:"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
+msgid "On Collect:"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "On Enemy Hit:"
 msgstr ""
 
@@ -1485,17 +1493,15 @@ msgid "Charge:"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
-msgid "<c#A9D7F2>Afterimage:<c/>"
+msgid "Afterimage:"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
-msgid "<c#b3b3b3>{ticks} Hit a Second for {seconds}s<c/>"
-msgid_plural "<c#b3b3b3>{ticks} Hits a Second for {seconds}s<c/>"
-msgstr[0] ""
-msgstr[1] ""
+msgid "{dps} DPS{damageMarks} <c#FFFFFF>({seconds}s)<c/> in Arc"
+msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
-msgid "<c#A9D7F2>Volley:<c/>"
+msgid "Volley:"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
@@ -1512,14 +1518,6 @@ msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "<c#A9D7F2>Hits All Enemies in Beam<c/>"
-msgstr ""
-
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
-msgid "<c#A9D7F2>Hits Every<c/> {tick}s <c#A9D7F2>for<c/> {burst}s"
-msgstr ""
-
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
-msgid "<c#A9D7F2>Charges for<c/> {warmup}s <c#A9D7F2>Before Firing<c/>"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
@@ -1547,15 +1545,15 @@ msgid "Pillars:"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
-msgid "Arc"
-msgstr ""
-
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Box"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Ring"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
+msgid "Arc"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
@@ -6952,10 +6950,6 @@ msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/World.cs
 msgid "Kicked by Admin"
-msgstr ""
-
-#: DarzasClient/DarzasDominion/Darza/Game/World.cs
-msgid "Link in chat"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/MainMenu/DailiesPanel.cs

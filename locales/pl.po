@@ -95,6 +95,7 @@ msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/AxisTradePost.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Menus/CharacterActions.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Mobile/Tooltips/MobileCharacterTooltip.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Mobile/Tooltips/MobileNpcTooltip.cs
 msgid "Trade"
 msgstr ""
@@ -598,6 +599,15 @@ msgstr ""
 msgid "Hide Players"
 msgstr ""
 
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/DesktopInventory.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/DesktopInventoryHidden.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/DesktopMMOUI.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/PartyFinder/PartyFinderItemNode.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Mobile/MobileUI.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Mobile/Tabs/CharactersTab.cs
+msgid "LV {level}"
+msgstr ""
+
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/DesktopMMOUI.cs
 msgid "Character Unlocks"
 msgstr ""
@@ -655,10 +665,6 @@ msgstr ""
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/CharacterList/CharacterDetailPanel.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/ViewBuild/BuildWindow.cs
 msgid "Equipment"
-msgstr ""
-
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/DesktopMMOUI.cs
-msgid "Lvl {level}"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/DesktopUI.cs
@@ -808,15 +814,18 @@ msgstr ""
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Menus/CharacterActions.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/MinimapContainer.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/ControllerBindingsPage.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Mobile/Tooltips/MobileCharacterTooltip.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Mobile/Tooltips/MobileNpcTooltip.cs
 msgid "Teleport"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Menus/CharacterActions.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Mobile/Tooltips/MobileCharacterTooltip.cs
 msgid "View Build"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Menus/CharacterActions.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Mobile/Tooltips/MobileCharacterTooltip.cs
 #: DarzasClient/DarzasDominion/Nodes/GameChatBox.cs
 msgid "Whisper"
 msgstr ""
@@ -844,10 +853,12 @@ msgid "Unignore"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Menus/CharacterActions.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Mobile/Tooltips/MobileCharacterTooltip.cs
 msgid "Invite to Party"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Menus/CharacterActions.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Mobile/Tooltips/MobileCharacterTooltip.cs
 msgid "Invite to Guild"
 msgstr ""
 
@@ -880,10 +891,12 @@ msgid "Join"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Menus/CharacterActions.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Mobile/Tooltips/MobileCharacterTooltip.cs
 msgid "Promote to Leader"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Menus/CharacterActions.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Mobile/Tooltips/MobileCharacterTooltip.cs
 msgid "Kick from Party"
 msgstr ""
 
@@ -988,6 +1001,12 @@ msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopCharacterTooltip.cs
 msgid "(Left-click for menu)"
+msgstr ""
+
+#. shields claimed out of all there are, e.g. "12/29 Shields" (the phone's player card shares it)
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopCharacterTooltip.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Mobile/Tooltips/MobileCharacterTooltip.cs
+msgid "{claims}/{MaxShieldClaims} Shields"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopEmotesPageTooltip.cs
@@ -2953,6 +2972,7 @@ msgid "LV {entry.Level}"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/CharacterList/CharacterListRows.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Mobile/Tooltips/MobileCharacterTooltip.cs
 msgid "IP {ip}"
 msgstr ""
 
@@ -6503,6 +6523,10 @@ msgstr ""
 msgid "phone edge"
 msgstr ""
 
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Mobile/Tabs/CharactersTab.cs
+msgid "No nearby players"
+msgstr ""
+
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Mobile/Tabs/StatsTab.cs
 msgid "HP:"
 msgstr ""
@@ -6537,6 +6561,10 @@ msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Mobile/Tabs/StatsTab.cs
 msgid "IP:"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Mobile/Tooltips/MobileCharacterTooltip.cs
+msgid "{glory} Glory"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Mobile/Tooltips/MobileCharacterTooltip.cs
@@ -6667,6 +6695,16 @@ msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/RerollMenu.cs
 msgid "Oyun's Rerolling"
+msgstr ""
+
+#. a ruby shield's rank; {roman} is its prestige as a Roman numeral (II, III, ...)
+#: DarzasClient/DarzasDominion/Darza/Game/UI/RubyShieldVisuals.cs
+msgid "Ruby"
+msgstr ""
+
+#. a ruby shield's rank; {roman} is its prestige as a Roman numeral (II, III, ...)
+#: DarzasClient/DarzasDominion/Darza/Game/UI/RubyShieldVisuals.cs
+msgid "Ruby {roman}"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/ScoreLeaderboardRefreshNode.cs

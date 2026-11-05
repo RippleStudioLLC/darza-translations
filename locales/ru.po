@@ -12652,10 +12652,6 @@ msgid "World Loot Boost"
 msgstr ""
 
 #: DarzasDominion/DarzaGameServer/Worlds/Boosting/BoostBreakdowns.cs
-msgid "No effect here: this world's loot boost already gives it"
-msgstr ""
-
-#: DarzasDominion/DarzaGameServer/Worlds/Boosting/BoostBreakdowns.cs
 msgid "HATED"
 msgstr ""
 

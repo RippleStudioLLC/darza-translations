@@ -7096,6 +7096,18 @@ msgid ""
 "<c#ffff77>{PlatformBroker.Wiki_URL}<c/>"
 msgstr ""
 
+#: DarzasClient/DarzasDominion/Darza/Scenes/MainMenuScene.cs
+msgid "Updating game data..."
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Scenes/MainMenuScene.cs
+msgid "Restart required"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Scenes/MainMenuScene.cs
+msgid "The game was updated. Please restart it to finish."
+msgstr ""
+
 #: DarzasClient/DarzasDominion/Graphics/DarzaWindow.cs
 msgid "Your phone is running hot: frame rate limited to {after} fps until it cools. Max Fps in Options sets the ceiling."
 msgstr ""
@@ -11984,7 +11996,7 @@ msgid "The server is down for maintenance or an update. Please check our Discord
 msgstr ""
 
 #: DarzasDominion/DarzaGameServer/Networking/Game/Handlers/GmHelloHandler.cs
-msgid "Incorrect assets version. Please restart your game client to download the latest assets."
+msgid "Your game data is out of date. Press Play to update it, or restart the game."
 msgstr ""
 
 #: DarzasDominion/DarzaGameServer/Networking/Game/Handlers/GmHelloHandler.cs

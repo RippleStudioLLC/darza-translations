@@ -12,53 +12,53 @@ msgstr ""
 #: DarzasClient/DarzasDominion/Darza/Game/Boosts/ClientBoosts.cs
 #: DarzasDominion/DarzaGameServer/Worlds/Boosting/BoostBreakdowns.cs
 msgid "Loot Boost"
-msgstr ""
+msgstr "드랍 부스트"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Boosts/ClientBoosts.cs
 #: DarzasDominion/DarzaGameServer/Worlds/Boosting/BoostBreakdowns.cs
 msgid "Exp"
-msgstr ""
+msgstr "경험치"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Boosts/ClientBoosts.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/MarketBoard/MarketSellPage.cs
 #: DarzasDominion/DarzaGameServer/Worlds/Boosting/BoostBreakdowns.cs
 msgid "Silver"
-msgstr ""
+msgstr "실버"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Boosts/ClientBoosts.cs
 #: DarzasDominion/DarzaGameServer/Worlds/Boosting/BoostBreakdowns.cs
 msgid "Loot"
-msgstr ""
+msgstr "드랍"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Chat/ChatLinkView.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/BoostTooltip.cs
 msgid "Boosts"
-msgstr ""
+msgstr "부스트"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Components/DynamicObjectMessage.cs
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Entities/Character.cs
 #: DarzasClient/DarzasDominion/Darza/Game/ParticleSystems/Fx/Stage/FxStage.Scenes.cs
 msgid "Level Up"
-msgstr ""
+msgstr "레벨업"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/ContributionDisplay.cs
 msgid "Rank"
-msgstr ""
+msgstr "순위"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/ContributionDisplay.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/PartyListMenu.cs
 #: DarzasClient/DarzasDominion/Nodes/GameChatBox.cs
 msgid "Guild"
-msgstr ""
+msgstr "길드"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/ContributionDisplay.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/PartyListMenu.cs
 msgid "Name"
-msgstr ""
+msgstr "이름"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/ContributionDisplay.cs
 msgid "Points"
-msgstr ""
+msgstr "점수"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Entities/Character.cs
 msgid "+{dif} Exp"
@@ -66,11 +66,11 @@ msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Entities/Player.cs
 msgid "Not enough mana!"
-msgstr ""
+msgstr "마나 부족"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Entities/Player.cs
 msgid "Not enough Health!"
-msgstr ""
+msgstr "체력 부족"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Entities/Player.cs
 msgid "Ability available in {seconds} seconds!"
@@ -82,7 +82,7 @@ msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/AphroditeCraftingStation.cs
 msgid "Talk"
-msgstr ""
+msgstr "대화"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/AttainmentLeaderboard.cs
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/BuyGold.cs
@@ -98,12 +98,12 @@ msgstr ""
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Mobile/Tooltips/MobileCharacterTooltip.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Mobile/Tooltips/MobileNpcTooltip.cs
 msgid "Trade"
-msgstr ""
+msgstr "거래"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/BannerDisplay.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Gems/GemStorageMenu.cs
 msgid "Take"
-msgstr ""
+msgstr "획득"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/BrowseListings.cs
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/CreateListings.cs
@@ -150,7 +150,7 @@ msgstr ""
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/PetCustomizationStation.cs
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/SoloDungeonStatue.cs
 msgid "Cancel"
-msgstr ""
+msgstr "취소"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/BuyableItem.cs
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/ChainingPortal.cs
@@ -205,7 +205,7 @@ msgstr ""
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Components/ShopItemNode.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Hud/HudEditOverlay.cs
 msgid "No"
-msgstr ""
+msgstr "아니요"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/CharacterSlot.cs
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/CreateGuild.cs
@@ -214,15 +214,15 @@ msgstr ""
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Components/ShopItemNode.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Hud/HudEditOverlay.cs
 msgid "Yes"
-msgstr ""
+msgstr "네"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/CreateGuild.cs
 msgid "Leave Guild"
-msgstr ""
+msgstr "길드 탈퇴"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/CreateGuild.cs
 msgid "Leave Guild Confirmation"
-msgstr ""
+msgstr "길드 탈퇴 확인"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/CreateGuild.cs
 msgid "Are you sure you want to leave your guild?"
@@ -234,7 +234,7 @@ msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/DevLootShrine.cs
 msgid "boost 10%"
-msgstr ""
+msgstr "부스트 10%"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/GeeAnvil.cs
 msgid "Pound"
@@ -254,7 +254,7 @@ msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/LeeCraftingStation.cs
 msgid "Craft"
-msgstr ""
+msgstr "제작"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/LootShrine.cs
 msgid "Are you sure you want level up this loot shrine?"
@@ -271,7 +271,7 @@ msgstr ""
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/PetCustomizationStation.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/KylePages/AttainmentsMainMenu.cs
 msgid "Shop"
-msgstr ""
+msgstr "상점"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/PetCustomizationStation.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsMenu.cs
@@ -7404,11 +7404,11 @@ msgstr ""
 
 #: DarzasDominion/DarzaGameServer/Logic/Data/Advanced/DarzaBehaviors.cs
 msgid "I AM ETHEREAL!"
-msgstr ""
+msgstr "나는 초월체이다!"
 
 #: DarzasDominion/DarzaGameServer/Logic/Data/Advanced/DarzaBehaviors.cs
 msgid "I AM THE VOID!"
-msgstr ""
+msgstr "내가 곧 공허다!"
 
 #: DarzasDominion/DarzaGameServer/Logic/Data/Advanced/DarzaBehaviors.cs
 msgid "I've taken a new form..."

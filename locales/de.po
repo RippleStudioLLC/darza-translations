@@ -17,18 +17,18 @@ msgstr ""
 #: DarzasClient/DarzasDominion/Darza/Game/Boosts/ClientBoosts.cs
 #: DarzasDominion/DarzaGameServer/Worlds/Boosting/BoostBreakdowns.cs
 msgid "Exp"
-msgstr ""
+msgstr "EP"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Boosts/ClientBoosts.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/MarketBoard/MarketSellPage.cs
 #: DarzasDominion/DarzaGameServer/Worlds/Boosting/BoostBreakdowns.cs
 msgid "Silver"
-msgstr ""
+msgstr "Silber"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Boosts/ClientBoosts.cs
 #: DarzasDominion/DarzaGameServer/Worlds/Boosting/BoostBreakdowns.cs
 msgid "Loot"
-msgstr ""
+msgstr "Loot"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Chat/ChatLinkView.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/BoostTooltip.cs
@@ -39,50 +39,50 @@ msgstr ""
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Entities/Character.cs
 #: DarzasClient/DarzasDominion/Darza/Game/ParticleSystems/Fx/Stage/FxStage.Scenes.cs
 msgid "Level Up"
-msgstr ""
+msgstr "Levelaufstieg!"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/ContributionDisplay.cs
 msgid "Rank"
-msgstr ""
+msgstr "Rang"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/ContributionDisplay.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/PartyListMenu.cs
 #: DarzasClient/DarzasDominion/Nodes/GameChatBox.cs
 msgid "Guild"
-msgstr ""
+msgstr "Gilde"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/ContributionDisplay.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/PartyListMenu.cs
 msgid "Name"
-msgstr ""
+msgstr "Name"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/ContributionDisplay.cs
 msgid "Points"
-msgstr ""
+msgstr "Punkte"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Entities/Character.cs
 msgid "+{dif} Exp"
-msgstr ""
+msgstr "+{dif} EP"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Entities/Player.cs
 msgid "Not enough mana!"
-msgstr ""
+msgstr "Nicht genug Mana!"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Entities/Player.cs
 msgid "Not enough Health!"
-msgstr ""
+msgstr "Nicht genug Lebenspunkte!"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Entities/Player.cs
 msgid "Ability available in {seconds} seconds!"
-msgstr ""
+msgstr "Fähigkeit in {seconds} Sekunden wieder verfügbar!"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Entities/Player.cs
 msgid "Potion available in {seconds} seconds!"
-msgstr ""
+msgstr "Trank in {seconds} Sekunden wieder verfügbar!"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/AphroditeCraftingStation.cs
 msgid "Talk"
-msgstr ""
+msgstr "Reden"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/AttainmentLeaderboard.cs
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/BuyGold.cs
@@ -91,19 +91,19 @@ msgstr ""
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/GuildList.cs
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/TrialsLeaderboard.cs
 msgid "View"
-msgstr ""
+msgstr "Ansehen"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/AxisTradePost.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Menus/CharacterActions.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Mobile/Tooltips/MobileCharacterTooltip.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Mobile/Tooltips/MobileNpcTooltip.cs
 msgid "Trade"
-msgstr ""
+msgstr "Handeln"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/BannerDisplay.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Gems/GemStorageMenu.cs
 msgid "Take"
-msgstr ""
+msgstr "Nehmen"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/BrowseListings.cs
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/CreateListings.cs
@@ -112,13 +112,13 @@ msgstr ""
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/GemStorage.cs
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/NpcShop.cs
 msgid "Open"
-msgstr ""
+msgstr "Öffnen"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/BuyGold.cs
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/BuyPlatinum.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Alerts/Alert.cs
 msgid "Disconnect To Main Menu"
-msgstr ""
+msgstr "Zurück zum Hauptmenü"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/BuyGold.cs
 msgid "You will disconnect to the main menu to purchase Gold. Disconnect?"
@@ -127,7 +127,7 @@ msgstr ""
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/BuyPlatinum.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Alerts/Alert.cs
 msgid "You will disconnect to the main menu to purchase Platinum. Disconnect?"
-msgstr ""
+msgstr "Du kehrst zum Hauptmenü zurück, um Platin zu kaufen. Verbindung trennen?"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/BuyableItem.cs
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/CharacterSlot.cs
@@ -136,12 +136,12 @@ msgstr ""
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Alerts/Alert.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Components/ShopItemNode.cs
 msgid "Purchase Confirmation"
-msgstr ""
+msgstr "Kauf bestätigen"
 
 #. {0} is the price, such as "500 Gold", or the word "Free".
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/BuyableItem.cs
 msgid "Are you sure you want to purchase a Vault Chest for {0}?"
-msgstr ""
+msgstr "Möchtest du wirklich eine Lagertruhe für {0} kaufen?"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/BuyableItem.cs
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/ChainingPortal.cs
@@ -150,7 +150,7 @@ msgstr ""
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/PetCustomizationStation.cs
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/SoloDungeonStatue.cs
 msgid "Cancel"
-msgstr ""
+msgstr "Abbrechen"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/BuyableItem.cs
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/ChainingPortal.cs
@@ -159,44 +159,44 @@ msgstr ""
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/SoloDungeonStatue.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Slot.cs
 msgid "Ok"
-msgstr ""
+msgstr "OK"
 
 #. {1} is the price, such as "500 Gold", or the word "Free".
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/BuyableItem.cs
 msgid "Are you sure you want to purchase a <c#e8e881>{id}<c/> for {1}?"
-msgstr ""
+msgstr "Möchtest du wirklich <c#e8e881>{id}<c/> für {1} kaufen?"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/ChainingPortal.cs
 msgid "Chain Dungeon?"
-msgstr ""
+msgstr "Nächsten Dungeon öffnen?"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/ChainingPortal.cs
 msgid "Are you sure you want to chain this dungeon for <c{currencyColor}>{cost} {currencyName}<c/>?"
-msgstr ""
+msgstr "Möchtest du wirklich für <c{currencyColor}>{cost} {currencyName}<c/> den nächsten Dungeon öffnen?"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/ChainingPortal.cs
 msgid "Return to {destination}"
-msgstr ""
+msgstr "Zurück zu {destination}"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/ChainingPortal.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/PartyFinder/PartyFinderWindow.cs
 #: DarzasClient/DarzasDominion/Nodes/GameChatBox.cs
 msgid "Public"
-msgstr ""
+msgstr "Öffentlich"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/ChainingPortal.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/PartyFinder/PartyFinderWindow.cs
 msgid "Private"
-msgstr ""
+msgstr "Privat"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/ChangeCharacter.cs
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/Portal.cs
 msgid "Enter"
-msgstr ""
+msgstr "Betreten"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/CharacterSlot.cs
 msgid "Are you sure you want to buy a character slot for {wording}?"
-msgstr ""
+msgstr "Möchtest du wirklich einen Charakterplatz für {wording} kaufen?"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/CharacterSlot.cs
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/CreateGuild.cs
@@ -205,7 +205,7 @@ msgstr ""
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Components/ShopItemNode.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Hud/HudEditOverlay.cs
 msgid "No"
-msgstr ""
+msgstr "Nein"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/CharacterSlot.cs
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/CreateGuild.cs
@@ -214,27 +214,27 @@ msgstr ""
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Components/ShopItemNode.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Hud/HudEditOverlay.cs
 msgid "Yes"
-msgstr ""
+msgstr "Ja"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/CreateGuild.cs
 msgid "Leave Guild"
-msgstr ""
+msgstr "Gilde verlassen"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/CreateGuild.cs
 msgid "Leave Guild Confirmation"
-msgstr ""
+msgstr "Gildenaustritt bestätigen"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/CreateGuild.cs
 msgid "Are you sure you want to leave your guild?"
-msgstr ""
+msgstr "Möchtest du deine Gilde wirklich verlassen?"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/DeathDisplay.cs
 msgid "{_cost} - Revive"
-msgstr ""
+msgstr "{_cost} - Wiederbeleben"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/DevLootShrine.cs
 msgid "boost 10%"
-msgstr ""
+msgstr "10 % Bonus"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/GeeAnvil.cs
 msgid "Pound"
@@ -242,36 +242,36 @@ msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/Grave.cs
 msgid "Are you sure you want to pay respects?"
-msgstr ""
+msgstr "Möchtest du wirklich deinen Respekt erweisen?"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/GroundPickupable.cs
 msgid "Pick Up"
-msgstr ""
+msgstr "Aufheben"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/KyleShrine.cs
 msgid "smell the peony"
-msgstr ""
+msgstr "An der Pfingstrose schnuppern"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/LeeCraftingStation.cs
 msgid "Craft"
-msgstr ""
+msgstr "Herstellen"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/LootShrine.cs
 msgid "Are you sure you want level up this loot shrine?"
-msgstr ""
+msgstr "Möchtest du diesen Loot-Schrein wirklich aufwerten?"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/PetCustomizationStation.cs
 msgid "Customize"
-msgstr ""
+msgstr "Anpassen"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/PetCustomizationStation.cs
 msgid "Feature"
-msgstr ""
+msgstr "Präsentieren"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/PetCustomizationStation.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/KylePages/AttainmentsMainMenu.cs
 msgid "Shop"
-msgstr ""
+msgstr "Shop"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/PetCustomizationStation.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsMenu.cs
@@ -280,11 +280,11 @@ msgstr ""
 #: DarzasClient/DarzasDominion/Darza/Game/UI/ExchangeEssenceMenu.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/KylePages/AttainmentsDailyGoldMenu.cs
 msgid "Close"
-msgstr ""
+msgstr "Schließen"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/PetCustomizationStation.cs
 msgid "Feature Pet"
-msgstr ""
+msgstr "Begleiter präsentieren"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/PetCustomizationStation.cs
 msgid ""
@@ -300,7 +300,7 @@ msgstr ""
 #: DarzasClient/DarzasDominion/Darza/Game/UI/KylePages/PetCustomizationPage.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/TradeMenu.cs
 msgid "Confirm"
-msgstr ""
+msgstr "Bestätigen"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/PetCustomizationStation.cs
 msgid "Pet featured for {hours} hour(s)."
@@ -312,11 +312,11 @@ msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/Portal.cs
 msgid "Wish Luck"
-msgstr ""
+msgstr "Viel Glück!"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/Portal.cs
 msgid "<c#ff0000>Locked<c/>"
-msgstr ""
+msgstr "<c#ff0000>Gesperrt<c/>"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/Portal.cs
 msgid "Enter Seeded Run?"
@@ -335,19 +335,19 @@ msgstr ""
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Reroll/RerollMenu2.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/RerollMenu.cs
 msgid "Reroll"
-msgstr ""
+msgstr "Neu Würfeln"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/SoloDungeonStatue.cs
 msgid "Enter Solo Dungeon?"
-msgstr ""
+msgstr "Solo-Dungeon betreten?"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/SoloDungeonStatue.cs
 msgid "Spend <c{currencyColor}>{cost} {currencyName}<c/> to open a solo portal?"
-msgstr ""
+msgstr "<c{currencyColor}>{cost} {currencyName}<c/> ausgeben, um ein Solo-Portal zu öffnen?"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/TrialsLeaderboard.cs
 msgid "Keys"
-msgstr ""
+msgstr "Schlüssel"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/TypTradingBush.cs
 msgid "Steal Bud"
@@ -355,15 +355,15 @@ msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/pocquetteTradePost.cs
 msgid "squeek"
-msgstr ""
+msgstr "Pieps"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Alerts/Alert.cs
 msgid "I agree to the Terms of Service"
-msgstr ""
+msgstr "Ich stimme den Nutzungsbedingungen zu"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Alerts/Alert.cs
 msgid "I agree to follow the Player Guidelines"
-msgstr ""
+msgstr "Ich stimme zu, die Spielerrichtlinien einzuhalten"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Alerts/Alert.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentStageRewardNode.cs
@@ -372,60 +372,62 @@ msgstr ""
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/OptionPage.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Reroll/RerollMenu2.cs
 msgid "Okay"
-msgstr ""
+msgstr "Okay"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Alerts/Alert.cs
 msgid "<c#ffff77>Item will be returned to Inventory<c/>"
-msgstr ""
+msgstr "<c#ffff77>Gegenstand wird ins Inventar zurückgelegt<c/>"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Alerts/Alert.cs
 msgid "Unlist Confirmation"
-msgstr ""
+msgstr "Entfernen des Angebots bestätigen"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Alerts/Alert.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/MarketBoard/MarketSellPage.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/MobileGraphicsPage.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/PartyFinder/PartyFinderDetailWindow.cs
 msgid "Edit"
-msgstr ""
+msgstr "Bearbeiten"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Alerts/Alert.cs
 msgid "Edit Enlistment Confirmation"
-msgstr ""
+msgstr "Änderung des Angebots bestätigen"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Alerts/Alert.cs
 msgid "Enlist"
-msgstr ""
+msgstr "Anbieten"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Alerts/Alert.cs
 msgid "Enlistment Confirmation"
-msgstr ""
+msgstr "Angebot bestätigen"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Alerts/Alert.cs
 msgid ""
 "<c#ffff77>Item will be sent to Inventory\n"
 "(Gift Chest if full)<c/>"
 msgstr ""
+"<c#ffff77>Gegenstand wird ins Inventar gesendet\n"
+"(bei vollem Inventar in die Geschenktruhe)<c/>"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Alerts/Alert.cs
 msgid "Purchase"
-msgstr ""
+msgstr "Kaufen"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Alerts/Alert.cs
 msgid "<c#ffff77>Item will be sent to Inventory<c/>"
-msgstr ""
+msgstr "<c#ffff77>Gegenstand wird ins Inventar gesendet<c/>"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Alerts/Alert.cs
 msgid "Are you sure you want to swap these {cosmeticTypeName}?"
-msgstr ""
+msgstr "Möchtest du diese {cosmeticTypeName} wirklich tauschen?"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Alerts/Alert.cs
 msgid "Swap"
-msgstr ""
+msgstr "Tauschen"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Alerts/Alert.cs
 msgid "Swap Confirmation"
-msgstr ""
+msgstr "Tausch bestätigen"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Alerts/Alert.cs
 msgid ""
@@ -433,33 +435,36 @@ msgid ""
 "\n"
 "Would you like to set <c#ffff77>{oldOption}<c/> to <c#CC4444>None<c/>?"
 msgstr ""
+"<c#ffff77>{oldOption}<c/> verwendet bereits <c#ffff77>{key}<c/>.\n"
+"\n"
+"Möchtest du <c#ffff77>{oldOption}<c/> auf <c#CC4444>Nicht belegt<c/> setzen?"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Alerts/Alert.cs
 msgid "Both"
-msgstr ""
+msgstr "Beide"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Alerts/Alert.cs
 msgid "Key Already In Use"
-msgstr ""
+msgstr "Taste bereits belegt"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Alerts/Alert.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/MobileGraphicsPage.cs
 msgid "Set"
-msgstr ""
+msgstr "Festlegen"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Alerts/Alert.cs
 msgid "In Queue"
-msgstr ""
+msgstr "In der Warteschlange"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Alerts/Alert.cs
 msgid "Position #{queuePosition}"
-msgstr ""
+msgstr "Position #{queuePosition}"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Alerts/Alert.cs
 #: DarzasClient/DarzasDominion/Darza/Scenes/LoadingScene.cs
 #: DarzasClient/DarzasDominion/Darza/Scenes/MainMenuScene.cs
 msgid "Close Game"
-msgstr ""
+msgstr "Spiel schließen"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentCurrentScoreNode.cs
 msgid "Spendable Score: <c#{shieldColor}>{Player.MySpendableScore}<c/>"
@@ -467,11 +472,11 @@ msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentDisplayNode.cs
 msgid "Previous Step"
-msgstr ""
+msgstr "Vorheriger Schritt"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentDisplayNode.cs
 msgid "Next Step"
-msgstr ""
+msgstr "Nächster Schritt"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentDisplayNode.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/GuildMemberNode.cs
@@ -488,20 +493,20 @@ msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentDisplayNode.cs
 msgid "Completed"
-msgstr ""
+msgstr "Abgeschlossen"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentStageRewardNode.cs
 msgid "Dailies"
-msgstr ""
+msgstr "Tagesquests"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentStageRewardNode.cs
 msgid "Enter the game to claim your rewards."
-msgstr ""
+msgstr "Betritt das Spiel, um deine Belohnungen abzuholen."
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsMenu.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/KylePages/AttainmentsMainMenu.cs
 msgid "Attainments"
-msgstr ""
+msgstr "Errungenschaften"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsMenu.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/KylePages/AttainmentsDailyGoldMenu.cs
@@ -510,16 +515,16 @@ msgstr ""
 #: DarzasClient/DarzasDominion/Darza/Game/UI/KylePages/KyleAccountCustomizationMenu.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/KylePages/KyleCharacterCustomizationMenu.cs
 msgid "Back"
-msgstr ""
+msgstr "Zurück"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsMenu.cs
 msgid "Claiming..."
-msgstr ""
+msgstr "Wird abgeholt…"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsMenu.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/TrialsLeaderboardMenu.cs
 msgid "Daily"
-msgstr ""
+msgstr "Täglich"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsPage.cs
 msgid "Ruby Attainments"
@@ -542,28 +547,28 @@ msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/RubyRequirementIndicator.cs
 msgid "Coming Soon!"
-msgstr ""
+msgstr "Demnächst verfügbar!"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/ShieldRankNode.cs
 msgid "Shield Rank: <c#FFFFFF>0/0<c/>"
-msgstr ""
+msgstr "Schildrang: <c#FFFFFF>0/0<c/>"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/ShieldRankNode.cs
 msgid "Shield Rank: <c#{progressColor}>{progressText}<c/>"
-msgstr ""
+msgstr "Schildrang: <c#{progressColor}>{progressText}<c/>"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/TooltipObjects/ShieldRankInfo.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopShieldRankTooltip.cs
 msgid "Shield Rank"
-msgstr ""
+msgstr "Schildrang"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/BossHealthBar.cs
 msgid "You're already closest to this Boss!"
-msgstr ""
+msgstr "Du bist diesem Boss bereits am nächsten!"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/ClaimAllNode.cs
 msgid "Claim All"
-msgstr ""
+msgstr "Alles abholen"
 
 #. {2} is the name of a currency, such as "Gold".
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Components/ShopItemNode.cs
@@ -576,7 +581,7 @@ msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Components/WindowScalePopup.cs
 msgid "Window scale"
-msgstr ""
+msgstr "Fensterskalierung"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/ContainerDisplay.cs
 msgid "{holdVerb} to Quick Equip"
@@ -590,18 +595,18 @@ msgstr ""
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Mobile/MobileInput.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Mobile/MobileUI.cs
 msgid "Auto-Fire"
-msgstr ""
+msgstr "Auto-Feuer"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/DesktopInput.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopControlsPage.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Mobile/MobileUI.cs
 msgid "Aim Assist"
-msgstr ""
+msgstr "Zielhilfe"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/DesktopInput.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Mobile/MobileUI.cs
 msgid "Hide Players"
-msgstr ""
+msgstr "Spieler ausblenden"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/DesktopInventory.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/DesktopInventoryHidden.cs
@@ -614,47 +619,47 @@ msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/DesktopMMOUI.cs
 msgid "Character Unlocks"
-msgstr ""
+msgstr "Charakterfreischaltungen"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/DesktopMMOUI.cs
 msgid "Vault Unlocks"
-msgstr ""
+msgstr "Lagerfreischaltungen"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/DesktopMMOUI.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Mobile/MobileUI.cs
 msgid "Player List"
-msgstr ""
+msgstr "Spielerliste"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/DesktopMMOUI.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Mobile/MobileUI.cs
 msgid "Currencies"
-msgstr ""
+msgstr "Währungen"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/DesktopMMOUI.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/CharacterList/CharacterDetailPanel.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/ViewBuild/BuildWindow.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Mobile/MobileUI.cs
 msgid "Stats"
-msgstr ""
+msgstr "Attribute"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/DesktopMMOUI.cs
 msgid "Press"
-msgstr ""
+msgstr "Drücke"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/DesktopMMOUI.cs
 msgid "to close Map View"
-msgstr ""
+msgstr "um die Kartenansicht zu schließen"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/DesktopMMOUI.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/DesktopUI.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Mobile/MobileUI.cs
 msgid "Welcome to Darza's Dominion!"
-msgstr ""
+msgstr "Willkommen in Darza’s Dominion!"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/DesktopMMOUI.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/DesktopUI.cs
 msgid "Press Enter to send..."
-msgstr ""
+msgstr "Drücke Enter zum Senden…"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/DesktopMMOUI.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/DesktopUI.cs
@@ -663,18 +668,18 @@ msgstr ""
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/MarketBoard/MarketSellPage.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Reroll/RerollMenu2.cs
 msgid "Inventory"
-msgstr ""
+msgstr "Inventar"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/DesktopMMOUI.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/CharacterList/CharacterDetailPanel.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/ViewBuild/BuildWindow.cs
 msgid "Equipment"
-msgstr ""
+msgstr "Ausrüstung"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/DesktopUI.cs
 #: DarzasClient/DarzasDominion/Darza/Scenes/MainMenuScene.cs
 msgid "Opening URL"
-msgstr ""
+msgstr "Link wird geöffnet"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/DesktopUI.cs
 msgid "Attempting to open page in Web Browser. Are you sure you want to open <c#ffff77>{PlatformBroker.Discord_URL}<c/>"
@@ -685,13 +690,13 @@ msgstr ""
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/MarketBoard/MarketSellPage.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Reroll/RerollMenu2.cs
 msgid "Backpack"
-msgstr ""
+msgstr "Rucksack"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/DesktopUI.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Hud/GameClockDisplay.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Mobile/Tabs/MapTab.cs
 msgid "12:00 AM"
-msgstr ""
+msgstr "00:00 Uhr"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Hud/HudEditOverlay.cs
 msgid "HUD Layout - drag elements to move"
@@ -699,64 +704,64 @@ msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Hud/HudEditOverlay.cs
 msgid "Select an element to edit"
-msgstr ""
+msgstr "Wähle ein Element zum Bearbeiten aus"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Hud/HudEditOverlay.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopGraphicsPage.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/MobileGraphicsPage.cs
 msgid "Scale"
-msgstr ""
+msgstr "Skalierung"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Hud/HudEditOverlay.cs
 msgid "Visible"
-msgstr ""
+msgstr "Sichtbar"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Hud/HudEditOverlay.cs
 msgid "Shown"
-msgstr ""
+msgstr "Angezeigt"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Hud/HudEditOverlay.cs
 msgid "Undo"
-msgstr ""
+msgstr "Rückgängig"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Hud/HudEditOverlay.cs
 msgid "Redo"
-msgstr ""
+msgstr "Wiederholen"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Hud/HudEditOverlay.cs
 msgid "Copy"
-msgstr ""
+msgstr "Kopieren"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Hud/HudEditOverlay.cs
 msgid "Paste"
-msgstr ""
+msgstr "Einfügen"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Hud/HudEditOverlay.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/CharacterList/CharacterDetailPanel.cs
 msgid "History"
-msgstr ""
+msgstr "Verlauf"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Hud/HudEditOverlay.cs
 msgid "Save"
-msgstr ""
+msgstr "Speichern"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Hud/HudEditOverlay.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/ControllerBindingsPage.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/PartyFinder/PartyFinderSearchWindow.cs
 msgid "Reset"
-msgstr ""
+msgstr "Zurücksetzen"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Hud/HudEditOverlay.cs
 msgid "More"
-msgstr ""
+msgstr "Mehr"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Hud/HudEditOverlay.cs
 msgid "Tap an element to select it, drag it to move it"
-msgstr ""
+msgstr "Tippe auf ein Element, um es auszuwählen, und ziehe es, um es zu verschieben"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Hud/HudEditOverlay.cs
 msgid "Size"
-msgstr ""
+msgstr "Größe"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Hud/HudEditOverlay.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/MobileGraphicsPage.cs
@@ -821,92 +826,92 @@ msgstr ""
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Mobile/Tooltips/MobileCharacterTooltip.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Mobile/Tooltips/MobileNpcTooltip.cs
 msgid "Teleport"
-msgstr ""
+msgstr "Teleportieren"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Menus/CharacterActions.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Mobile/Tooltips/MobileCharacterTooltip.cs
 msgid "View Build"
-msgstr ""
+msgstr "Build ansehen"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Menus/CharacterActions.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Mobile/Tooltips/MobileCharacterTooltip.cs
 #: DarzasClient/DarzasDominion/Nodes/GameChatBox.cs
 msgid "Whisper"
-msgstr ""
+msgstr "Flüstern"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Menus/CharacterActions.cs
 msgid "Message"
-msgstr ""
+msgstr "Anschreiben"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Menus/CharacterActions.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Mobile/Tooltips/MobileCharacterTooltip.cs
 msgid "Lock"
-msgstr ""
+msgstr "Fixieren"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Menus/CharacterActions.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Mobile/Tooltips/MobileCharacterTooltip.cs
 msgid "Unlock"
-msgstr ""
+msgstr "Freigeben"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Menus/CharacterActions.cs
 msgid "Ignore"
-msgstr ""
+msgstr "Blockieren"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Menus/CharacterActions.cs
 msgid "Unignore"
-msgstr ""
+msgstr "Entblocken"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Menus/CharacterActions.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Mobile/Tooltips/MobileCharacterTooltip.cs
 msgid "Invite to Party"
-msgstr ""
+msgstr "In Gruppe einladen"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Menus/CharacterActions.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Mobile/Tooltips/MobileCharacterTooltip.cs
 msgid "Invite to Guild"
-msgstr ""
+msgstr "In Gilde einladen"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Menus/CharacterActions.cs
 msgid "Reforge"
-msgstr ""
+msgstr "Umschmieden"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Menus/CharacterActions.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/PartyFinder/PartyFinderWindow.cs
 msgid "Leave Party"
-msgstr ""
+msgstr "Gruppe verlassen"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Menus/CharacterActions.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Friends/FriendsWindow.cs
 msgid "Remove Friend"
-msgstr ""
+msgstr "Freund entfernen"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Menus/CharacterActions.cs
 msgid "Accept Friend"
-msgstr ""
+msgstr "Freundschaftsanfrage annehmen"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Menus/CharacterActions.cs
 msgid "Add Friend"
-msgstr ""
+msgstr "Freund hinzufügen"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Menus/CharacterActions.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/PartyFinder/PartyFinderWindow.cs
 #: DarzasClient/DarzasDominion/Nodes/GameChatBox.cs
 msgid "Join"
-msgstr ""
+msgstr "Beitreten"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Menus/CharacterActions.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Mobile/Tooltips/MobileCharacterTooltip.cs
 msgid "Promote to Leader"
-msgstr ""
+msgstr "Zum Gruppenleiter ernennen"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Menus/CharacterActions.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Mobile/Tooltips/MobileCharacterTooltip.cs
 msgid "Kick from Party"
-msgstr ""
+msgstr "Aus Gruppe entfernen"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Menus/DesktopCharactersList.cs
 msgid "No nearby characters"
-msgstr ""
+msgstr "Keine Charaktere in der Nähe"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/AttainmentsChroniclePageTooltip.cs
 msgid "chronicle blah blah edit this later"
@@ -1119,23 +1124,23 @@ msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Quest Item"
-msgstr ""
+msgstr "Auftragsgegenstand"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Crafting Material"
-msgstr ""
+msgstr "Herstellungsmaterial"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Emote Unlocker"
-msgstr ""
+msgstr "Emotefreischalter"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Title Unlocker"
-msgstr ""
+msgstr "Titelfreischalter"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Grave Unlocker"
-msgstr ""
+msgstr "Grabfreischalter"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Shield Unlocker"

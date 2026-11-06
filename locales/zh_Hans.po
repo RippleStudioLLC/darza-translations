@@ -12,34 +12,34 @@ msgstr ""
 #: DarzasClient/DarzasDominion/Darza/Game/Boosts/ClientBoosts.cs
 #: DarzasDominion/DarzaGameServer/Worlds/Boosting/BoostBreakdowns.cs
 msgid "Loot Boost"
-msgstr ""
+msgstr "爆率加成"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Boosts/ClientBoosts.cs
 #: DarzasDominion/DarzaGameServer/Worlds/Boosting/BoostBreakdowns.cs
 msgid "Exp"
-msgstr ""
+msgstr "经验"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Boosts/ClientBoosts.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/MarketBoard/MarketSellPage.cs
 #: DarzasDominion/DarzaGameServer/Worlds/Boosting/BoostBreakdowns.cs
 msgid "Silver"
-msgstr ""
+msgstr "银币"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Boosts/ClientBoosts.cs
 #: DarzasDominion/DarzaGameServer/Worlds/Boosting/BoostBreakdowns.cs
 msgid "Loot"
-msgstr ""
+msgstr "掉落物"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Chat/ChatLinkView.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/BoostTooltip.cs
 msgid "Boosts"
-msgstr ""
+msgstr "加成"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Components/DynamicObjectMessage.cs
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Entities/Character.cs
 #: DarzasClient/DarzasDominion/Darza/Game/ParticleSystems/Fx/Stage/FxStage.Scenes.cs
 msgid "Level Up"
-msgstr ""
+msgstr "升级"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/ContributionDisplay.cs
 msgid "Rank"
@@ -49,36 +49,36 @@ msgstr ""
 #: DarzasClient/DarzasDominion/Darza/Game/UI/PartyListMenu.cs
 #: DarzasClient/DarzasDominion/Nodes/GameChatBox.cs
 msgid "Guild"
-msgstr ""
+msgstr "公会"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/ContributionDisplay.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/PartyListMenu.cs
 msgid "Name"
-msgstr ""
+msgstr "名字"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/ContributionDisplay.cs
 msgid "Points"
-msgstr ""
+msgstr "点数"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Entities/Character.cs
 msgid "+{dif} Exp"
-msgstr ""
+msgstr "+{dif} 经验"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Entities/Player.cs
 msgid "Not enough mana!"
-msgstr ""
+msgstr "魔力不足！"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Entities/Player.cs
 msgid "Not enough Health!"
-msgstr ""
+msgstr "生命不足！"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Entities/Player.cs
 msgid "Ability available in {seconds} seconds!"
-msgstr ""
+msgstr "技能冷却还剩 {seconds} 秒"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Entities/Player.cs
 msgid "Potion available in {seconds} seconds!"
-msgstr ""
+msgstr "药水冷却还剩 {seconds} 秒"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/AphroditeCraftingStation.cs
 msgid "Talk"
@@ -91,14 +91,14 @@ msgstr ""
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/GuildList.cs
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/TrialsLeaderboard.cs
 msgid "View"
-msgstr ""
+msgstr "查看"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/AxisTradePost.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Menus/CharacterActions.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Mobile/Tooltips/MobileCharacterTooltip.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Mobile/Tooltips/MobileNpcTooltip.cs
 msgid "Trade"
-msgstr ""
+msgstr "交易"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/BannerDisplay.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Gems/GemStorageMenu.cs
@@ -112,22 +112,22 @@ msgstr ""
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/GemStorage.cs
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/NpcShop.cs
 msgid "Open"
-msgstr ""
+msgstr "打开"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/BuyGold.cs
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/BuyPlatinum.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Alerts/Alert.cs
 msgid "Disconnect To Main Menu"
-msgstr ""
+msgstr "断开连接，返回主菜单"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/BuyGold.cs
 msgid "You will disconnect to the main menu to purchase Gold. Disconnect?"
-msgstr ""
+msgstr "将返回到主菜单以购买金币。继续吗？"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/BuyPlatinum.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Alerts/Alert.cs
 msgid "You will disconnect to the main menu to purchase Platinum. Disconnect?"
-msgstr ""
+msgstr "将返回到主菜单以购买白金币。继续吗？"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/BuyableItem.cs
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/CharacterSlot.cs
@@ -136,12 +136,12 @@ msgstr ""
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Alerts/Alert.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Components/ShopItemNode.cs
 msgid "Purchase Confirmation"
-msgstr ""
+msgstr "购买确认"
 
 #. {0} is the price, such as "500 Gold", or the word "Free".
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/BuyableItem.cs
 msgid "Are you sure you want to purchase a Vault Chest for {0}?"
-msgstr ""
+msgstr "确定要花费 {0} 来购买一个储物箱吗？"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/BuyableItem.cs
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/ChainingPortal.cs
@@ -150,7 +150,7 @@ msgstr ""
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/PetCustomizationStation.cs
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/SoloDungeonStatue.cs
 msgid "Cancel"
-msgstr ""
+msgstr "取消"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/BuyableItem.cs
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/ChainingPortal.cs
@@ -159,24 +159,24 @@ msgstr ""
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/SoloDungeonStatue.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Slot.cs
 msgid "Ok"
-msgstr ""
+msgstr "确认"
 
 #. {1} is the price, such as "500 Gold", or the word "Free".
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/BuyableItem.cs
 msgid "Are you sure you want to purchase a <c#e8e881>{id}<c/> for {1}?"
-msgstr ""
+msgstr "确定要花费 {1} 来购买 <c#e8e881>{id}<c/> 吗？"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/ChainingPortal.cs
 msgid "Chain Dungeon?"
-msgstr ""
+msgstr "再次挑战？"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/ChainingPortal.cs
 msgid "Are you sure you want to chain this dungeon for <c{currencyColor}>{cost} {currencyName}<c/>?"
-msgstr ""
+msgstr "确定要花费 <c{currencyColor}>{cost} {currencyName}<c/> 来再次挑战副本吗？"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/ChainingPortal.cs
 msgid "Return to {destination}"
-msgstr ""
+msgstr "返回到 {destination}"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/ChainingPortal.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/PartyFinder/PartyFinderWindow.cs
@@ -192,11 +192,11 @@ msgstr ""
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/ChangeCharacter.cs
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/Portal.cs
 msgid "Enter"
-msgstr ""
+msgstr "进入"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/CharacterSlot.cs
 msgid "Are you sure you want to buy a character slot for {wording}?"
-msgstr ""
+msgstr "确定花费 {wording} 来购买一个角色栏吗？"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/CharacterSlot.cs
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/CreateGuild.cs
@@ -205,7 +205,7 @@ msgstr ""
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Components/ShopItemNode.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Hud/HudEditOverlay.cs
 msgid "No"
-msgstr ""
+msgstr "不要"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/CharacterSlot.cs
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/CreateGuild.cs
@@ -214,15 +214,15 @@ msgstr ""
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Components/ShopItemNode.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Hud/HudEditOverlay.cs
 msgid "Yes"
-msgstr ""
+msgstr "要"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/CreateGuild.cs
 msgid "Leave Guild"
-msgstr ""
+msgstr "离开公会"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/CreateGuild.cs
 msgid "Leave Guild Confirmation"
-msgstr ""
+msgstr "退出公会"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/CreateGuild.cs
 msgid "Are you sure you want to leave your guild?"
@@ -230,11 +230,11 @@ msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/DeathDisplay.cs
 msgid "{_cost} - Revive"
-msgstr ""
+msgstr "{_cost} - 复活"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/DevLootShrine.cs
 msgid "boost 10%"
-msgstr ""
+msgstr "10% 加成"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/GeeAnvil.cs
 msgid "Pound"
@@ -242,11 +242,11 @@ msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/Grave.cs
 msgid "Are you sure you want to pay respects?"
-msgstr ""
+msgstr "确定要表达敬意吗？"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/GroundPickupable.cs
 msgid "Pick Up"
-msgstr ""
+msgstr "拾起"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/KyleShrine.cs
 msgid "smell the peony"
@@ -258,11 +258,11 @@ msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/LootShrine.cs
 msgid "Are you sure you want level up this loot shrine?"
-msgstr ""
+msgstr "确定要升级战利品圣坛吗？"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/PetCustomizationStation.cs
 msgid "Customize"
-msgstr ""
+msgstr "自定义"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/PetCustomizationStation.cs
 msgid "Feature"
@@ -271,7 +271,7 @@ msgstr ""
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/PetCustomizationStation.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/KylePages/AttainmentsMainMenu.cs
 msgid "Shop"
-msgstr ""
+msgstr "商店"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/PetCustomizationStation.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsMenu.cs
@@ -280,11 +280,11 @@ msgstr ""
 #: DarzasClient/DarzasDominion/Darza/Game/UI/ExchangeEssenceMenu.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/KylePages/AttainmentsDailyGoldMenu.cs
 msgid "Close"
-msgstr ""
+msgstr "关闭"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/PetCustomizationStation.cs
 msgid "Feature Pet"
-msgstr ""
+msgstr "展示宠物"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/PetCustomizationStation.cs
 msgid ""
@@ -292,6 +292,9 @@ msgid ""
 "\n"
 "Duration: <c#e8e881>12 hours<c/>."
 msgstr ""
+"花费 <c#e8e881>{FeatureCostGold} 金币<c/>在酒馆宠物区展示 <c#e8e881>{petName}<c/> ？\n"
+"\n"
+"时长: <c#e8e881>12小时<c/>"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/PetCustomizationStation.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Alerts/Alert.cs
@@ -300,7 +303,7 @@ msgstr ""
 #: DarzasClient/DarzasDominion/Darza/Game/UI/KylePages/PetCustomizationPage.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/TradeMenu.cs
 msgid "Confirm"
-msgstr ""
+msgstr "确认"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/PetCustomizationStation.cs
 msgid "Pet featured for {hours} hour(s)."
@@ -308,19 +311,19 @@ msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/Portal.cs
 msgid "Call"
-msgstr ""
+msgstr "呼叫"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/Portal.cs
 msgid "Wish Luck"
-msgstr ""
+msgstr "祝你好运"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/Portal.cs
 msgid "<c#ff0000>Locked<c/>"
-msgstr ""
+msgstr "<c#ff0000>已锁定<c/>"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/Portal.cs
 msgid "Enter Seeded Run?"
-msgstr ""
+msgstr "进入种子挑战？"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/Portal.cs
 msgid ""
@@ -330,24 +333,29 @@ msgid ""
 "\n"
 "Do you want to enter?"
 msgstr ""
+"这个种子挑战需要消耗 <c#FFD128>{seededEntryCost} 可用积分<c/>。\n"
+"\n"
+"<c#FF1E14>此费用仅在进入时扣除<c/>。\n"
+"\n"
+"确定要进入吗？"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/Reroll.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Reroll/RerollMenu2.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/RerollMenu.cs
 msgid "Reroll"
-msgstr ""
+msgstr "重塑"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/SoloDungeonStatue.cs
 msgid "Enter Solo Dungeon?"
-msgstr ""
+msgstr "进入单人副本？"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/SoloDungeonStatue.cs
 msgid "Spend <c{currencyColor}>{cost} {currencyName}<c/> to open a solo portal?"
-msgstr ""
+msgstr "消耗 <c{currencyColor}>{cost} {currencyName}<c/> 来开启单人传送门？"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/TrialsLeaderboard.cs
 msgid "Keys"
-msgstr ""
+msgstr "钥匙"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/TypTradingBush.cs
 msgid "Steal Bud"
@@ -359,11 +367,11 @@ msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Alerts/Alert.cs
 msgid "I agree to the Terms of Service"
-msgstr ""
+msgstr "我同意《服务条款》"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Alerts/Alert.cs
 msgid "I agree to follow the Player Guidelines"
-msgstr ""
+msgstr "我同意遵守《玩家守则》"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Alerts/Alert.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentStageRewardNode.cs
@@ -372,60 +380,62 @@ msgstr ""
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/OptionPage.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Reroll/RerollMenu2.cs
 msgid "Okay"
-msgstr ""
+msgstr "好的"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Alerts/Alert.cs
 msgid "<c#ffff77>Item will be returned to Inventory<c/>"
-msgstr ""
+msgstr "<c#ffff77>物品将返还至背包<c/>"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Alerts/Alert.cs
 msgid "Unlist Confirmation"
-msgstr ""
+msgstr "下架确认"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Alerts/Alert.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/MarketBoard/MarketSellPage.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/MobileGraphicsPage.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/PartyFinder/PartyFinderDetailWindow.cs
 msgid "Edit"
-msgstr ""
+msgstr "修改"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Alerts/Alert.cs
 msgid "Edit Enlistment Confirmation"
-msgstr ""
+msgstr "修改上架确认"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Alerts/Alert.cs
 msgid "Enlist"
-msgstr ""
+msgstr "上架"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Alerts/Alert.cs
 msgid "Enlistment Confirmation"
-msgstr ""
+msgstr "上架确认"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Alerts/Alert.cs
 msgid ""
 "<c#ffff77>Item will be sent to Inventory\n"
 "(Gift Chest if full)<c/>"
 msgstr ""
+"<c#ffff77>物品将发送至背包\n"
+"(若背包已满，则发送至礼物箱)<c/>"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Alerts/Alert.cs
 msgid "Purchase"
-msgstr ""
+msgstr "购买"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Alerts/Alert.cs
 msgid "<c#ffff77>Item will be sent to Inventory<c/>"
-msgstr ""
+msgstr "<c#ffff77>物品将发送至背包<c/>"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Alerts/Alert.cs
 msgid "Are you sure you want to swap these {cosmeticTypeName}?"
-msgstr ""
+msgstr "确定要替换这个 {cosmeticTypeName} ？"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Alerts/Alert.cs
 msgid "Swap"
-msgstr ""
+msgstr "替换"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Alerts/Alert.cs
 msgid "Swap Confirmation"
-msgstr ""
+msgstr "替换确认"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Alerts/Alert.cs
 msgid ""
@@ -433,14 +443,19 @@ msgid ""
 "\n"
 "Would you like to set <c#ffff77>{oldOption}<c/> to <c#CC4444>None<c/>?"
 msgstr ""
+"按键 <c#ffff77>{key}<c/> 已分配给 <c#ffff77>{oldOption}<c/> 。\n"
+"\n"
+"此操作将导致 <c#ffff77>{oldOption}<c/> 的按键设置为<c#CC4444>无<c/>\n"
+"\n"
+"确定操作吗？"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Alerts/Alert.cs
 msgid "Both"
-msgstr ""
+msgstr "两者都选"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Alerts/Alert.cs
 msgid "Key Already In Use"
-msgstr ""
+msgstr "按键已被占用"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Alerts/Alert.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/MobileGraphicsPage.cs
@@ -449,7 +464,7 @@ msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Alerts/Alert.cs
 msgid "In Queue"
-msgstr ""
+msgstr "排队中"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Alerts/Alert.cs
 msgid "Position #{queuePosition}"
@@ -459,19 +474,19 @@ msgstr ""
 #: DarzasClient/DarzasDominion/Darza/Scenes/LoadingScene.cs
 #: DarzasClient/DarzasDominion/Darza/Scenes/MainMenuScene.cs
 msgid "Close Game"
-msgstr ""
+msgstr "关闭游戏"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentCurrentScoreNode.cs
 msgid "Spendable Score: <c#{shieldColor}>{Player.MySpendableScore}<c/>"
-msgstr ""
+msgstr "可用积分: <c#{shieldColor}>{Player.MySpendableScore}<c/>"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentDisplayNode.cs
 msgid "Previous Step"
-msgstr ""
+msgstr "上一步"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentDisplayNode.cs
 msgid "Next Step"
-msgstr ""
+msgstr "下一步"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentDisplayNode.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/GuildMemberNode.cs
@@ -480,28 +495,28 @@ msgstr ""
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GamePackages/BuyPackageButton.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildListMenu.cs
 msgid "Error"
-msgstr ""
+msgstr "错误"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentDisplayNode.cs
 msgid "Please wait {remainingSec}s before tracking/untracking again."
-msgstr ""
+msgstr "请等待 {remainingSec} 秒后再进行追踪/取消追踪"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentDisplayNode.cs
 msgid "Completed"
-msgstr ""
+msgstr "已完成"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentStageRewardNode.cs
 msgid "Dailies"
-msgstr ""
+msgstr "日常"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentStageRewardNode.cs
 msgid "Enter the game to claim your rewards."
-msgstr ""
+msgstr "进入游戏以领取奖励"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsMenu.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/KylePages/AttainmentsMainMenu.cs
 msgid "Attainments"
-msgstr ""
+msgstr "成就"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsMenu.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/KylePages/AttainmentsDailyGoldMenu.cs
@@ -510,7 +525,7 @@ msgstr ""
 #: DarzasClient/DarzasDominion/Darza/Game/UI/KylePages/KyleAccountCustomizationMenu.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/KylePages/KyleCharacterCustomizationMenu.cs
 msgid "Back"
-msgstr ""
+msgstr "返回"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsMenu.cs
 msgid "Claiming..."
@@ -519,7 +534,7 @@ msgstr ""
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsMenu.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/TrialsLeaderboardMenu.cs
 msgid "Daily"
-msgstr ""
+msgstr "日常"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsPage.cs
 msgid "Ruby Attainments"
@@ -532,7 +547,7 @@ msgstr ""
 #. {0} is the name of a category.
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsPage.cs
 msgid "Search {0} Attainments"
-msgstr ""
+msgstr "搜索 {0} 成就"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/RubyRequirementIndicator.cs
 msgid ""
@@ -542,33 +557,33 @@ msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/RubyRequirementIndicator.cs
 msgid "Coming Soon!"
-msgstr ""
+msgstr "即将到来！"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/ShieldRankNode.cs
 msgid "Shield Rank: <c#FFFFFF>0/0<c/>"
-msgstr ""
+msgstr "盾牌段位: <c#FFFFFF>0/0<c/>"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/ShieldRankNode.cs
 msgid "Shield Rank: <c#{progressColor}>{progressText}<c/>"
-msgstr ""
+msgstr "盾牌段位: <c#{progressColor}>{progressText}<c/>"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/TooltipObjects/ShieldRankInfo.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopShieldRankTooltip.cs
 msgid "Shield Rank"
-msgstr ""
+msgstr "盾牌段位"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/BossHealthBar.cs
 msgid "You're already closest to this Boss!"
-msgstr ""
+msgstr "你已是最接近该首领的玩家！"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/ClaimAllNode.cs
 msgid "Claim All"
-msgstr ""
+msgstr "领取全部"
 
 #. {2} is the name of a currency, such as "Gold".
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Components/ShopItemNode.cs
 msgid "Are you sure you want to buy <c#e8e881>{data.Id}<c/> for {data.Price} {2}?"
-msgstr ""
+msgstr "确定要花费 {data.Price} {2} 来购买 <c#e8e881>{data.Id}<c/> 吗？"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Components/TooltipLinkButton.cs
 msgid "Link in chat"
@@ -576,32 +591,32 @@ msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Components/WindowScalePopup.cs
 msgid "Window scale"
-msgstr ""
+msgstr "窗口比例"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/ContainerDisplay.cs
 msgid "{holdVerb} to Quick Equip"
-msgstr ""
+msgstr "按住 {holdVerb} 以快速装备"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/ContainerDisplay.cs
 msgid "{holdVerb} to Quick Consume"
-msgstr ""
+msgstr "按住 {holdVerb} 以快速使用物品"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/DesktopInput.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Mobile/MobileInput.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Mobile/MobileUI.cs
 msgid "Auto-Fire"
-msgstr ""
+msgstr "自动开火"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/DesktopInput.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopControlsPage.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Mobile/MobileUI.cs
 msgid "Aim Assist"
-msgstr ""
+msgstr "辅助瞄准"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/DesktopInput.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Mobile/MobileUI.cs
 msgid "Hide Players"
-msgstr ""
+msgstr "隐藏其他玩家"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/DesktopInventory.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/DesktopInventoryHidden.cs
@@ -610,32 +625,32 @@ msgstr ""
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Mobile/MobileUI.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Mobile/Tabs/CharactersTab.cs
 msgid "LV {level}"
-msgstr ""
+msgstr "等级 {level}"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/DesktopMMOUI.cs
 msgid "Character Unlocks"
-msgstr ""
+msgstr "解锁角色"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/DesktopMMOUI.cs
 msgid "Vault Unlocks"
-msgstr ""
+msgstr "解锁储物箱"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/DesktopMMOUI.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Mobile/MobileUI.cs
 msgid "Player List"
-msgstr ""
+msgstr "玩家列表"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/DesktopMMOUI.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Mobile/MobileUI.cs
 msgid "Currencies"
-msgstr ""
+msgstr "币种"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/DesktopMMOUI.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/CharacterList/CharacterDetailPanel.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/ViewBuild/BuildWindow.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Mobile/MobileUI.cs
 msgid "Stats"
-msgstr ""
+msgstr "属性"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/DesktopMMOUI.cs
 msgid "Press"
@@ -643,13 +658,13 @@ msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/DesktopMMOUI.cs
 msgid "to close Map View"
-msgstr ""
+msgstr "关闭地图"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/DesktopMMOUI.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/DesktopUI.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Mobile/MobileUI.cs
 msgid "Welcome to Darza's Dominion!"
-msgstr ""
+msgstr "欢迎来到 Darza's Dominion ！"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/DesktopMMOUI.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/DesktopUI.cs
@@ -663,133 +678,135 @@ msgstr ""
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/MarketBoard/MarketSellPage.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Reroll/RerollMenu2.cs
 msgid "Inventory"
-msgstr ""
+msgstr "背包"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/DesktopMMOUI.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/CharacterList/CharacterDetailPanel.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/ViewBuild/BuildWindow.cs
 msgid "Equipment"
-msgstr ""
+msgstr "装备"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/DesktopUI.cs
 #: DarzasClient/DarzasDominion/Darza/Scenes/MainMenuScene.cs
 msgid "Opening URL"
-msgstr ""
+msgstr "打开 URL 中"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/DesktopUI.cs
 msgid "Attempting to open page in Web Browser. Are you sure you want to open <c#ffff77>{PlatformBroker.Discord_URL}<c/>"
 msgstr ""
+"正在尝试使用网页浏览器来打开此页面。\n"
+"你确定要打开 <c#ffff77>{PlatformBroker.Discord_URL}<c/> 吗？"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/DesktopUI.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Gems/GemStorageMenu.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/MarketBoard/MarketSellPage.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Reroll/RerollMenu2.cs
 msgid "Backpack"
-msgstr ""
+msgstr "额外背包"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/DesktopUI.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Hud/GameClockDisplay.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Mobile/Tabs/MapTab.cs
 msgid "12:00 AM"
-msgstr ""
+msgstr "12:00 AM"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Hud/HudEditOverlay.cs
 msgid "HUD Layout - drag elements to move"
-msgstr ""
+msgstr "HUD 布局 - 拖动元素以移动位置"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Hud/HudEditOverlay.cs
 msgid "Select an element to edit"
-msgstr ""
+msgstr "选择要编辑的元素"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Hud/HudEditOverlay.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopGraphicsPage.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/MobileGraphicsPage.cs
 msgid "Scale"
-msgstr ""
+msgstr "比例"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Hud/HudEditOverlay.cs
 msgid "Visible"
-msgstr ""
+msgstr "显示"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Hud/HudEditOverlay.cs
 msgid "Shown"
-msgstr ""
+msgstr "已显示"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Hud/HudEditOverlay.cs
 msgid "Undo"
-msgstr ""
+msgstr "撤销"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Hud/HudEditOverlay.cs
 msgid "Redo"
-msgstr ""
+msgstr "重做"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Hud/HudEditOverlay.cs
 msgid "Copy"
-msgstr ""
+msgstr "复制"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Hud/HudEditOverlay.cs
 msgid "Paste"
-msgstr ""
+msgstr "粘贴"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Hud/HudEditOverlay.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/CharacterList/CharacterDetailPanel.cs
 msgid "History"
-msgstr ""
+msgstr "历史"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Hud/HudEditOverlay.cs
 msgid "Save"
-msgstr ""
+msgstr "保存"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Hud/HudEditOverlay.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/ControllerBindingsPage.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/PartyFinder/PartyFinderSearchWindow.cs
 msgid "Reset"
-msgstr ""
+msgstr "重置"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Hud/HudEditOverlay.cs
 msgid "More"
-msgstr ""
+msgstr "更多"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Hud/HudEditOverlay.cs
 msgid "Tap an element to select it, drag it to move it"
-msgstr ""
+msgstr "点击选中元素，拖动即可移动"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Hud/HudEditOverlay.cs
 msgid "Size"
-msgstr ""
+msgstr "大小"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Hud/HudEditOverlay.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/MobileGraphicsPage.cs
 msgid "HUD Layout"
-msgstr ""
+msgstr "HUD 布局"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Hud/HudEditOverlay.cs
 msgid "Nothing to undo."
-msgstr ""
+msgstr "没有可撤销的操作。"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Hud/HudEditOverlay.cs
 msgid "Nothing to redo."
-msgstr ""
+msgstr "没有可重做的操作。"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Hud/HudEditOverlay.cs
 msgid "Couldn't build a HUD code."
-msgstr ""
+msgstr "无法生成 HUD 代码"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Hud/HudEditOverlay.cs
 msgid "HUD code copied to your clipboard - paste it to share."
-msgstr ""
+msgstr "HUD 代码已复制到剪贴板 - 粘贴即可分享。"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Hud/HudEditOverlay.cs
 msgid "Clipboard is empty - copy a HUD code first."
-msgstr ""
+msgstr "剪贴板为空 - 请先复制 HUD 代码。"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Hud/HudEditOverlay.cs
 msgid "Clipboard doesn't contain a valid HUD code."
-msgstr ""
+msgstr "剪贴板中不包含有效的 HUD 代码。"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Hud/HudEditOverlay.cs
 msgid "HUD code applied."
-msgstr ""
+msgstr "HUD 代码已应用。"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Hud/HudEditOverlay.cs
 msgid "No HUD codes yet - Copy records one here."
@@ -918,23 +935,23 @@ msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/AttainmentsLeaderboardPageTooltip.cs
 msgid "leaderboard blah blah edit this later"
-msgstr ""
+msgstr "排行榜"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/AttainmentsShopPageTooltip.cs
 msgid "shop blah blah edit this later"
-msgstr ""
+msgstr "商店"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/AttainmentsTitlesPageTooltip.cs
 msgid "titles blah blah edit this later"
-msgstr ""
+msgstr "称号"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/BoostTooltip.cs
 msgid "No boosts right now."
-msgstr ""
+msgstr "目前没有加成"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/BoostTooltip.cs
 msgid "{left} paused"
-msgstr ""
+msgstr "{left} 暂停"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopAccountCustomizationMenuTooltip.cs
 msgid ""

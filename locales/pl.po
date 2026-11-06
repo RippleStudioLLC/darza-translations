@@ -12,34 +12,34 @@ msgstr ""
 #: DarzasClient/DarzasDominion/Darza/Game/Boosts/ClientBoosts.cs
 #: DarzasDominion/DarzaGameServer/Worlds/Boosting/BoostBreakdowns.cs
 msgid "Loot Boost"
-msgstr ""
+msgstr "Premia do Łupów"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Boosts/ClientBoosts.cs
 #: DarzasDominion/DarzaGameServer/Worlds/Boosting/BoostBreakdowns.cs
 msgid "Exp"
-msgstr ""
+msgstr "Doświadczenie"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Boosts/ClientBoosts.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/MarketBoard/MarketSellPage.cs
 #: DarzasDominion/DarzaGameServer/Worlds/Boosting/BoostBreakdowns.cs
 msgid "Silver"
-msgstr ""
+msgstr "Srebro"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Boosts/ClientBoosts.cs
 #: DarzasDominion/DarzaGameServer/Worlds/Boosting/BoostBreakdowns.cs
 msgid "Loot"
-msgstr ""
+msgstr "Łup"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Chat/ChatLinkView.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/BoostTooltip.cs
 msgid "Boosts"
-msgstr ""
+msgstr "Wzmocnienia"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Components/DynamicObjectMessage.cs
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Entities/Character.cs
 #: DarzasClient/DarzasDominion/Darza/Game/ParticleSystems/Fx/Stage/FxStage.Scenes.cs
 msgid "Level Up"
-msgstr ""
+msgstr "Nowy Poziom"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/ContributionDisplay.cs
 msgid "Rank"
@@ -49,7 +49,7 @@ msgstr ""
 #: DarzasClient/DarzasDominion/Darza/Game/UI/PartyListMenu.cs
 #: DarzasClient/DarzasDominion/Nodes/GameChatBox.cs
 msgid "Guild"
-msgstr ""
+msgstr "Gildia"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/ContributionDisplay.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/PartyListMenu.cs
@@ -58,19 +58,19 @@ msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/ContributionDisplay.cs
 msgid "Points"
-msgstr ""
+msgstr "Punkty"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Entities/Character.cs
 msgid "+{dif} Exp"
-msgstr ""
+msgstr "+{dif} Doświadczenia"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Entities/Player.cs
 msgid "Not enough mana!"
-msgstr ""
+msgstr "Niewystarczająco many!"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Entities/Player.cs
 msgid "Not enough Health!"
-msgstr ""
+msgstr "Niewystarczająco Zdrowia!"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Entities/Player.cs
 msgid "Ability available in {seconds} seconds!"
@@ -82,7 +82,7 @@ msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/AphroditeCraftingStation.cs
 msgid "Talk"
-msgstr ""
+msgstr "Mów"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/AttainmentLeaderboard.cs
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/BuyGold.cs
@@ -98,12 +98,12 @@ msgstr ""
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Mobile/Tooltips/MobileCharacterTooltip.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Mobile/Tooltips/MobileNpcTooltip.cs
 msgid "Trade"
-msgstr ""
+msgstr "Wymiana"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/BannerDisplay.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Gems/GemStorageMenu.cs
 msgid "Take"
-msgstr ""
+msgstr "Weź"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/BrowseListings.cs
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/CreateListings.cs
@@ -112,22 +112,22 @@ msgstr ""
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/GemStorage.cs
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/NpcShop.cs
 msgid "Open"
-msgstr ""
+msgstr "Otwórz"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/BuyGold.cs
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/BuyPlatinum.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Alerts/Alert.cs
 msgid "Disconnect To Main Menu"
-msgstr ""
+msgstr "Powrót do menu głównego"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/BuyGold.cs
 msgid "You will disconnect to the main menu to purchase Gold. Disconnect?"
-msgstr ""
+msgstr "Nastąpi powrót do menu głównego, aby zakupić złoto. Rozłączyć?"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/BuyPlatinum.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Alerts/Alert.cs
 msgid "You will disconnect to the main menu to purchase Platinum. Disconnect?"
-msgstr ""
+msgstr "Nastąpi powrót do menu głównego, aby zakupić Platynę. Rozłączyć?"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/BuyableItem.cs
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/CharacterSlot.cs
@@ -136,12 +136,12 @@ msgstr ""
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Alerts/Alert.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Components/ShopItemNode.cs
 msgid "Purchase Confirmation"
-msgstr ""
+msgstr "Potwierdzenie Zakupu"
 
 #. {0} is the price, such as "500 Gold", or the word "Free".
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/BuyableItem.cs
 msgid "Are you sure you want to purchase a Vault Chest for {0}?"
-msgstr ""
+msgstr "Czy na pewno chcesz kupić Skrzynię w Skarbcu za {0}?"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/BuyableItem.cs
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/ChainingPortal.cs
@@ -150,7 +150,7 @@ msgstr ""
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/PetCustomizationStation.cs
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/SoloDungeonStatue.cs
 msgid "Cancel"
-msgstr ""
+msgstr "Anuluj"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/BuyableItem.cs
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/ChainingPortal.cs
@@ -159,7 +159,7 @@ msgstr ""
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/SoloDungeonStatue.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Slot.cs
 msgid "Ok"
-msgstr ""
+msgstr "Okej"
 
 #. {1} is the price, such as "500 Gold", or the word "Free".
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/BuyableItem.cs
@@ -168,7 +168,7 @@ msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/ChainingPortal.cs
 msgid "Chain Dungeon?"
-msgstr ""
+msgstr "Powtórzyć loch?"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/ChainingPortal.cs
 msgid "Are you sure you want to chain this dungeon for <c{currencyColor}>{cost} {currencyName}<c/>?"
@@ -176,27 +176,27 @@ msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/ChainingPortal.cs
 msgid "Return to {destination}"
-msgstr ""
+msgstr "Powrót do {destination}"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/ChainingPortal.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/PartyFinder/PartyFinderWindow.cs
 #: DarzasClient/DarzasDominion/Nodes/GameChatBox.cs
 msgid "Public"
-msgstr ""
+msgstr "Publiczny"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/ChainingPortal.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/PartyFinder/PartyFinderWindow.cs
 msgid "Private"
-msgstr ""
+msgstr "Prywatny"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/ChangeCharacter.cs
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/Portal.cs
 msgid "Enter"
-msgstr ""
+msgstr "Wejdź"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/CharacterSlot.cs
 msgid "Are you sure you want to buy a character slot for {wording}?"
-msgstr ""
+msgstr "Czy na pewno chcesz odblokować miejsce na postać za {wording}?"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/CharacterSlot.cs
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/CreateGuild.cs
@@ -205,7 +205,7 @@ msgstr ""
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Components/ShopItemNode.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Hud/HudEditOverlay.cs
 msgid "No"
-msgstr ""
+msgstr "Nie"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/CharacterSlot.cs
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/CreateGuild.cs
@@ -214,55 +214,55 @@ msgstr ""
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Components/ShopItemNode.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Hud/HudEditOverlay.cs
 msgid "Yes"
-msgstr ""
+msgstr "Tak"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/CreateGuild.cs
 msgid "Leave Guild"
-msgstr ""
+msgstr "Opuść Gildię"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/CreateGuild.cs
 msgid "Leave Guild Confirmation"
-msgstr ""
+msgstr "Potwierdzenie Opuszczenia Gildii"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/CreateGuild.cs
 msgid "Are you sure you want to leave your guild?"
-msgstr ""
+msgstr "Czy na pewno chcesz opuścić gildię?"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/DeathDisplay.cs
 msgid "{_cost} - Revive"
-msgstr ""
+msgstr "{_cost} – Wskrzeszenie"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/DevLootShrine.cs
 msgid "boost 10%"
-msgstr ""
+msgstr "premia 10%"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/GeeAnvil.cs
 msgid "Pound"
-msgstr ""
+msgstr "Przekuj"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/Grave.cs
 msgid "Are you sure you want to pay respects?"
-msgstr ""
+msgstr "Czy na pewno chcesz oddać hołd?"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/GroundPickupable.cs
 msgid "Pick Up"
-msgstr ""
+msgstr "Podnieś"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/KyleShrine.cs
 msgid "smell the peony"
-msgstr ""
+msgstr "powąchaj piwonię"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/LeeCraftingStation.cs
 msgid "Craft"
-msgstr ""
+msgstr "Wytwórz"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/LootShrine.cs
 msgid "Are you sure you want level up this loot shrine?"
-msgstr ""
+msgstr "Czy na pewno chcesz ulepszyć tę kapliczkę łupów?"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/PetCustomizationStation.cs
 msgid "Customize"
-msgstr ""
+msgstr "Personalizacja"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/PetCustomizationStation.cs
 msgid "Feature"
@@ -271,7 +271,7 @@ msgstr ""
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/PetCustomizationStation.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/KylePages/AttainmentsMainMenu.cs
 msgid "Shop"
-msgstr ""
+msgstr "Sklep"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/PetCustomizationStation.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsMenu.cs
@@ -284,7 +284,7 @@ msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/PetCustomizationStation.cs
 msgid "Feature Pet"
-msgstr ""
+msgstr "Wyróżnij Zwierzaka"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/PetCustomizationStation.cs
 msgid ""
@@ -292,6 +292,9 @@ msgid ""
 "\n"
 "Duration: <c#e8e881>12 hours<c/>."
 msgstr ""
+"Wyróżnić <c#e8e881>{petName}<c/> na wybiegu dla zwierzaków w Tawernie za <c#e8e881>{FeatureCostGold} Złota<c/>?\n"
+"\n"
+"Czas trwania: <c#e8e881>12 godz<c/>."
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/PetCustomizationStation.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Alerts/Alert.cs
@@ -300,27 +303,27 @@ msgstr ""
 #: DarzasClient/DarzasDominion/Darza/Game/UI/KylePages/PetCustomizationPage.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/TradeMenu.cs
 msgid "Confirm"
-msgstr ""
+msgstr "Potwierdź"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/PetCustomizationStation.cs
 msgid "Pet featured for {hours} hour(s)."
-msgstr ""
+msgstr "Zwierzak wyróżniony na {hours} godz."
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/Portal.cs
 msgid "Call"
-msgstr ""
+msgstr "Ogłoś"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/Portal.cs
 msgid "Wish Luck"
-msgstr ""
+msgstr "Życz Szczęścia"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/Portal.cs
 msgid "<c#ff0000>Locked<c/>"
-msgstr ""
+msgstr "<c#ff0000>Zamknięte<c/>"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/Portal.cs
 msgid "Enter Seeded Run?"
-msgstr ""
+msgstr "Rozpocząć Podejście z Ziarnem?"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/Portal.cs
 msgid ""
@@ -330,16 +333,21 @@ msgid ""
 "\n"
 "Do you want to enter?"
 msgstr ""
+"To podejście z ziarnem kosztuje <c#FFD128>{seededEntryCost} Punktów do Wydania<c/>.\n"
+"\n"
+"<c#FF1E14>Koszt ten jest pobierany przy wejściu.<c/>\n"
+"\n"
+"Czy chcesz wejść?"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/Reroll.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Reroll/RerollMenu2.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/RerollMenu.cs
 msgid "Reroll"
-msgstr ""
+msgstr "Wylosuj ponownie"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/SoloDungeonStatue.cs
 msgid "Enter Solo Dungeon?"
-msgstr ""
+msgstr "Wejść do Lochu Solo?"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/SoloDungeonStatue.cs
 msgid "Spend <c{currencyColor}>{cost} {currencyName}<c/> to open a solo portal?"
@@ -347,7 +355,7 @@ msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/TrialsLeaderboard.cs
 msgid "Keys"
-msgstr ""
+msgstr "Klucze"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/TypTradingBush.cs
 msgid "Steal Bud"
@@ -355,15 +363,15 @@ msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/pocquetteTradePost.cs
 msgid "squeek"
-msgstr ""
+msgstr "pisk"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Alerts/Alert.cs
 msgid "I agree to the Terms of Service"
-msgstr ""
+msgstr "Zgadzam się z warunkami korzystania z usług"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Alerts/Alert.cs
 msgid "I agree to follow the Player Guidelines"
-msgstr ""
+msgstr "Zgadzam się przestrzegać Wytycznych dla Graczy"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Alerts/Alert.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentStageRewardNode.cs
@@ -372,48 +380,50 @@ msgstr ""
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/OptionPage.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Reroll/RerollMenu2.cs
 msgid "Okay"
-msgstr ""
+msgstr "Zgoda"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Alerts/Alert.cs
 msgid "<c#ffff77>Item will be returned to Inventory<c/>"
-msgstr ""
+msgstr "<c#ffff77>Przedmiot zostanie zwrócony do Ekwipunku<c/>"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Alerts/Alert.cs
 msgid "Unlist Confirmation"
-msgstr ""
+msgstr "Potwierdzenie wycofania"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Alerts/Alert.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/MarketBoard/MarketSellPage.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/MobileGraphicsPage.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/PartyFinder/PartyFinderDetailWindow.cs
 msgid "Edit"
-msgstr ""
+msgstr "Edytuj"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Alerts/Alert.cs
 msgid "Edit Enlistment Confirmation"
-msgstr ""
+msgstr "Potwierdzenie Edycji Oferty"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Alerts/Alert.cs
 msgid "Enlist"
-msgstr ""
+msgstr "Wystaw ofertę"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Alerts/Alert.cs
 msgid "Enlistment Confirmation"
-msgstr ""
+msgstr "Potwierdzenie wystawienia oferty"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Alerts/Alert.cs
 msgid ""
 "<c#ffff77>Item will be sent to Inventory\n"
 "(Gift Chest if full)<c/>"
 msgstr ""
+"<c#ffff77>Przedmiot trafi do Ekwipunku\n"
+"(do Skrzyni na Prezenty w razie braku miejsca)<c/>"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Alerts/Alert.cs
 msgid "Purchase"
-msgstr ""
+msgstr "Kup"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Alerts/Alert.cs
 msgid "<c#ffff77>Item will be sent to Inventory<c/>"
-msgstr ""
+msgstr "<c#ffff77>Przedmiot zostanie wysłany do Ekwipunku <c/>"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Alerts/Alert.cs
 msgid "Are you sure you want to swap these {cosmeticTypeName}?"
@@ -421,11 +431,11 @@ msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Alerts/Alert.cs
 msgid "Swap"
-msgstr ""
+msgstr "Zamień"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Alerts/Alert.cs
 msgid "Swap Confirmation"
-msgstr ""
+msgstr "Potwierdzenie zamiany"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Alerts/Alert.cs
 msgid ""
@@ -433,45 +443,48 @@ msgid ""
 "\n"
 "Would you like to set <c#ffff77>{oldOption}<c/> to <c#CC4444>None<c/>?"
 msgstr ""
+"<c#ffff77>{oldOption} <c/> już używa<c#ffff77> {key}<c/>.\n"
+"\n"
+"Czy chcesz ustawić<c#ffff77> {oldOption}<c/> na <c#CC4444>Brak<c/>?"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Alerts/Alert.cs
 msgid "Both"
-msgstr ""
+msgstr "Oba"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Alerts/Alert.cs
 msgid "Key Already In Use"
-msgstr ""
+msgstr "Klawisz jest Już w Użyciu"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Alerts/Alert.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/MobileGraphicsPage.cs
 msgid "Set"
-msgstr ""
+msgstr "Ustaw"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Alerts/Alert.cs
 msgid "In Queue"
-msgstr ""
+msgstr "W kolejce"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Alerts/Alert.cs
 msgid "Position #{queuePosition}"
-msgstr ""
+msgstr "Pozycja #{queuePosition}"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Alerts/Alert.cs
 #: DarzasClient/DarzasDominion/Darza/Scenes/LoadingScene.cs
 #: DarzasClient/DarzasDominion/Darza/Scenes/MainMenuScene.cs
 msgid "Close Game"
-msgstr ""
+msgstr "Zamknij grę"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentCurrentScoreNode.cs
 msgid "Spendable Score: <c#{shieldColor}>{Player.MySpendableScore}<c/>"
-msgstr ""
+msgstr "Punkty do wydania: <c#{shieldColor}>{Player.MySpendableScore}<c/>"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentDisplayNode.cs
 msgid "Previous Step"
-msgstr ""
+msgstr "Poprzedni krok"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentDisplayNode.cs
 msgid "Next Step"
-msgstr ""
+msgstr "Następny krok"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentDisplayNode.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/GuildMemberNode.cs
@@ -480,19 +493,19 @@ msgstr ""
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GamePackages/BuyPackageButton.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildListMenu.cs
 msgid "Error"
-msgstr ""
+msgstr "Błąd"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentDisplayNode.cs
 msgid "Please wait {remainingSec}s before tracking/untracking again."
-msgstr ""
+msgstr "Odczekaj {remainingSec}s przed ponowną zmianą śledzenia."
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentDisplayNode.cs
 msgid "Completed"
-msgstr ""
+msgstr "Ukończono"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentStageRewardNode.cs
 msgid "Dailies"
-msgstr ""
+msgstr "Zadania dzienne"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentStageRewardNode.cs
 msgid "Enter the game to claim your rewards."
@@ -501,7 +514,7 @@ msgstr ""
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsMenu.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/KylePages/AttainmentsMainMenu.cs
 msgid "Attainments"
-msgstr ""
+msgstr "Osiągnięcia"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsMenu.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/KylePages/AttainmentsDailyGoldMenu.cs
@@ -514,20 +527,20 @@ msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsMenu.cs
 msgid "Claiming..."
-msgstr ""
+msgstr "Odbieranie..."
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsMenu.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/TrialsLeaderboardMenu.cs
 msgid "Daily"
-msgstr ""
+msgstr "Dzienne"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsPage.cs
 msgid "Ruby Attainments"
-msgstr ""
+msgstr "Osiągnięcia Rubinowe"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsPage.cs
 msgid "[c#D81F3F]Ruby Attainments[c/] are [c#0xffff77]seasonal Shield objectives[c/] with Ruby-specific rewards and progression.\n"
-msgstr ""
+msgstr "[c#D81F3F]Osiągnięcia Rubinowe [c/] to [c#0xffff77] sezonowe cele Tarczy [c/] z nagrodami i postępami przypisanymi do rangi Rubin\n"
 
 #. {0} is the name of a category.
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsPage.cs
@@ -542,28 +555,28 @@ msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/RubyRequirementIndicator.cs
 msgid "Coming Soon!"
-msgstr ""
+msgstr "Wkrótce!"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/ShieldRankNode.cs
 msgid "Shield Rank: <c#FFFFFF>0/0<c/>"
-msgstr ""
+msgstr "Ranga Tarczy: <c#FFFFFF>0/0<c/>"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/ShieldRankNode.cs
 msgid "Shield Rank: <c#{progressColor}>{progressText}<c/>"
-msgstr ""
+msgstr "Ranga Tarczy: <c#{progressColor}>{progressText}<c/>"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/TooltipObjects/ShieldRankInfo.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopShieldRankTooltip.cs
 msgid "Shield Rank"
-msgstr ""
+msgstr "Ranga Tarczy"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/BossHealthBar.cs
 msgid "You're already closest to this Boss!"
-msgstr ""
+msgstr "Jesteś już najbliżej tego bossa!"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/ClaimAllNode.cs
 msgid "Claim All"
-msgstr ""
+msgstr "Odbierz Wszystko"
 
 #. {2} is the name of a currency, such as "Gold".
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Components/ShopItemNode.cs
@@ -576,32 +589,32 @@ msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Components/WindowScalePopup.cs
 msgid "Window scale"
-msgstr ""
+msgstr "Skala okna"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/ContainerDisplay.cs
 msgid "{holdVerb} to Quick Equip"
-msgstr ""
+msgstr "{holdVerb}, aby Szybko Założyć"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/ContainerDisplay.cs
 msgid "{holdVerb} to Quick Consume"
-msgstr ""
+msgstr "{holdVerb}, aby Szybko Użyć"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/DesktopInput.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Mobile/MobileInput.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Mobile/MobileUI.cs
 msgid "Auto-Fire"
-msgstr ""
+msgstr "Auto-Strzał"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/DesktopInput.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopControlsPage.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Mobile/MobileUI.cs
 msgid "Aim Assist"
-msgstr ""
+msgstr "Wspomaganie Celowania"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/DesktopInput.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Mobile/MobileUI.cs
 msgid "Hide Players"
-msgstr ""
+msgstr "Ukryj Graczy"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/DesktopInventory.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/DesktopInventoryHidden.cs
@@ -614,42 +627,42 @@ msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/DesktopMMOUI.cs
 msgid "Character Unlocks"
-msgstr ""
+msgstr "Odblokowania Postaci"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/DesktopMMOUI.cs
 msgid "Vault Unlocks"
-msgstr ""
+msgstr "Odblokowania Skarbca"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/DesktopMMOUI.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Mobile/MobileUI.cs
 msgid "Player List"
-msgstr ""
+msgstr "Lista graczy"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/DesktopMMOUI.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Mobile/MobileUI.cs
 msgid "Currencies"
-msgstr ""
+msgstr "Waluty"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/DesktopMMOUI.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/CharacterList/CharacterDetailPanel.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/ViewBuild/BuildWindow.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Mobile/MobileUI.cs
 msgid "Stats"
-msgstr ""
+msgstr "Statystyki"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/DesktopMMOUI.cs
 msgid "Press"
-msgstr ""
+msgstr "Naciśnij"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/DesktopMMOUI.cs
 msgid "to close Map View"
-msgstr ""
+msgstr "aby zamknąć Widok Mapy"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/DesktopMMOUI.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/DesktopUI.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Mobile/MobileUI.cs
 msgid "Welcome to Darza's Dominion!"
-msgstr ""
+msgstr "Witaj w Darza's Dominion!"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/DesktopMMOUI.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/DesktopUI.cs
@@ -663,157 +676,157 @@ msgstr ""
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/MarketBoard/MarketSellPage.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Reroll/RerollMenu2.cs
 msgid "Inventory"
-msgstr ""
+msgstr "Ekwipunek"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/DesktopMMOUI.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/CharacterList/CharacterDetailPanel.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/ViewBuild/BuildWindow.cs
 msgid "Equipment"
-msgstr ""
+msgstr "Wyposażenie"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/DesktopUI.cs
 #: DarzasClient/DarzasDominion/Darza/Scenes/MainMenuScene.cs
 msgid "Opening URL"
-msgstr ""
+msgstr "Otwieranie adresu URL"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/DesktopUI.cs
 msgid "Attempting to open page in Web Browser. Are you sure you want to open <c#ffff77>{PlatformBroker.Discord_URL}<c/>"
-msgstr ""
+msgstr "Próba otwarcia strony w Przeglądarce. Czy na pewno chcesz otworzyć <c#ffff77>{PlatformBroker.Discord_URL}<c/>"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/DesktopUI.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Gems/GemStorageMenu.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/MarketBoard/MarketSellPage.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Reroll/RerollMenu2.cs
 msgid "Backpack"
-msgstr ""
+msgstr "Plecak"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/DesktopUI.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Hud/GameClockDisplay.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Mobile/Tabs/MapTab.cs
 msgid "12:00 AM"
-msgstr ""
+msgstr "00:00"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Hud/HudEditOverlay.cs
 msgid "HUD Layout - drag elements to move"
-msgstr ""
+msgstr "Układ HUD - przeciągaj elementy, aby je przemieścić"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Hud/HudEditOverlay.cs
 msgid "Select an element to edit"
-msgstr ""
+msgstr "Wybierz element do edycji"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Hud/HudEditOverlay.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopGraphicsPage.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/MobileGraphicsPage.cs
 msgid "Scale"
-msgstr ""
+msgstr "Skala"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Hud/HudEditOverlay.cs
 msgid "Visible"
-msgstr ""
+msgstr "Widoczne"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Hud/HudEditOverlay.cs
 msgid "Shown"
-msgstr ""
+msgstr "Pokazane"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Hud/HudEditOverlay.cs
 msgid "Undo"
-msgstr ""
+msgstr "Cofnij"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Hud/HudEditOverlay.cs
 msgid "Redo"
-msgstr ""
+msgstr "Ponów"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Hud/HudEditOverlay.cs
 msgid "Copy"
-msgstr ""
+msgstr "Kopiuj"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Hud/HudEditOverlay.cs
 msgid "Paste"
-msgstr ""
+msgstr "Wklej"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Hud/HudEditOverlay.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/CharacterList/CharacterDetailPanel.cs
 msgid "History"
-msgstr ""
+msgstr "Historia"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Hud/HudEditOverlay.cs
 msgid "Save"
-msgstr ""
+msgstr "Zapisz"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Hud/HudEditOverlay.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/ControllerBindingsPage.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/PartyFinder/PartyFinderSearchWindow.cs
 msgid "Reset"
-msgstr ""
+msgstr "Resetuj"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Hud/HudEditOverlay.cs
 msgid "More"
-msgstr ""
+msgstr "Więcej"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Hud/HudEditOverlay.cs
 msgid "Tap an element to select it, drag it to move it"
-msgstr ""
+msgstr "Dotknij elementu, aby go zaznaczyć, przeciągnij, aby go przesunąć"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Hud/HudEditOverlay.cs
 msgid "Size"
-msgstr ""
+msgstr "Rozmiar"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Hud/HudEditOverlay.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/MobileGraphicsPage.cs
 msgid "HUD Layout"
-msgstr ""
+msgstr "Układ HUD"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Hud/HudEditOverlay.cs
 msgid "Nothing to undo."
-msgstr ""
+msgstr "Nie ma nic do cofnięcia."
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Hud/HudEditOverlay.cs
 msgid "Nothing to redo."
-msgstr ""
+msgstr "Nie ma nic do ponowienia."
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Hud/HudEditOverlay.cs
 msgid "Couldn't build a HUD code."
-msgstr ""
+msgstr "Nie udało się wygenerować kodu HUD"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Hud/HudEditOverlay.cs
 msgid "HUD code copied to your clipboard - paste it to share."
-msgstr ""
+msgstr "Kod HUD skopiowany do schowka - wklej go, aby udostępnić."
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Hud/HudEditOverlay.cs
 msgid "Clipboard is empty - copy a HUD code first."
-msgstr ""
+msgstr "Schowek jest pusty - najpierw skopiuj kod HUD."
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Hud/HudEditOverlay.cs
 msgid "Clipboard doesn't contain a valid HUD code."
-msgstr ""
+msgstr "Schowek nie zawiera poprawnego kodu HUD."
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Hud/HudEditOverlay.cs
 msgid "HUD code applied."
-msgstr ""
+msgstr "Zastosowano kod HUD."
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Hud/HudEditOverlay.cs
 msgid "No HUD codes yet - Copy records one here."
-msgstr ""
+msgstr "Brak kodów HUD - Skopiowanie kodu zapisze go tutaj."
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Hud/HudEditOverlay.cs
 msgid "Recent HUD codes"
-msgstr ""
+msgstr "Ostatnie kody HUD"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Hud/HudEditOverlay.cs
 msgid "Applied HUD code #{index}."
-msgstr ""
+msgstr "Zastosowano kod HUD #{index}."
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Hud/HudEditOverlay.cs
 msgid "HUD code #{index} is no longer valid."
-msgstr ""
+msgstr "Kod HUD #{index} nie jest już ważny."
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Hud/HudEditOverlay.cs
 msgid "Reset HUD Layout"
-msgstr ""
+msgstr "Resetuj układ HUD"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Hud/HudEditOverlay.cs
 msgid "Reset every HUD element to its default position, scale and visibility? Your saved layout can't be recovered."
-msgstr ""
+msgstr "Zresetować wszystkie elementy HUD do domyślnej pozycji, skali i widoczności? Zapisany układ zostanie bezpowrotnie utracony."
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Menus/CharacterActions.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/MinimapContainer.cs
@@ -821,120 +834,120 @@ msgstr ""
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Mobile/Tooltips/MobileCharacterTooltip.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Mobile/Tooltips/MobileNpcTooltip.cs
 msgid "Teleport"
-msgstr ""
+msgstr "Teleportuj"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Menus/CharacterActions.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Mobile/Tooltips/MobileCharacterTooltip.cs
 msgid "View Build"
-msgstr ""
+msgstr "Zobacz zestaw"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Menus/CharacterActions.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Mobile/Tooltips/MobileCharacterTooltip.cs
 #: DarzasClient/DarzasDominion/Nodes/GameChatBox.cs
 msgid "Whisper"
-msgstr ""
+msgstr "Szepnij"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Menus/CharacterActions.cs
 msgid "Message"
-msgstr ""
+msgstr "Wiadomość"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Menus/CharacterActions.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Mobile/Tooltips/MobileCharacterTooltip.cs
 msgid "Lock"
-msgstr ""
+msgstr "Zablokuj"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Menus/CharacterActions.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Mobile/Tooltips/MobileCharacterTooltip.cs
 msgid "Unlock"
-msgstr ""
+msgstr "Odblokuj"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Menus/CharacterActions.cs
 msgid "Ignore"
-msgstr ""
+msgstr "Ignoruj"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Menus/CharacterActions.cs
 msgid "Unignore"
-msgstr ""
+msgstr "Przestań ignorować"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Menus/CharacterActions.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Mobile/Tooltips/MobileCharacterTooltip.cs
 msgid "Invite to Party"
-msgstr ""
+msgstr "Zaproś do drużyny"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Menus/CharacterActions.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Mobile/Tooltips/MobileCharacterTooltip.cs
 msgid "Invite to Guild"
-msgstr ""
+msgstr "Zaproś do gildii"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Menus/CharacterActions.cs
 msgid "Reforge"
-msgstr ""
+msgstr "Przekuj"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Menus/CharacterActions.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/PartyFinder/PartyFinderWindow.cs
 msgid "Leave Party"
-msgstr ""
+msgstr "Opuść drużynę"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Menus/CharacterActions.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Friends/FriendsWindow.cs
 msgid "Remove Friend"
-msgstr ""
+msgstr "Usuń znajomego"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Menus/CharacterActions.cs
 msgid "Accept Friend"
-msgstr ""
+msgstr "Akceptuj znajomego"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Menus/CharacterActions.cs
 msgid "Add Friend"
-msgstr ""
+msgstr "Dodaj znajomego"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Menus/CharacterActions.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/PartyFinder/PartyFinderWindow.cs
 #: DarzasClient/DarzasDominion/Nodes/GameChatBox.cs
 msgid "Join"
-msgstr ""
+msgstr "Dołącz"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Menus/CharacterActions.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Mobile/Tooltips/MobileCharacterTooltip.cs
 msgid "Promote to Leader"
-msgstr ""
+msgstr "Awansuj na lidera"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Menus/CharacterActions.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Mobile/Tooltips/MobileCharacterTooltip.cs
 msgid "Kick from Party"
-msgstr ""
+msgstr "Wyrzuć z Drużyny"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Menus/DesktopCharactersList.cs
 msgid "No nearby characters"
-msgstr ""
+msgstr "Brak postaci w pobliżu"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/AttainmentsChroniclePageTooltip.cs
 msgid "chronicle blah blah edit this later"
-msgstr ""
+msgstr "dziennik bla bla edytuj to później"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/AttainmentsDailyGoldTooltip.cs
 msgid "Complete <c#0xffff77>Daily Attainments<c/> for up to <c#0xffff77>30 free gold<c/> a day and <c#0xffff77>spendable score<c/> for use in Semreh's shop! All quests are the same for everyone to encourage cooperative play."
-msgstr ""
+msgstr "Ukończ <c#0xffff77> codzienne osiągnięcia<c/>, aby zdobyć do<c#0xffff77> 30 darmowych sztuk złota<c/> dziennie oraz<c#0xffff77> punkty do wydania <c/> w sklepie Semreha! Wszystkie zadania są takie same dla każdego, aby zachęcić do kooperacji."
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/AttainmentsLeaderboardPageTooltip.cs
 msgid "leaderboard blah blah edit this later"
-msgstr ""
+msgstr "tabela wyników bla bla edytuj to później"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/AttainmentsShopPageTooltip.cs
 msgid "shop blah blah edit this later"
-msgstr ""
+msgstr "sklep bla bla edytuj to później"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/AttainmentsTitlesPageTooltip.cs
 msgid "titles blah blah edit this later"
-msgstr ""
+msgstr "tytuły bla bla edytuj to później"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/BoostTooltip.cs
 msgid "No boosts right now."
-msgstr ""
+msgstr "Brak aktywnych wzmocnień."
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/BoostTooltip.cs
 msgid "{left} paused"
-msgstr ""
+msgstr "{left} wstrzymano"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopAccountCustomizationMenuTooltip.cs
 msgid ""
@@ -957,6 +970,24 @@ msgid ""
 "\n"
 "<c#FFD98A>Tip:<c/> Open each category and confirm changes to apply."
 msgstr ""
+"<c#0xffff77>Personalizacja konta<c/> pozwala wybrać elementy kosmetyczne i ozdoby profilu dla całego konta.\n"
+"\n"
+"<c#7CF7FF>Tytuły <c/>\n"
+"Wybierz tytuł wyświetlany na twojej karcie gracza i na czacie.\n"
+"\n"
+"<c#7CF7FF>Emotki <c/>\n"
+"Przypisz emotki do szybkiego użycia.\n"
+"\n"
+"<c#7CF7FF>Sakwy <c/>\n"
+"Wybierz wygląd swoich worków z łupem.\n"
+"\n"
+"<c#7CF7FF>Nagrobki <c/>\n"
+"Ustaw wygląd swojego nagrobka.\n"
+"\n"
+"<c#7CF7FF>Tarcze <c/>\n"
+"Skonfiguruj wygląd wyświetlanej tarczy.\n"
+"\n"
+"<c#FFD98A>Wskazówka:<c/> Otwórz każdą z kategorii i zatwierdź zmiany, aby je zastosować."
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopBagsPageTooltip.cs
 msgid ""
@@ -968,12 +999,22 @@ msgid ""
 "\n"
 "<c#FF1E14>All purchases are non-refundable.<c/>"
 msgstr ""
+"<c#0xffff77>Sakwy<c/> to elementy kosmetyczne dla całego konta, zmieniające wygląd twoich prywatnych worków z łupem. Tylko ty widzisz ich wygląd.\n"
+"\n"
+"<c#7CF7FF>Sloty: <c/> Każdy rodzaj worka ma własne. Zestaw zawiera po jednej sakwie dla każdego rodzaju; możesz dowolnie łączyć zestawy i pojedyncze skórki.\n"
+"\n"
+"<c#7CF7FF>Użycie: <c/> Wybierz sakwę, aby zobaczyć animację jej upuszczenia, Załóż przypisze ją do odpowiedniego miejsca.\n"
+"\n"
+"<c#FF1E14>Wszelkie zakupy nie podlegają zwrotom.\n"
+"<c/>"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopBagsPageTooltip.cs
 msgid ""
 "\n"
 "<c#7CF7FF>Bag Tier Slots<c/>"
 msgstr ""
+"\n"
+"<c#7CF7FF>Miejsca na rangi worków<c/>"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopCharacterCustomizationMenuTooltip.cs
 msgid ""
@@ -1005,7 +1046,7 @@ msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopCharacterTooltip.cs
 msgid "(Left-click for menu)"
-msgstr ""
+msgstr "(Kliknij lewy przycisk myszy, aby otworzyć menu)"
 
 #. shields claimed out of all there are, e.g. "12/29 Shields" (the phone's player card shares it)
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopCharacterTooltip.cs
@@ -1026,6 +1067,16 @@ msgid ""
 "\n"
 "<c#FF1E14>All purchases are non-refundable.<c/>"
 msgstr ""
+"<c#0xffff77>Emotki<c/> działają na całym koncie i pozwalają na szybkie reagowanie na czacie oraz podczas rozgrywki.\n"
+"\n"
+"<c#7CF7FF>Przebieg:<c/>\n"
+"1) Wybierz slot na emotkę u góry.\n"
+"2) Kliknij posiadaną emotkę, aby ją przypisać.\n"
+"3) Kliknij ten sam slot ponownie, aby cofnąć wybór.\n"
+"\n"
+"<c#7CF7FF>Odblokowania:<c/> Kupuj w sklepie z emotkami lub z ofert pakietów.\n"
+"\n"
+"<c#FF1E14>Wszelkie zakupy nie podlegają zwrotom.<c/>"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopEssencesCollectPageTooltip.cs
 msgid ""
@@ -1033,6 +1084,9 @@ msgid ""
 "\n"
 "Click an equipped essence or an empty slot to modify which one you're collecting."
 msgstr ""
+"Zbieraj do 3 różnych esencji jednocześnie, aby zyskać możliwość zdobycia tych konkretnych esencji po pokonaniu bossa. Zdobycie esencji po śmierci bossa nie jest gwarantowane.\n"
+"\n"
+"Kliknij przypisaną esencję lub pusty slot, aby zmienić zbieraną esencję."
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopEssencesExchangePageTooltip.cs
 msgid ""
@@ -1040,6 +1094,9 @@ msgid ""
 "\n"
 "Essence prices that are <c#0xee3636>red<c/> indicate you do not have enough of that essence type to exchange for the item."
 msgstr ""
+"Wymiana esencji na jeden z jej unikalnych przedmiotów jest tak prosta, jak zebranie określonej ilości i kliknięcie pożądanego przedmiotu.\n"
+"\n"
+"Ceny esencji wyświetlane na <c#0xee3636>czerwono<c/> oznaczają, że nie posiadasz wystarczającej liczby danego rodzaju esencji, aby wymienić ją na ten przedmiot."
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopEssencesMenuTooltip.cs
 msgid ""
@@ -1051,6 +1108,13 @@ msgid ""
 "\n"
 "[c#ff7777]Note: Exchanging essence for an item will consume all collected essence, even if the item costs less than the total amount of that essence you have gathered.[c/]"
 msgstr ""
+"Esencje służą jako [c#0xffff77]system litości (pity timer)[c/], zapewniając szansę na zdobycie przedmiotów unikalnych.\n"
+"\n"
+"Pokonując przeciwników, dla których Astake odkrył esencję, odblokowujesz ją. Zacznij zbierać tę konkretną esencję, aby zyskać szansę na jej zdobycie po śmierci bossa.\n"
+"\n"
+"Możesz zbierać do 3 różnych esencji jednocześnie. Gdy zgromadzisz wymaganą liczbę esencji dla danego przedmiotu, możesz wymienić ją na ten przedmiot.\n"
+"\n"
+"[c#ff7777]Uwaga: Wymiana esencji na przedmiot zużyje całą zebraną esencję, nawet jeśli przedmiot kosztuje mniej, niż wynosi łączna ilość zgromadzonej przez ciebie esencji.[c/]"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopGravestonesPageTooltip.cs
 msgid ""
@@ -1062,20 +1126,29 @@ msgid ""
 "\n"
 "<c#FF1E14>All purchases are non-refundable.<c/>"
 msgstr ""
+"<c#0xffff77>Nagrobki<c/> to elementy kosmetyczne dla całego konta, zmieniające wygląd nagrobka pozostawionego w miejscu śmierci twojej postaci.\n"
+"\n"
+"<c#7CF7FF>Poziomy:<c/> To, jaki nagrobek pozostawisz, zależy od srebra zdobytego przed śmiercią. Zestaw zawiera po jednym dla każdego poziomu.\n"
+"\n"
+"<c#7CF7FF>Użycie:<c/> Wybierz nagrobek, aby go zobaczyć, Załóż przypisze go do odpowiedniego poziomu.\n"
+"\n"
+"<c#FF1E14>Wszelkie zakupy nie podlegają zwrotom.<c/>"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopGravestonesPageTooltip.cs
 msgid ""
 "\n"
 "<c#7CF7FF>Grave Tier Requirements<c/>"
 msgstr ""
+"\n"
+"<c#7CF7FF>Wymagania Poziomów Nagrobków<c/>"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopGravestonesPageTooltip.cs
 msgid "Tier 1: 0-199 silver"
-msgstr ""
+msgstr "Poziom 1: 0-199 srebra"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopGravestonesPageTooltip.cs
 msgid "Tier 2: 200-999 silver"
-msgstr ""
+msgstr "Poziom 2: 200-999 srebra"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopGravestonesPageTooltip.cs
 msgid "Tier 3: 1,000-4,999 silver"
@@ -1098,32 +1171,36 @@ msgid ""
 "Last Online\n"
 "<c#0xb5b5b5>{text}<c/>"
 msgstr ""
+"Ostatnio Online\n"
+"<c#0xb5b5b5>{text}<c/>"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopGuildMemberInfoTooltip.cs
 msgid ""
 "Join Date\n"
 "<c#0xb5b5b5>{joinDateString}<c/>"
 msgstr ""
+"Data Dołączenia\n"
+"<c#0xb5b5b5>{joinDateString}<c/>"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Divine Object"
-msgstr ""
+msgstr "Boski Obiekt"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Event Reward"
-msgstr ""
+msgstr "Nagroda z Wydarzenia"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Event Item"
-msgstr ""
+msgstr "Przedmiot z Wydarzenia"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Quest Item"
-msgstr ""
+msgstr "Przedmiot zadania"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Crafting Material"
-msgstr ""
+msgstr "Materiał rzemieślniczy"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Emote Unlocker"
@@ -1131,15 +1208,15 @@ msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Title Unlocker"
-msgstr ""
+msgstr "Odblokowanie tytułu"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Grave Unlocker"
-msgstr ""
+msgstr "Odblokowanie nagrobka"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Shield Unlocker"
-msgstr ""
+msgstr "Odblokowanie tarczy"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Container Unlocker"
@@ -1147,85 +1224,85 @@ msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "<c#0x94eadf>Command:<c/> /{_data.EmoteCommand}"
-msgstr ""
+msgstr "<c#0x94eadf>Komenda:<c/> /{_data.EmoteCommand}"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Boosts:"
-msgstr ""
+msgstr "Wzmocnienia:"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Open to receive your item!"
-msgstr ""
+msgstr "Otwórz, aby odebrać swój przedmiot!"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Open to receive 1 random item!"
-msgstr ""
+msgstr "Otwórz, aby otrzymać 1 losowy przedmiot!"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Items received are <c#A567E0>Soulbound.<c/>"
-msgstr ""
+msgstr "Otrzymane przedmioty są <c#A567E0>Związane z właścicielem.<c/>"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Some items may be <c#A567E0>Soulbound.<c/>"
-msgstr ""
+msgstr "Niektóre przedmioty mogą być <c#A567E0>Związane z właścicielem.<c/>"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "On Use:"
-msgstr ""
+msgstr "Przy użyciu:"
 
 #. {2} is the name of a stat, such as "Speed".
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "{sign}{boost.Value} {2} <c#FFFFFF>for<c/> <c#ffff77>10 Minutes<c/>"
-msgstr ""
+msgstr "{sign}{boost.Value} {2}<c#FFFFFF> przez <c/><c#ffff77>10 Minut<c/>"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Reroll Discount:"
-msgstr ""
+msgstr "Zniżka na ponowne losowanie:"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Stacks up to <c#ffff77>{_data.MaxStack}<c/>"
-msgstr ""
+msgstr "Kumuluje się do <c#ffff77>{_data.MaxStack}<c/>"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Limit of <c#ffff77>{_data.ConsumeLimit}<c/> per Character"
-msgstr ""
+msgstr "Limit użycia <c#ffff77>{_data.ConsumeLimit}<c/> na postać"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Cooldown: "
-msgstr ""
+msgstr "Czas odnowienia: "
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Seed: "
-msgstr ""
+msgstr "Ziarno: "
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Mode: "
-msgstr ""
+msgstr "Tryb: "
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Name: "
-msgstr ""
+msgstr "Nazwa: "
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/KylePages/KyleCharacterCustomizationMenu.cs
 msgid "Pet"
-msgstr ""
+msgstr "Zwierzak"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Mage Skin"
-msgstr ""
+msgstr "Skórka Maga"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Paladin Skin"
-msgstr ""
+msgstr "Skórka Paladyna"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Archer Skin"
-msgstr ""
+msgstr "Skórka łucznika"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Assassin Skin"
-msgstr ""
+msgstr "Skórka Zabójcy"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Wyrm Rider Skin"
@@ -1233,118 +1310,118 @@ msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Juggernaut Skin"
-msgstr ""
+msgstr "Skórka Juggernauta"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Apothecary Skin"
-msgstr ""
+msgstr "Skórka Aptekarza"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Bishop Skin"
-msgstr ""
+msgstr "Skórka Biskupa"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Gladiator Skin"
-msgstr ""
+msgstr "Skórka Gladiatora"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "<c#0x94eadf>Effect:<c/> {test}"
-msgstr ""
+msgstr "<c#0x94eadf>Efekt:<c/> {test}"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Animated Front Hat"
-msgstr ""
+msgstr "Animowane przednie nakrycie głowy"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Animated Back Hat"
-msgstr ""
+msgstr "Animowane Nakrycie Pleców"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Animated Hat"
-msgstr ""
+msgstr "Animowane Nakrycie Głowy"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Slot.cs
 msgid "Front Hat"
-msgstr ""
+msgstr "Przednie nakrycie głowy"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Slot.cs
 msgid "Back Hat"
-msgstr ""
+msgstr "Nakrycie Pleców"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Slot.cs
 msgid "Hat"
-msgstr ""
+msgstr "Nakrycie głowy"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Particle Setter"
-msgstr ""
+msgstr "Zestaw cząstek"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Primary Cloth"
-msgstr ""
+msgstr "Główny barwnik"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Secondary Cloth"
-msgstr ""
+msgstr "Dodatkowy Barwnik"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Double Click to Use"
-msgstr ""
+msgstr "Kliknij dwukrotnie, aby użyć"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Gifted Upon Death"
-msgstr ""
+msgstr "Przyznawane po Śmierci"
 
 #. {0} is a number.
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Claims Left: {0} of {_value.Data.Reward.MaxClaims}"
-msgstr ""
+msgstr "Pozostało do odebrania: {0} z {_value.Data.Reward.MaxClaims}"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "<c#FF4C4C>Unequippable, Used By:<c/>"
-msgstr ""
+msgstr "<c#FF4C4C>Nie można założyć, Używane Przez:<c/>"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Used By:"
-msgstr ""
+msgstr "Używane przez:"
 
 #. {0} is a percentage, which may be empty.
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "<c#A9D7F2>Ignores{0} Armor<c/>{pierceMarks}"
-msgstr ""
+msgstr "<c#A9D7F2>Ignoruje {0} Pancerza<c/>{pierceMarks}"
 
 #. chance is a whole percent or a range such as 26-39; amount is a whole number or a range such as 1-12
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "{chance}% <c#A9D7F2>Chance to Leech<c/> {amount} <c#A9D7F2>MP<c/>"
-msgstr ""
+msgstr "{chance}% <c#A9D7F2>Szansy na kradzież<c/> {amount} <c#A9D7F2>MP<c/>"
 
 #. chance is a whole percent or a range such as 26-39; amount is a whole number or a range such as 1-12
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "{chance}% <c#A9D7F2>Chance to Leech<c/> {amount} <c#A9D7F2>HP<c/>"
-msgstr ""
+msgstr "{chance}% <c#A9D7F2>Szansy na kradzież<c/> {amount} <c#A9D7F2>HP<c/>"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Not earned by this character"
-msgstr ""
+msgstr "Niezdobyte przez tę postać"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Character-bound"
-msgstr ""
+msgstr "Związany z postacią"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Soulbound"
-msgstr ""
+msgstr "Związany z duszą"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "AoE {bombIndex}:"
-msgstr ""
+msgstr "Obszar działania {bombIndex}:"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Heals:"
-msgstr ""
+msgstr "Leczy:"
 
 #. {0} is the heading "Heals:".
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
@@ -1353,75 +1430,75 @@ msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Fortifies:"
-msgstr ""
+msgstr "Umacnia:"
 
 #. {0} is the heading "Fortifies:".
 #. {1} is something the game fills in.
 #. {2} is marks for the item's quality and affixes, which may be empty.
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "{0} <c#4BBAF2>{1} BP<c/>{2}"
-msgstr ""
+msgstr "{0} <c#4BBAF2>{1} BP<c/>{2}"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Damage:"
-msgstr ""
+msgstr "Obrażenia:"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Radius:"
-msgstr ""
+msgstr "Promień:"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Rate:"
-msgstr ""
+msgstr "Częstotliwość:"
 
 #. {0} is marks for the item's quality and affixes, which may be empty.
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "<c#A9D7F2>Pierces Entities<c/>{0}"
-msgstr ""
+msgstr "<c#A9D7F2>Przebija jednostki<c/>{0}"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "<c#A9D7F2>Ignores Terrain<c/>"
-msgstr ""
+msgstr "<c#A9D7F2>Ignoruje teren<c/>"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "{proj.Ricochet} <c#A9D7F2>Ricochet<c/>{ricochetMarks}"
 msgid_plural "{proj.Ricochet} <c#A9D7F2>Ricochets<c/>{ricochetMarks}"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "{proj.Ricochet} <c#A9D7F2>Rykoszet<c/>{ricochetMarks}"
+msgstr[1] "{proj.Ricochet} <c#A9D7F2>Rykoszety<c/>{ricochetMarks}"
+msgstr[2] "{proj.Ricochet} <c#A9D7F2>Rykoszetów<c/>{ricochetMarks}"
 
 #. {0} is a plus or minus sign.
 #. {1} is a number.
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "<c#A9D7F2>Aim Assist:<c/> {0}{1}%{aimMarks}"
-msgstr ""
+msgstr "<c#A9D7F2>Wspomaganie Celowania:<c/> {0}{1}%{aimMarks}"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "<c#A9D7F2>Homing:<c/> {homingArc}°{homingMarks}"
-msgstr ""
+msgstr "<c#A9D7F2>Samonaprowadzanie:<c/> {homingArc}°{homingMarks}"
 
 #. {1} is marks for the item's quality and affixes, which may be empty.
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "-{finalVariance}% <c#A9D7F2>Accuracy<c/>{1}"
-msgstr ""
+msgstr "-{finalVariance}% <c#A9D7F2>Celność<c/>{1}"
 
 #. {0} is a number.
 #. {1} is a number.
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "{0}% <c#A9D7F2>Chance to Crit for<c/> {1}% <c#A9D7F2>Damage<c/>"
-msgstr ""
+msgstr "{0}% <c#A9D7F2>Szansy na krytyczne trafienie za <c/>{1}% <c#A9D7F2>Obrażeń<c/>"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Range:"
-msgstr ""
+msgstr "Zasięg:"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Duration:"
-msgstr ""
+msgstr "Czas trwania:"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Shots: "
-msgstr ""
+msgstr "Liczba strzałów: "
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Gap: "
@@ -1429,19 +1506,19 @@ msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "RoF: "
-msgstr ""
+msgstr "Szybkostrzelność: "
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Health Cost:"
-msgstr ""
+msgstr "Koszt zdrowia:"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Mana Cost:"
-msgstr ""
+msgstr "Koszt many:"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "On Strike:"
-msgstr ""
+msgstr "Przy trafieniu:"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "On Ally Collect:"
@@ -1453,13 +1530,13 @@ msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "On Enemy Hit:"
-msgstr ""
+msgstr "Przy Trafieniu Przeciwnika:"
 
 #. {0} is the heading "Fortifies:".
 #. {2} is marks for the item's quality and affixes, which may be empty.
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "{0} <c#4BBAF2>{fortify} BP<c/>{2}"
-msgstr ""
+msgstr "{0} <c#4BBAF2>{fortify} BP<c/>{2}"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Protected:"
@@ -1475,19 +1552,19 @@ msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "<c#FFFFFF>Heal:<c/> <c#b3b3b3>{ProjDesc.TetherHealDamageFraction} of damage dealt<c/>"
-msgstr ""
+msgstr "<c#FFFFFF>Leczy:<c/> <c#b3b3b3>{ProjDesc.TetherHealDamageFraction} zadanych obrażeń<c/>"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "<c#A9D7F2>Hits All Enemies in Arc<c/>"
-msgstr ""
+msgstr "<c#A9D7F2>Trafia wszystkich przeciwników w łuku<c/>"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Arc:"
-msgstr ""
+msgstr "Łuk:"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Spread:"
-msgstr ""
+msgstr "Rozpiętość:"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Charge:"
@@ -1507,15 +1584,15 @@ msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Delay:"
-msgstr ""
+msgstr "Opóźnienie:"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Width:"
-msgstr ""
+msgstr "Szerokość:"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "<c#A9D7F2>AoE:<c/>"
-msgstr ""
+msgstr "<c#A9D7F2>AoE:<c/>"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "<c#A9D7F2>Hits All Enemies in Beam<c/>"
@@ -1523,15 +1600,15 @@ msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "<c#A9D7F2>Passes Through Walls<c/>"
-msgstr ""
+msgstr "<c#A9D7F2>Przenika Przez Ściany<c/>"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "{critChance}% <c#A9D7F2>Chance to Crit for<c/> {critDamage}% <c#A9D7F2>Damage<c/>"
-msgstr ""
+msgstr "{critChance}% <c#A9D7F2>Szansa na trafienie krytyczne za<c/> {critDamage}% <c#A9D7F2>Obrażeń<c/>"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Burn:"
-msgstr ""
+msgstr "Podpalenie:"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Barricade:"
@@ -1539,7 +1616,7 @@ msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Damage Reduction:"
-msgstr ""
+msgstr "Redukcja obrażeń:"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Pillars:"
@@ -1551,33 +1628,33 @@ msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Ring"
-msgstr ""
+msgstr "Pierścień"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Arc"
-msgstr ""
+msgstr "Łuk"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Begin Channel:"
-msgstr ""
+msgstr "Początek ładowania:"
 
 #. {0} is the heading "Begin Channel:".
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "{0} <c#B2334D>{initialHealth} HP<c/>{_costMarks}"
-msgstr ""
+msgstr "{0}<c#B2334D> {initialHealth} HP<c/>{_costMarks}"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Health Cost Percent:"
-msgstr ""
+msgstr "Procentowy Koszt Zdrowia:"
 
 #. {0} is the heading "Begin Channel:".
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "{0} <c#965285>{initialMana} MP<c/>{_costMarks}"
-msgstr ""
+msgstr "{0}<c#965285> {initialMana} MP<c/>{_costMarks}"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Max Channel: "
-msgstr ""
+msgstr "Maksymalny czas ładowania: "
 
 #. {1} is a number.
 #. {3} is marks for the item's quality and affixes, which may be empty.
@@ -1589,85 +1666,85 @@ msgstr ""
 #. {2} is marks for the item's quality and affixes, which may be empty.
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "{sign}{percent}% Projectile Size{2}"
-msgstr ""
+msgstr "{sign}{percent}% Wielkość pocisku{2}"
 
 #. {2} is marks for the item's quality and affixes, which may be empty.
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "{sign}{percent}% Effect Radius{2}"
-msgstr ""
+msgstr "{sign}{percent}% Promień efektu{2}"
 
 #. {2} is marks for the item's quality and affixes, which may be empty.
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "{sign}{percent}% Beam Width{2}"
-msgstr ""
+msgstr "{sign}{percent}% Szerokość promienia{2}"
 
 #. {2} is marks for the item's quality and affixes, which may be empty.
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "{sign}{percent}% Spread{2}"
-msgstr ""
+msgstr "{sign}{percent}% Rozpiętości{2}"
 
 #. {2} is marks for the item's quality and affixes, which may be empty.
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "{sign}{seconds}s Charge Time{2}"
-msgstr ""
+msgstr "{sign}{seconds}s Czas ładowania{2}"
 
 #. {2} is marks for the item's quality and affixes, which may be empty.
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "{sign}{seconds}s Burn Time{2}"
-msgstr ""
+msgstr "{sign}{seconds}s Czasu Podpalenia{2}"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "{sign}{percent}% Status Duration{affixText}"
-msgstr ""
+msgstr "{sign}{percent}% Czas Trwania Statusu{affixText}"
 
 #. {2} is marks for the item's quality and affixes, which may be empty.
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "{sign}{percent}% Status Duration{2}"
-msgstr ""
+msgstr "{sign}{percent}% Czas Trwania Statusu{2}"
 
 #. {2} is marks for the item's quality and affixes, which may be empty.
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "{aimSign}{aimPercent}% Aim Assist{2}"
-msgstr ""
+msgstr "{aimSign}{aimPercent}% Wspomaganie Celowania{2}"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "{sign}{percent}% Potion Efficacy{affixText}"
-msgstr ""
+msgstr "{sign}{percent}% Efektywności mikstur{affixText}"
 
 #. {2} is marks for the item's quality and affixes, which may be empty.
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "{sign}{percent}% Potion Efficacy{2}"
-msgstr ""
+msgstr "{sign}{percent}% Efektywności mikstur{2}"
 
 #. {1} is a number.
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "{sign}{1} HP on Kill{affixText}"
-msgstr ""
+msgstr "{sign}{1} HP na Zabicie{affixText}"
 
 #. {1} is a number.
 #. {2} is marks for the item's quality and affixes, which may be empty.
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "{sign}{1} HP on Kill{2}"
-msgstr ""
+msgstr "{sign}{1} HP na Zabicie{2}"
 
 #. {1} is a number.
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "{sign}{1} MP on Kill{affixText}"
-msgstr ""
+msgstr "{sign}{1} MP na Zabicie{affixText}"
 
 #. {1} is a number.
 #. {2} is marks for the item's quality and affixes, which may be empty.
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "{sign}{1} MP on Kill{2}"
-msgstr ""
+msgstr "{sign}{1} MP na Zabicie{2}"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "{sign}{percent}% Projectile Damage Taken"
-msgstr ""
+msgstr "{sign}{percent}% Obrażeń Przyjętych od Pocisków"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "{sign}{percent}% AoE Damage Taken"
-msgstr ""
+msgstr "{sign}{percent}% Przyjętych Obrażeń AoE"
 
 #. {0} is a number.
 #. {1} is the name of a stat, such as "Speed".
@@ -1677,25 +1754,25 @@ msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "{sign}{percent}% Buff Duration{affixText}"
-msgstr ""
+msgstr "{sign}{percent}% Czas trwania Wzmocnienia{affixText}"
 
 #. {2} is marks for the item's quality and affixes, which may be empty.
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "{sign}{percent}% Buff Duration{2}"
-msgstr ""
+msgstr "{sign}{percent}% Czasu trwania Wzmocnienia{2}"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "{sign}{percent}% Debuff Duration{affixText}"
-msgstr ""
+msgstr "{sign}{percent}% Czasu trwania Osłabienia{affixText}"
 
 #. {2} is marks for the item's quality and affixes, which may be empty.
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "{sign}{percent}% Debuff Duration{2}"
-msgstr ""
+msgstr "{sign}{percent}% Czasu trwania Osłabienia{2}"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Traits:"
-msgstr ""
+msgstr "Atuty:"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Prevents HP Regen"
@@ -1703,11 +1780,11 @@ msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Prevents MP Regen"
-msgstr ""
+msgstr "Zapobiega Regeneracji MP"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Prevents Death"
-msgstr ""
+msgstr "Zapobiega Śmierci"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Breaks on Trial Fail"
@@ -1722,19 +1799,19 @@ msgstr ""
 #. {3} is a number.
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "{boostPrefix}<c#{statHex}>{2}{3} {name} ({proc.ProcStatDuration}s)<c/>"
-msgstr ""
+msgstr "{boostPrefix}<c#{statHex}>{2}{3} {name} ({proc.ProcStatDuration}s)<c/>"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Cooldown:"
-msgstr ""
+msgstr "Czas odnowienia:"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "After Channeling:"
-msgstr ""
+msgstr "Po załadowaniu:"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "<c#A9D7F2>Shoots:<c/>"
-msgstr ""
+msgstr "<c#A9D7F2>Wystrzeliwuje:<c/>"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "<c#14CC2C>+{costEffect.HealthGrant} HP<c/> per {costEffect.Step} {resourceName} Consumed"
@@ -1751,7 +1828,7 @@ msgstr ""
 #. {0} is the heading "Reroll Discount:".
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "{0} <c#ffff77>{off}%<c/> off every part"
-msgstr ""
+msgstr "{0} <c#ffff77>{off}%<c/> każdego segmentu"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Fuels:"
@@ -1760,11 +1837,11 @@ msgstr ""
 #. {0} is the heading "Fuels:".
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "{0} items up to <c#ffff77>{_data.RerollMaxIp}<c/> base IP"
-msgstr ""
+msgstr "{0} przedmioty do <c#ffff77>{_data.RerollMaxIp}<c/> bazowej Mocy Przedmiotu"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Quality Value:"
-msgstr ""
+msgstr "Wartość Jakości:"
 
 #. {0} is a number.
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
@@ -1777,31 +1854,31 @@ msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "<c#{affixColor}>{sign}{affix.Health} Health<c/>"
-msgstr ""
+msgstr "<c#{affixColor}>{sign}{affix.Health} Zdrowie<c/>"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "<c#{affixColor}>{sign}{affix.Mana} Mana<c/>"
-msgstr ""
+msgstr "<c#{affixColor}>{sign}{affix.Mana} Mana<c/>"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "<c#{affixColor}>{sign}{affix.Armor} Armor<c/>"
-msgstr ""
+msgstr "<c#{affixColor}>{sign}{affix.Armor} Pancerz<c/>"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "<c#{affixColor}>{sign}{affix.Attack} Attack<c/>"
-msgstr ""
+msgstr "<c#{affixColor}>{sign}{affix.Attack} Atak<c/>"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "<c#{affixColor}>{sign}{affix.Dexterity} Dexterity<c/>"
-msgstr ""
+msgstr "<c#{affixColor}>{sign}{affix.Dexterity} Zręczność<c/>"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "<c#{affixColor}>{sign}{affix.Speed} Speed<c/>"
-msgstr ""
+msgstr "<c#{affixColor}>{sign}{affix.Speed} Szybkość<c/>"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "<c#{affixColor}>{sign}{affix.Vitality} Vitality<c/>"
-msgstr ""
+msgstr "<c#{affixColor}>{sign}{affix.Vitality} Witalność<c/>"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "<c#{affixColor}>{sign}{affix.Wisdom} Wisdom<c/>"
@@ -1810,21 +1887,21 @@ msgstr ""
 #. {2} is a number.
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "<c#{affixColor}>Damage: {sign}{2}%<c/>"
-msgstr ""
+msgstr "<c#{affixColor}> Obrażenia: {sign}{2}%<c/>"
 
 #. {2} is a number.
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "<c#{affixColor}>Rate of Fire: {sign}{2}%<c/>"
-msgstr ""
+msgstr "<c#{affixColor}>Szybkostrzelność: {sign}{2}%<c/>"
 
 #. {2} is a number.
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "<c#{affixColor}>Projectile Size: {sign}{2}%<c/>"
-msgstr ""
+msgstr "<c#{affixColor}>Rozmiar pocisku: {sign}{2}%<c/>"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "<c#{affixColor}>{sign}{affix.ProjectileCount} Projectile Count<c/>"
-msgstr ""
+msgstr "<c#{affixColor}>{sign}{affix.ProjectileCount} Liczba Pocisków<c/>"
 
 #. {2} is a number.
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
@@ -1839,40 +1916,40 @@ msgstr ""
 #. {2} is a number.
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "<c#{affixColor}>Effect Radius: {sign}{2}%<c/>"
-msgstr ""
+msgstr "<c#{affixColor}>Promień Efektu: {sign}{2}%<c/>"
 
 #. {2} is a number.
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "<c#{affixColor}>Armor Piercing: {sign}{2}%<c/>"
-msgstr ""
+msgstr "<c#{affixColor}>Przebicie Pancerza: {sign}{2}%<c/>"
 
 #. {2} is a number.
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "<c#{affixColor}>Status Duration: {sign}{2}%<c/>"
-msgstr ""
+msgstr "<c#{affixColor}>Czas Trwania Statusu: {sign}{2}%<c/>"
 
 #. {2} is a number.
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "<c#{affixColor}>Buff Duration: {sign}{2}%<c/>"
-msgstr ""
+msgstr "<c#{affixColor}>Czas Trwania Wzmocnienia: {sign}{2}%<c/>"
 
 #. {2} is a number.
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "<c#{affixColor}>Debuff Duration: {sign}{2}%<c/>"
-msgstr ""
+msgstr "<c#{affixColor}>Czas Trwania Osłabienia: {sign}{2}%<c/>"
 
 #. {2} is a number.
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "<c#{affixColor}>Potion Efficacy: {sign}{2}%<c/>"
-msgstr ""
+msgstr "<c#{affixColor}>Efektywność mikstur: {sign}{2}%<c/>"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "<c#{affixColor}>{sign}{affix.HealthOnKill} HP on Kill<c/>"
-msgstr ""
+msgstr "<c#{affixColor}>{sign}{affix.HealthOnKill} HP na Zabicie<c/>"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "<c#{affixColor}>{sign}{affix.ManaOnKill} MP on Kill<c/>"
-msgstr ""
+msgstr "<c#{affixColor}>{sign}{affix.ManaOnKill} MP na Zabicie<c/>"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "On Ability Use:"
@@ -1880,7 +1957,7 @@ msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "On Damage Taken:"
-msgstr ""
+msgstr "Podczas Przyjęcia Obrażeń:"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "On Kill:"
@@ -1888,7 +1965,7 @@ msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Restores:"
-msgstr ""
+msgstr "Odnawia:"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopKyleTestTooltip.cs
 msgid ""
@@ -1938,15 +2015,15 @@ msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopScoreTooltip.cs
 msgid "5-9 attainments"
-msgstr ""
+msgstr "5-9 osiągnięć"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopScoreTooltip.cs
 msgid "10-14 attainments"
-msgstr ""
+msgstr "10-14 osiągnięć"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopScoreTooltip.cs
 msgid "15-19 attainments"
-msgstr ""
+msgstr "15-19 osiągnięć"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopScoreTooltip.cs
 msgid "20-24 attainments"
@@ -1954,11 +2031,11 @@ msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopScoreTooltip.cs
 msgid "25-28 attainments"
-msgstr ""
+msgstr "25-28 osiągnięć"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopScoreTooltip.cs
 msgid "29 attainments"
-msgstr ""
+msgstr "29 osiągnięć"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopShieldRankTooltip.cs
 msgid "<c#e8e881>Shield Attainments<c/> increase shield rank and reward gold when claimed."
@@ -1972,7 +2049,7 @@ msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopShieldRankTooltip.cs
 msgid "Seasonal"
-msgstr ""
+msgstr "Sezonowy"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopShieldRankTooltip.cs
 msgid ""
@@ -2030,7 +2107,7 @@ msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/OyunsRerollingTooltip.cs
 msgid "Cost"
-msgstr ""
+msgstr "Koszt"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/OyunsRerollingTooltip.cs
 msgid ""
@@ -2076,7 +2153,7 @@ msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/OyunsRerollingTooltip.cs
 msgid "Upgrade Bar"
-msgstr ""
+msgstr "Pasek ulepszeń"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/OyunsRerollingTooltip.cs
 msgid "<c#298e35>Traits<c/> are made of points. Tick the points you want rerolled; they move to a different trait."
@@ -2157,7 +2234,7 @@ msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/EssenceCollected.cs
 msgid "Essences Collected"
-msgstr ""
+msgstr "Esencje Zebrane"
 
 #. {1} is the name of an essence.
 #: DarzasClient/DarzasDominion/Darza/Game/UI/EssenceLabel.cs

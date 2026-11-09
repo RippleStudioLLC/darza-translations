@@ -9,6 +9,14 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
+#: DarzasClient/DarzasDominion/Audio/Voice/VoiceChat.cs
+msgid "The game cannot use your microphone. Allow it in your phone's settings to talk."
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Audio/Voice/VoiceChat.cs
+msgid "Your microphone would not start ({failure})."
+msgstr ""
+
 #: DarzasClient/DarzasDominion/Darza/Game/Boosts/ClientBoosts.cs
 #: DarzasDominion/DarzaGameServer/Worlds/Boosting/BoostBreakdowns.cs
 msgid "Loot Boost"
@@ -440,6 +448,7 @@ msgid ""
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Alerts/Alert.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopAudioPage.cs
 msgid "Both"
 msgstr "Оба"
 
@@ -908,6 +917,16 @@ msgstr "Повысить до Лидера"
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Mobile/Tooltips/MobileCharacterTooltip.cs
 msgid "Kick from Party"
 msgstr "Выгнать из Отряда"
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Menus/CharacterActions.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Mobile/Tooltips/MobileCharacterTooltip.cs
+msgid "Mute Voice"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Menus/CharacterActions.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Mobile/Tooltips/MobileCharacterTooltip.cs
+msgid "Unmute Voice"
+msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Menus/DesktopCharactersList.cs
 msgid "No nearby characters"
@@ -4069,6 +4088,7 @@ msgid "Hit Key"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/Components/SwitchOption.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopAudioPage.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopGraphicsPage.cs
 msgid "Off"
 msgstr "Откл"
@@ -4304,6 +4324,7 @@ msgid "Map: Teleport South Village"
 msgstr "Карта: Телепорт в Южную Деревню"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/ControllerBindingsPage.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopAudioPage.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/PartyListMenu.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/PartyWidget.cs
 #: DarzasClient/DarzasDominion/Nodes/GameChatBox.cs
@@ -4397,6 +4418,17 @@ msgstr "Переключить Видимость Игроков"
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopControlsPage.cs
 msgid "Open Emote Wheel"
 msgstr "Открыть Колесо Эмоций"
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/ControllerBindingsPage.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopAudioPage.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopControlsPage.cs
+msgid "Push to Talk"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/ControllerBindingsPage.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopControlsPage.cs
+msgid "Toggle Mute"
+msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/ControllerBindingsPage.cs
 msgid "Open Player List"
@@ -4648,6 +4680,49 @@ msgstr "Эффекты Оружия"
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopAudioPage.cs
 msgid "Ability SFX"
 msgstr "Эффекты Умений"
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopAudioPage.cs
+msgid "Voice"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopAudioPage.cs
+msgid "Voice Chat"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopAudioPage.cs
+msgid "World"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopAudioPage.cs
+msgid "Talk Mode"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopAudioPage.cs
+msgid "Open Mic"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopAudioPage.cs
+msgid "Voice Volume"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopAudioPage.cs
+msgid "Noise Filter"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopAudioPage.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopGraphicsPage.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/MobileGraphicsPage.cs
+msgid "Standard"
+msgstr "Стандарт"
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopAudioPage.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopGraphicsPage.cs
+msgid "Strong"
+msgstr "Сильный"
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopAudioPage.cs
+msgid "Mic Threshold"
+msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopAudioPage.cs
 msgid "Output"
@@ -4955,11 +5030,6 @@ msgstr "Режим Отображения"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopGraphicsPage.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/MobileGraphicsPage.cs
-msgid "Standard"
-msgstr "Стандарт"
-
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopGraphicsPage.cs
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/MobileGraphicsPage.cs
 msgid "Classic"
 msgstr "Классический"
 
@@ -4993,10 +5063,6 @@ msgstr ""
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopGraphicsPage.cs
 msgid "Subtle"
 msgstr ""
-
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopGraphicsPage.cs
-msgid "Strong"
-msgstr "Сильный"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopGraphicsPage.cs
 msgid "Distance Haze (3D)"

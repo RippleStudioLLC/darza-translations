@@ -9,6 +9,14 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
+#: DarzasClient/DarzasDominion/Audio/Voice/VoiceChat.cs
+msgid "The game cannot use your microphone. Allow it in your phone's settings to talk."
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Audio/Voice/VoiceChat.cs
+msgid "Your microphone would not start ({failure})."
+msgstr ""
+
 #: DarzasClient/DarzasDominion/Darza/Game/Boosts/ClientBoosts.cs
 #: DarzasDominion/DarzaGameServer/Worlds/Boosting/BoostBreakdowns.cs
 msgid "Loot Boost"
@@ -440,6 +448,7 @@ msgid ""
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Alerts/Alert.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopAudioPage.cs
 msgid "Both"
 msgstr "Ambos"
 
@@ -908,6 +917,16 @@ msgstr "Promover para Líder"
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Mobile/Tooltips/MobileCharacterTooltip.cs
 msgid "Kick from Party"
 msgstr "Remover do Grupo"
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Menus/CharacterActions.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Mobile/Tooltips/MobileCharacterTooltip.cs
+msgid "Mute Voice"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Menus/CharacterActions.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Mobile/Tooltips/MobileCharacterTooltip.cs
+msgid "Unmute Voice"
+msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Menus/DesktopCharactersList.cs
 msgid "No nearby characters"
@@ -4084,6 +4103,7 @@ msgid "Hit Key"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/Components/SwitchOption.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopAudioPage.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopGraphicsPage.cs
 msgid "Off"
 msgstr "Desligado"
@@ -4319,6 +4339,7 @@ msgid "Map: Teleport South Village"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/ControllerBindingsPage.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopAudioPage.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/PartyListMenu.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/PartyWidget.cs
 #: DarzasClient/DarzasDominion/Nodes/GameChatBox.cs
@@ -4412,6 +4433,17 @@ msgstr ""
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopControlsPage.cs
 msgid "Open Emote Wheel"
 msgstr "Abrir Roda de Emotes"
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/ControllerBindingsPage.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopAudioPage.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopControlsPage.cs
+msgid "Push to Talk"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/ControllerBindingsPage.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopControlsPage.cs
+msgid "Toggle Mute"
+msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/ControllerBindingsPage.cs
 msgid "Open Player List"
@@ -4661,6 +4693,49 @@ msgstr "SFX de Armas"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopAudioPage.cs
 msgid "Ability SFX"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopAudioPage.cs
+msgid "Voice"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopAudioPage.cs
+msgid "Voice Chat"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopAudioPage.cs
+msgid "World"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopAudioPage.cs
+msgid "Talk Mode"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopAudioPage.cs
+msgid "Open Mic"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopAudioPage.cs
+msgid "Voice Volume"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopAudioPage.cs
+msgid "Noise Filter"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopAudioPage.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopGraphicsPage.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/MobileGraphicsPage.cs
+msgid "Standard"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopAudioPage.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopGraphicsPage.cs
+msgid "Strong"
+msgstr "Forte"
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopAudioPage.cs
+msgid "Mic Threshold"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopAudioPage.cs
@@ -4969,11 +5044,6 @@ msgstr "Modo de Renderização"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopGraphicsPage.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/MobileGraphicsPage.cs
-msgid "Standard"
-msgstr ""
-
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopGraphicsPage.cs
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/MobileGraphicsPage.cs
 msgid "Classic"
 msgstr "Clássico"
 
@@ -5007,10 +5077,6 @@ msgstr "Modo Tilt-Shift (3D)"
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopGraphicsPage.cs
 msgid "Subtle"
 msgstr "Sutil"
-
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopGraphicsPage.cs
-msgid "Strong"
-msgstr "Forte"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopGraphicsPage.cs
 msgid "Distance Haze (3D)"

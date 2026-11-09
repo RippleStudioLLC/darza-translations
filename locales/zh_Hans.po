@@ -4364,12 +4364,21 @@ msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/ControllerBindingsPage.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopAudioPage.cs
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopControlsPage.cs
 msgid "Push to Talk"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/ControllerBindingsPage.cs
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopControlsPage.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopAudioPage.cs
+msgid "Talk to Party Only"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/ControllerBindingsPage.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopAudioPage.cs
+msgid "Talk to World Only"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/ControllerBindingsPage.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopAudioPage.cs
 msgid "Toggle Mute"
 msgstr ""
 
@@ -4618,6 +4627,7 @@ msgid "Ability SFX"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopAudioPage.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/PartyListMenu.cs
 msgid "Voice"
 msgstr ""
 

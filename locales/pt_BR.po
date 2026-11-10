@@ -282,11 +282,11 @@ msgid "Shop"
 msgstr "Loja"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/PetCustomizationStation.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsMenu.Hub.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsMenu.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Hud/HudEditOverlay.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/EssenceCollected.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/ExchangeEssenceMenu.cs
-#: DarzasClient/DarzasDominion/Darza/Game/UI/KylePages/AttainmentsDailyGoldMenu.cs
 msgid "Close"
 msgstr "Fechar"
 
@@ -380,10 +380,10 @@ msgstr "Eu concordo em seguir as diretrizes de jogador"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Alerts/Alert.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentStageRewardNode.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsMenu.Hub.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/DesktopUI.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GamePackages/BuyPackageButton.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/OptionPage.cs
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Reroll/RerollMenu2.cs
 msgid "Okay"
 msgstr ""
 
@@ -512,28 +512,305 @@ msgstr "Missões Diárias"
 msgid "Enter the game to claim your rewards."
 msgstr "Entre no jogo para resgatar suas recompensas."
 
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubClaimList.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubHome.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubSection.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsMenu.Hub.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/ClaimAllNode.cs
+msgid "Claim All"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubClaimList.cs
+msgid "SCORE"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubClaimList.cs
+msgid "SPENDABLE"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubClaimList.cs
+msgid "GOLD"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubClaimList.cs
+msgid "ITEMS"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubClaimList.cs
+msgid "Nothing to claim right now."
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubClaimList.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/MarketBoard/MarketBrowsePage.cs
+msgid "Total"
+msgstr "Total"
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubClaimList.cs
+msgid "{claims.Claims} rewards from {sections} section"
+msgid_plural "{claims.Claims} rewards from {sections} sections"
+msgstr[0] ""
+msgstr[1] ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubClaimList.cs
+msgid "Also: {extras}"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubClaimList.cs
+msgid "Claim All {claims.Claims}"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubHome.cs
+msgid "+{Experience} Experience"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubHome.cs
+msgid "+{VaultSlots} Vault Slots"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubHome.cs
+msgid "+{CharSlots} Character Slots"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubHome.cs
+msgid "+{Essence} Essence"
+msgstr ""
+
+#. {0} is a list of names, separated by commas.
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubHome.cs
+msgid "Unlocks {0}"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubHome.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubSection.cs
+msgid "Ruby Catch-Up"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubHome.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubSection.cs
+msgid "Ruby Season {state.SeasonId}"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubHome.cs
+msgid "left"
+msgstr ""
+
+#. a ruby shield's rank; {roman} is its prestige as a Roman numeral (II, III, ...)
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubHome.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/RubyShieldVisuals.cs
+msgid "Ruby"
+msgstr "Rubi"
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubHome.cs
+msgid "Season starts {state.SeasonStart} (UTC)"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubHome.cs
+msgid "to start"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubHome.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubSection.cs
+msgid "Rewards still claimable"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubHome.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubSection.cs
+msgid "Ended"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubHome.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubSection.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsMenu.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/TrialsLeaderboardMenu.cs
+msgid "Daily"
+msgstr "Diário"
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubHome.cs
+msgid "No dailies right now"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubHome.cs
+msgid "to reset"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubHome.cs
+msgid "{done} of 3 done"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubHome.cs
+msgid "Event"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubHome.cs
+msgid "Rank {collected}/{total}"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubHome.cs
+msgid "Max shield"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubHome.cs
+msgid "{next} claim to next shield"
+msgid_plural "{next} claims to next shield"
+msgstr[0] ""
+msgstr[1] ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubHome.cs
+msgid "{claims.Claims} reward ready"
+msgid_plural "{claims.Claims} rewards ready"
+msgstr[0] ""
+msgstr[1] ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubHome.cs
+msgid "View list"
+msgstr ""
+
+#. {0} is something the game fills in.
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubSection.cs
+msgid "All {0}"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubSection.cs
+msgid "General"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubSection.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/KylePages/AttainmentsDailyGoldMenu.cs
+msgid "Semreh's Dailies"
+msgstr "Missões Diárias de Semreh"
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubSection.cs
+msgid "RESETS IN"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubSection.cs
+msgid "DONE"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubSection.cs
+msgid "SEASONAL"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubSection.cs
+msgid "RANK"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubSection.cs
+msgid "COLLECTION"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubSection.cs
+msgid "PRESTIGE"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubSection.cs
+msgid "Active"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubSection.cs
+msgid "Dormant"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubSection.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/CharacterList/ClassDetailPanel.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/PackageStore/CosmeticSpotlight.cs
+msgid "Locked"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubSection.cs
+msgid "SEASON"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubSection.cs
+msgid "done"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubSection.cs
+msgid "{claimable} to claim"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubSection.cs
+msgid "ENDS IN"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubSection.cs
+msgid "STARTS IN"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubSection.cs
+msgid "STATUS"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubSection.cs
+msgid "NEXT SHIELD"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubSection.cs
+msgid "claim"
+msgid_plural "claims"
+msgstr[0] ""
+msgstr[1] ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubSection.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Gems/GemStorageMenu.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopGraphicsPage.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/MobileGraphicsPage.cs
+msgid "Max"
+msgstr "Máximo"
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubSection.cs
+msgid "CLAIMABLE"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubSection.cs
+msgid "COMPLETED"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubSection.cs
+msgid "All {shown.Count}"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubSection.cs
+msgid "Claimable {claimable}"
+msgstr ""
+
+#. {0} is a number.
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubSection.cs
+msgid "In progress {0}"
+msgstr ""
+
+#. {0} is a number.
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubSection.cs
+msgid "Completed {0}"
+msgstr ""
+
+#. {0} is a number.
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubSection.cs
+msgid "Tracked {0}"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsMenu.Hub.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsMenu.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/KylePages/AttainmentsMainMenu.cs
 msgid "Attainments"
 msgstr "Conquistas"
 
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsMenu.Hub.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsMenu.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/KylePages/AttainmentsDailyGoldMenu.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/KylePages/AttainmentsMainMenu.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/KylePages/EssencesMenu.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/KylePages/KyleAccountCustomizationMenu.cs
-#: DarzasClient/DarzasDominion/Darza/Game/UI/KylePages/KyleCharacterCustomizationMenu.cs
 msgid "Back"
 msgstr "Voltar"
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsMenu.Hub.cs
+msgid "Failed to claim"
+msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsMenu.cs
 msgid "Claiming..."
 msgstr "Resgatando..."
-
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsMenu.cs
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/TrialsLeaderboardMenu.cs
-msgid "Daily"
-msgstr "Diário"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsPage.cs
 msgid "Ruby Attainments"
@@ -541,6 +818,11 @@ msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsPage.cs
 msgid "[c#D81F3F]Ruby Attainments[c/] are [c#0xffff77]seasonal Shield objectives[c/] with Ruby-specific rewards and progression.\n"
+msgstr ""
+
+#. {0} is the name of a category.
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsPage.cs
+msgid "Search {0}"
 msgstr ""
 
 #. {0} is the name of a category.
@@ -574,10 +856,6 @@ msgstr "Ranque de escudo"
 #: DarzasClient/DarzasDominion/Darza/Game/UI/BossHealthBar.cs
 msgid "You're already closest to this Boss!"
 msgstr "Você é o mais próximo do Chefe!"
-
-#: DarzasClient/DarzasDominion/Darza/Game/UI/ClaimAllNode.cs
-msgid "Claim All"
-msgstr ""
 
 #. {2} is the name of a currency, such as "Gold".
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Components/ShopItemNode.cs
@@ -2382,10 +2660,6 @@ msgstr "Membros: <c#{color}>{_guildInfo.Members.Count}/{GameConstants.Max_Guild_
 msgid "Attainments Chronicle"
 msgstr "Registro de Conquistas"
 
-#: DarzasClient/DarzasDominion/Darza/Game/UI/KylePages/AttainmentsDailyGoldMenu.cs
-msgid "Semreh's Dailies"
-msgstr "Missões Diárias de Semreh"
-
 #: DarzasClient/DarzasDominion/Darza/Game/UI/KylePages/AttainmentsLeaderboardPage.cs
 msgid "Attainments Leaderboard"
 msgstr "Classificação de Conquistas"
@@ -3121,11 +3395,6 @@ msgid "About"
 msgstr "Sobre"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/CharacterList/ClassDetailPanel.cs
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/PackageStore/CosmeticSpotlight.cs
-msgid "Locked"
-msgstr ""
-
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/CharacterList/ClassDetailPanel.cs
 msgid "Stats at level 1"
 msgstr "Atributos no nível 1"
 
@@ -3411,12 +3680,6 @@ msgid "Amount"
 msgstr "Quantia"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Gems/GemStorageMenu.cs
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopGraphicsPage.cs
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/MobileGraphicsPage.cs
-msgid "Max"
-msgstr "Máximo"
-
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Gems/GemStorageMenu.cs
 msgid "Pick a gem from the bank."
 msgstr "Pegar uma gema do banco."
 
@@ -3618,10 +3881,6 @@ msgstr ""
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/MarketBoard/MarketBrowsePage.cs
 msgid "Unit price"
 msgstr "Preço Unitário"
-
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/MarketBoard/MarketBrowsePage.cs
-msgid "Total"
-msgstr "Total"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/MarketBoard/MarketBrowsePage.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/MarketBoard/MarketHistoryView.cs
@@ -4743,6 +5002,10 @@ msgstr ""
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopGraphicsPage.cs
 msgid "Strong"
 msgstr "Forte"
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopAudioPage.cs
+msgid "Mic Volume"
+msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopAudioPage.cs
 msgid "Mic Threshold"
@@ -6847,11 +7110,6 @@ msgstr "Resgatar"
 #: DarzasClient/DarzasDominion/Darza/Game/UI/RerollMenu.cs
 msgid "Oyun's Rerolling"
 msgstr ""
-
-#. a ruby shield's rank; {roman} is its prestige as a Roman numeral (II, III, ...)
-#: DarzasClient/DarzasDominion/Darza/Game/UI/RubyShieldVisuals.cs
-msgid "Ruby"
-msgstr "Rubi"
 
 #. a ruby shield's rank; {roman} is its prestige as a Roman numeral (II, III, ...)
 #: DarzasClient/DarzasDominion/Darza/Game/UI/RubyShieldVisuals.cs

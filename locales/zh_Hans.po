@@ -543,6 +543,7 @@ msgid "GOLD"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubClaimList.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubHome.cs
 msgid "ITEMS"
 msgstr ""
 
@@ -587,6 +588,14 @@ msgstr ""
 #. {0} is a list of names, separated by commas.
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubHome.cs
 msgid "Unlocks {0}"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubHome.cs
+msgid "ACCOUNT"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubHome.cs
+msgid "COMBAT"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubHome.cs

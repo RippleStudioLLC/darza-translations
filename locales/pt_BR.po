@@ -512,6 +512,17 @@ msgstr "Missões Diárias"
 msgid "Enter the game to claim your rewards."
 msgstr "Entre no jogo para resgatar suas recompensas."
 
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubClaimConfirm.cs
+msgid "Claim these rewards?"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubClaimConfirm.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubClaimList.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubHome.cs
+msgid "ITEMS"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubClaimConfirm.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubClaimList.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubHome.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubSection.cs
@@ -533,11 +544,6 @@ msgid "GOLD"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubClaimList.cs
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubHome.cs
-msgid "ITEMS"
-msgstr ""
-
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubClaimList.cs
 msgid "Nothing to claim right now."
 msgstr ""
 
@@ -545,12 +551,6 @@ msgstr ""
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/MarketBoard/MarketBrowsePage.cs
 msgid "Total"
 msgstr "Total"
-
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubClaimList.cs
-msgid "{claims.Claims} rewards from {sections} section"
-msgid_plural "{claims.Claims} rewards from {sections} sections"
-msgstr[0] ""
-msgstr[1] ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubClaimList.cs
 msgid "Also: {extras}"
@@ -561,19 +561,23 @@ msgid "Claim All {claims.Claims}"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubHome.cs
-msgid "+{Experience} Experience"
+msgid "{Experience} Experience"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubHome.cs
-msgid "+{VaultSlots} Vault Slots"
-msgstr ""
+msgid "{VaultSlots} Vault Slot"
+msgid_plural "{VaultSlots} Vault Slots"
+msgstr[0] ""
+msgstr[1] ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubHome.cs
-msgid "+{CharSlots} Character Slots"
-msgstr ""
+msgid "{CharSlots} Character Slot"
+msgid_plural "{CharSlots} Character Slots"
+msgstr[0] ""
+msgstr[1] ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubHome.cs
-msgid "+{Essence} Essence"
+msgid "{Essence} Essence"
 msgstr ""
 
 #. {0} is a list of names, separated by commas.

@@ -684,11 +684,15 @@ msgid "Semreh's Dailies"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubSection.cs
-msgid "RESETS IN"
+msgid "DONE"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubSection.cs
-msgid "DONE"
+msgid "{claimable} to claim"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubSection.cs
+msgid "RESETS IN"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubSection.cs
@@ -727,10 +731,6 @@ msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubSection.cs
 msgid "done"
-msgstr ""
-
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubSection.cs
-msgid "{claimable} to claim"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubSection.cs
@@ -5607,6 +5607,11 @@ msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopGraphicsPage.cs
 msgid "Draw Weather*"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopGraphicsPage.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/MobileGraphicsPage.cs
+msgid "Draw Parallax Backgrounds"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopGraphicsPage.cs

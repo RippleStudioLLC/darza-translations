@@ -870,6 +870,14 @@ msgstr "Ранг Щита"
 msgid "You're already closest to this Boss!"
 msgstr "Вы уже ближе всех к Боссу!"
 
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Components/LoadingBar.cs
+msgid "{done} / {total} MB"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Components/LoadingBar.cs
+msgid "{doneKb} / {totalKb} KB"
+msgstr ""
+
 #. {2} is the name of a currency, such as "Gold".
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Components/ShopItemNode.cs
 msgid "Are you sure you want to buy <c#e8e881>{data.Id}<c/> for {data.Price} {2}?"
@@ -7419,12 +7427,8 @@ msgid "[UI swap] {label} failed: {1}: {ex.Message}"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Scenes/LoadingScene.cs
-msgid "Downloading: {assetVersion.Name}..."
-msgstr "Скачиваем: {assetVersion.Name}..."
-
-#: DarzasClient/DarzasDominion/Darza/Scenes/LoadingScene.cs
-msgid "Downloading: {assetVersion.Name}XML..."
-msgstr "Скачиваем: {assetVersion.Name}XML..."
+msgid "Downloading update..."
+msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Scenes/LoadingScene.cs
 msgid "Unable to load assets from server"
@@ -13907,3 +13911,9 @@ msgstr ""
 #: DarzasDominion/DarzaGameServer/Worlds/WorldManager.cs
 msgid "The Tavern is updating. Try escaping again in a moment."
 msgstr ""
+
+#~ msgid "Downloading: {assetVersion.Name}..."
+#~ msgstr "Скачиваем: {assetVersion.Name}..."
+
+#~ msgid "Downloading: {assetVersion.Name}XML..."
+#~ msgstr "Скачиваем: {assetVersion.Name}XML..."

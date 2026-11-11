@@ -866,6 +866,14 @@ msgstr "Schildrang"
 msgid "You're already closest to this Boss!"
 msgstr "Du bist diesem Boss bereits am nächsten!"
 
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Components/LoadingBar.cs
+msgid "{done} / {total} MB"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Components/LoadingBar.cs
+msgid "{doneKb} / {totalKb} KB"
+msgstr ""
+
 #. {2} is the name of a currency, such as "Gold".
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Components/ShopItemNode.cs
 msgid "Are you sure you want to buy <c#e8e881>{data.Id}<c/> for {data.Price} {2}?"
@@ -7323,11 +7331,7 @@ msgid "[UI swap] {label} failed: {1}: {ex.Message}"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Scenes/LoadingScene.cs
-msgid "Downloading: {assetVersion.Name}..."
-msgstr ""
-
-#: DarzasClient/DarzasDominion/Darza/Scenes/LoadingScene.cs
-msgid "Downloading: {assetVersion.Name}XML..."
+msgid "Downloading update..."
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Scenes/LoadingScene.cs

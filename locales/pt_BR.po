@@ -866,6 +866,14 @@ msgstr "Ranque de escudo"
 msgid "You're already closest to this Boss!"
 msgstr "Você é o mais próximo do Chefe!"
 
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Components/LoadingBar.cs
+msgid "{done} / {total} MB"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Components/LoadingBar.cs
+msgid "{doneKb} / {totalKb} KB"
+msgstr ""
+
 #. {2} is the name of a currency, such as "Gold".
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Components/ShopItemNode.cs
 msgid "Are you sure you want to buy <c#e8e881>{data.Id}<c/> for {data.Price} {2}?"
@@ -7411,12 +7419,8 @@ msgid "[UI swap] {label} failed: {1}: {ex.Message}"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Scenes/LoadingScene.cs
-msgid "Downloading: {assetVersion.Name}..."
-msgstr "Baixando: {assetVersion.Name}..."
-
-#: DarzasClient/DarzasDominion/Darza/Scenes/LoadingScene.cs
-msgid "Downloading: {assetVersion.Name}XML..."
-msgstr "Baixando: {assetVersion.Name}XML..."
+msgid "Downloading update..."
+msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Scenes/LoadingScene.cs
 msgid "Unable to load assets from server"
@@ -13888,3 +13892,9 @@ msgstr "Falha na transferência de servidores. Favor conectar-se novamente."
 #: DarzasDominion/DarzaGameServer/Worlds/WorldManager.cs
 msgid "The Tavern is updating. Try escaping again in a moment."
 msgstr "A Taverna está em atualização. Tente escapar novamente em instantes."
+
+#~ msgid "Downloading: {assetVersion.Name}..."
+#~ msgstr "Baixando: {assetVersion.Name}..."
+
+#~ msgid "Downloading: {assetVersion.Name}XML..."
+#~ msgstr "Baixando: {assetVersion.Name}XML..."

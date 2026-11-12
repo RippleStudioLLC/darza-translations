@@ -12093,6 +12093,10 @@ msgid "Unable to find player"
 msgstr ""
 
 #: DarzasDominion/DarzaGameServer/Networking/Database/Handlers/DbExecuteSummonHandler.cs
+msgid "Choose a character first."
+msgstr ""
+
+#: DarzasDominion/DarzaGameServer/Networking/Database/Handlers/DbExecuteSummonHandler.cs
 #: DarzasDominion/DarzaGameServer/Worlds/GameObjects/Entities/Player.Party.cs
 msgid "Could not join that world. It may no longer be available."
 msgstr ""
@@ -12493,6 +12497,14 @@ msgstr ""
 #: DarzasDominion/DarzaGameServer/Networking/Game/Handlers/GmSwapHandler.cs
 #: DarzasDominion/DarzaGameServer/Networking/Game/ItemSwapRules.cs
 msgid "\"You cannot drop items in Trial dungeons!\" - Semreh"
+msgstr ""
+
+#: DarzasDominion/DarzaGameServer/Networking/Game/Handlers/GmSwapHandler.cs
+msgid "A soulbound gem cannot go into gem storage."
+msgstr ""
+
+#: DarzasDominion/DarzaGameServer/Networking/Game/Handlers/GmSwapHandler.cs
+msgid "Isolation: this character can only store gems it earned itself."
 msgstr ""
 
 #. {0} is a number.
@@ -13784,7 +13796,16 @@ msgid "Received {amountText} from {sourceName}!"
 msgstr ""
 
 #: DarzasDominion/DarzaGameServer/Worlds/Trading/NpcTrade.cs
+#: DarzasDominion/DarzaGameServer/Worlds/Trading/Trade.cs
+msgid "The trade was canceled because an offered item changed."
+msgstr ""
+
+#: DarzasDominion/DarzaGameServer/Worlds/Trading/NpcTrade.cs
 msgid "Isolation characters can only trade items they earned."
+msgstr ""
+
+#: DarzasDominion/DarzaGameServer/Worlds/Trading/Trade.cs
+msgid "The trade was canceled because it could not be saved. Try again in a moment."
 msgstr ""
 
 #: DarzasDominion/DarzaGameServer/Worlds/World.GameObjects.cs

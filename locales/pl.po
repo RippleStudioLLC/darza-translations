@@ -1726,6 +1726,12 @@ msgstr "{chance}% <c#A9D7F2>Szansy na kradzież<c/> {amount} <c#A9D7F2>MP<c/>"
 msgid "{chance}% <c#A9D7F2>Chance to Leech<c/> {amount} <c#A9D7F2>HP<c/>"
 msgstr "{chance}% <c#A9D7F2>Szansy na kradzież<c/> {amount} <c#A9D7F2>HP<c/>"
 
+#. {0} is a plus or minus sign.
+#. {1} is a number.
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
+msgid "<c#A9D7F2>Aim Assist:<c/> {0}{1}%{aimMarks}"
+msgstr "<c#A9D7F2>Wspomaganie Celowania:<c/> {0}{1}%{aimMarks}"
+
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Not earned by this character"
 msgstr "Niezdobyte przez tę postać"
@@ -1789,12 +1795,6 @@ msgid_plural "{proj.Ricochet} <c#A9D7F2>Ricochets<c/>{ricochetMarks}"
 msgstr[0] "{proj.Ricochet} <c#A9D7F2>Rykoszet<c/>{ricochetMarks}"
 msgstr[1] "{proj.Ricochet} <c#A9D7F2>Rykoszety<c/>{ricochetMarks}"
 msgstr[2] "{proj.Ricochet} <c#A9D7F2>Rykoszetów<c/>{ricochetMarks}"
-
-#. {0} is a plus or minus sign.
-#. {1} is a number.
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
-msgid "<c#A9D7F2>Aim Assist:<c/> {0}{1}%{aimMarks}"
-msgstr "<c#A9D7F2>Wspomaganie Celowania:<c/> {0}{1}%{aimMarks}"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "<c#A9D7F2>Homing:<c/> {homingArc}°{homingMarks}"
@@ -1906,6 +1906,10 @@ msgid "Volley:"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
+msgid "Hit Radius:"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Delay:"
 msgstr "Opóźnienie:"
 
@@ -1995,26 +1999,6 @@ msgstr "{sign}{percent}% Wielkość pocisku{2}"
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "{sign}{percent}% Effect Radius{2}"
 msgstr "{sign}{percent}% Promień efektu{2}"
-
-#. {2} is marks for the item's quality and affixes, which may be empty.
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
-msgid "{sign}{percent}% Beam Width{2}"
-msgstr "{sign}{percent}% Szerokość promienia{2}"
-
-#. {2} is marks for the item's quality and affixes, which may be empty.
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
-msgid "{sign}{percent}% Spread{2}"
-msgstr "{sign}{percent}% Rozpiętości{2}"
-
-#. {2} is marks for the item's quality and affixes, which may be empty.
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
-msgid "{sign}{seconds}s Charge Time{2}"
-msgstr "{sign}{seconds}s Czas ładowania{2}"
-
-#. {2} is marks for the item's quality and affixes, which may be empty.
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
-msgid "{sign}{seconds}s Burn Time{2}"
-msgstr "{sign}{seconds}s Czasu Podpalenia{2}"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "{sign}{percent}% Status Duration{affixText}"
@@ -2599,6 +2583,26 @@ msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/GameUI.cs
 msgid "Escaping...  (stand still, again to cancel)"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/GameUI.cs
+msgid "their world"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/GameUI.cs
+msgid "{summonerName} is summoning the party to {destination} (Chain {chainCount}, <c#{hex}>{percent}% Loot<c/>). Click to join!"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/GameUI.cs
+msgid "{summonerName} is summoning the party to {destination} (Chain {chainCount}). Click to join!"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/GameUI.cs
+msgid "{summonerName} is summoning the party to {destination} (<c#{hex}>{percent}% Loot<c/>). Click to join!"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/GameUI.cs
+msgid "{summonerName} is summoning the party to {destination}. Click to join!"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/GameUI.cs
@@ -13932,3 +13936,15 @@ msgstr ""
 #: DarzasDominion/DarzaGameServer/Worlds/WorldManager.cs
 msgid "The Tavern is updating. Try escaping again in a moment."
 msgstr ""
+
+#~ msgid "{sign}{percent}% Beam Width{2}"
+#~ msgstr "{sign}{percent}% Szerokość promienia{2}"
+
+#~ msgid "{sign}{percent}% Spread{2}"
+#~ msgstr "{sign}{percent}% Rozpiętości{2}"
+
+#~ msgid "{sign}{seconds}s Burn Time{2}"
+#~ msgstr "{sign}{seconds}s Czasu Podpalenia{2}"
+
+#~ msgid "{sign}{seconds}s Charge Time{2}"
+#~ msgstr "{sign}{seconds}s Czas ładowania{2}"

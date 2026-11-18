@@ -1685,6 +1685,12 @@ msgstr "{chance}% <c#A9D7F2>Шанс Украсть<c/> {amount} <c#A9D7F2>ОМ<
 msgid "{chance}% <c#A9D7F2>Chance to Leech<c/> {amount} <c#A9D7F2>HP<c/>"
 msgstr "{chance}% <c#A9D7F2>Шанс Украсть<c/> {amount} <c#A9D7F2>ОЗ<c/>"
 
+#. {0} is a plus or minus sign.
+#. {1} is a number.
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
+msgid "<c#A9D7F2>Aim Assist:<c/> {0}{1}%{aimMarks}"
+msgstr "<c#A9D7F2>Помощь в Прицеливании:<c/> {0}{1}%{aimMarks}"
+
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Not earned by this character"
 msgstr "Не заработано этим персонажем"
@@ -1748,12 +1754,6 @@ msgid_plural "{proj.Ricochet} <c#A9D7F2>Ricochets<c/>{ricochetMarks}"
 msgstr[0] "{proj.Ricochet} <c#A9D7F2>Рикошет<c/>{ricochetMarks}"
 msgstr[1] "{proj.Ricochet} <c#A9D7F2>Рикошета<c/>{ricochetMarks}"
 msgstr[2] "{proj.Ricochet} <c#A9D7F2>Рикошетов<c/>{ricochetMarks}"
-
-#. {0} is a plus or minus sign.
-#. {1} is a number.
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
-msgid "<c#A9D7F2>Aim Assist:<c/> {0}{1}%{aimMarks}"
-msgstr "<c#A9D7F2>Помощь в Прицеливании:<c/> {0}{1}%{aimMarks}"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "<c#A9D7F2>Homing:<c/> {homingArc}°{homingMarks}"
@@ -1865,6 +1865,10 @@ msgid "Volley:"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
+msgid "Hit Radius:"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "Delay:"
 msgstr "Задержка:"
 
@@ -1954,26 +1958,6 @@ msgstr "{sign}{percent}% Размера Снаряда{2}"
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "{sign}{percent}% Effect Radius{2}"
 msgstr "{sign}{percent}% Радиуса Действия{2}"
-
-#. {2} is marks for the item's quality and affixes, which may be empty.
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
-msgid "{sign}{percent}% Beam Width{2}"
-msgstr ""
-
-#. {2} is marks for the item's quality and affixes, which may be empty.
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
-msgid "{sign}{percent}% Spread{2}"
-msgstr "{sign}{percent}% Разброса{2}"
-
-#. {2} is marks for the item's quality and affixes, which may be empty.
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
-msgid "{sign}{seconds}s Charge Time{2}"
-msgstr "{sign}{seconds}с Времени Зарядки{2}"
-
-#. {2} is marks for the item's quality and affixes, which may be empty.
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
-msgid "{sign}{seconds}s Burn Time{2}"
-msgstr "{sign}{seconds}с Времени Горения{2}"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
 msgid "{sign}{percent}% Status Duration{affixText}"
@@ -2577,6 +2561,26 @@ msgstr ""
 #: DarzasClient/DarzasDominion/Darza/Game/UI/GameUI.cs
 msgid "Escaping...  (stand still, again to cancel)"
 msgstr "Сбегаем... (стойте смирно, еще раз для отмены)"
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/GameUI.cs
+msgid "their world"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/GameUI.cs
+msgid "{summonerName} is summoning the party to {destination} (Chain {chainCount}, <c#{hex}>{percent}% Loot<c/>). Click to join!"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/GameUI.cs
+msgid "{summonerName} is summoning the party to {destination} (Chain {chainCount}). Click to join!"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/GameUI.cs
+msgid "{summonerName} is summoning the party to {destination} (<c#{hex}>{percent}% Loot<c/>). Click to join!"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/GameUI.cs
+msgid "{summonerName} is summoning the party to {destination}. Click to join!"
+msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/GameUI.cs
 msgid "Press Enter to chat"
@@ -13948,3 +13952,12 @@ msgstr ""
 
 #~ msgid "Downloading: {assetVersion.Name}XML..."
 #~ msgstr "Скачиваем: {assetVersion.Name}XML..."
+
+#~ msgid "{sign}{percent}% Spread{2}"
+#~ msgstr "{sign}{percent}% Разброса{2}"
+
+#~ msgid "{sign}{seconds}s Burn Time{2}"
+#~ msgstr "{sign}{seconds}с Времени Горения{2}"
+
+#~ msgid "{sign}{seconds}s Charge Time{2}"
+#~ msgstr "{sign}{seconds}с Времени Зарядки{2}"

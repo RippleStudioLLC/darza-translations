@@ -8156,6 +8156,7 @@ msgid "Fall to my blade!"
 msgstr ""
 
 #: DarzasDominion/DarzaGameServer/Logic/Data/Dominion/DominionMountainBehaviors.cs
+#: DarzasDominion/DarzaGameServer/Logic/Data/Experienced/TheReachBehaviors.cs
 #: DarzasDominion/DarzaGameServer/Logic/Data/Expert/AxisOfTradeBehaviors.cs
 msgid "Die!"
 msgstr ""
@@ -9691,6 +9692,7 @@ msgid "You're nothing!"
 msgstr ""
 
 #: DarzasDominion/DarzaGameServer/Logic/Data/Experienced/HallTwinstarBehaviors.cs
+#: DarzasDominion/DarzaGameServer/Logic/Data/Experienced/TheReachBehaviors.cs
 msgid "Impossible!"
 msgstr ""
 
@@ -10211,6 +10213,110 @@ msgstr ""
 
 #: DarzasDominion/DarzaGameServer/Logic/Data/Experienced/TheReachBehaviors.cs
 msgid "Outliers exist in which your purpose is irrelevant."
+msgstr ""
+
+#: DarzasDominion/DarzaGameServer/Logic/Data/Experienced/TheReachBehaviors.cs
+msgid "Who said you could take these presents?"
+msgstr ""
+
+#: DarzasDominion/DarzaGameServer/Logic/Data/Experienced/TheReachBehaviors.cs
+msgid "What do you think you're doing here?!"
+msgstr ""
+
+#: DarzasDominion/DarzaGameServer/Logic/Data/Experienced/TheReachBehaviors.cs
+msgid "Naughty list for what?! You thieving rats deserve this!"
+msgstr ""
+
+#: DarzasDominion/DarzaGameServer/Logic/Data/Experienced/TheReachBehaviors.cs
+msgid "These gifts are mine!"
+msgstr ""
+
+#: DarzasDominion/DarzaGameServer/Logic/Data/Experienced/TheReachBehaviors.cs
+msgid "This is what you get!"
+msgstr ""
+
+#: DarzasDominion/DarzaGameServer/Logic/Data/Experienced/TheReachBehaviors.cs
+msgid "Now perish!"
+msgstr ""
+
+#: DarzasDominion/DarzaGameServer/Logic/Data/Experienced/TheReachBehaviors.cs
+msgid "You do not belong here!"
+msgstr ""
+
+#: DarzasDominion/DarzaGameServer/Logic/Data/Experienced/TheReachBehaviors.cs
+msgid "What makes you nicer than me?!"
+msgstr ""
+
+#: DarzasDominion/DarzaGameServer/Logic/Data/Experienced/TheReachBehaviors.cs
+msgid "Rats like you don't deserve gifts!"
+msgstr ""
+
+#: DarzasDominion/DarzaGameServer/Logic/Data/Experienced/TheReachBehaviors.cs
+msgid "You'll never get these presents!"
+msgstr ""
+
+#: DarzasDominion/DarzaGameServer/Logic/Data/Experienced/TheReachBehaviors.cs
+msgid "The only thing you deserve this year is coal!"
+msgstr ""
+
+#: DarzasDominion/DarzaGameServer/Logic/Data/Experienced/TheReachBehaviors.cs
+msgid "I'll stocking stuff this scythe into your souls!"
+msgstr ""
+
+#: DarzasDominion/DarzaGameServer/Logic/Data/Experienced/TheReachBehaviors.cs
+msgid "Perish in the wake of these wintry storms!"
+msgstr ""
+
+#: DarzasDominion/DarzaGameServer/Logic/Data/Experienced/TheReachBehaviors.cs
+msgid "Blizzards take you!"
+msgstr ""
+
+#: DarzasDominion/DarzaGameServer/Logic/Data/Experienced/TheReachBehaviors.cs
+msgid "Naughty not, I am the one who deserves these presents!"
+msgstr ""
+
+#: DarzasDominion/DarzaGameServer/Logic/Data/Experienced/TheReachBehaviors.cs
+msgid "Leave nothing but frozen bones!"
+msgstr ""
+
+#: DarzasDominion/DarzaGameServer/Logic/Data/Experienced/TheReachBehaviors.cs
+msgid "Fall! ...er, Winter!"
+msgstr ""
+
+#: DarzasDominion/DarzaGameServer/Logic/Data/Experienced/TheReachBehaviors.cs
+msgid "I'll knock the stuff out of your stockings!"
+msgstr ""
+
+#: DarzasDominion/DarzaGameServer/Logic/Data/Experienced/TheReachBehaviors.cs
+msgid "An evergreen conifer won't be the only thing falling after today!"
+msgstr ""
+
+#: DarzasDominion/DarzaGameServer/Logic/Data/Experienced/TheReachBehaviors.cs
+msgid "There's snow way you're leaving here alive!"
+msgstr ""
+
+#: DarzasDominion/DarzaGameServer/Logic/Data/Experienced/TheReachBehaviors.cs
+msgid "You deserve a snowglobe to your globe!"
+msgstr ""
+
+#: DarzasDominion/DarzaGameServer/Logic/Data/Experienced/TheReachBehaviors.cs
+msgid "Running is cowardly!"
+msgstr ""
+
+#: DarzasDominion/DarzaGameServer/Logic/Data/Experienced/TheReachBehaviors.cs
+msgid "Hiding is not in the Christmas spirit!"
+msgstr ""
+
+#: DarzasDominion/DarzaGameServer/Logic/Data/Experienced/TheReachBehaviors.cs
+msgid "Get back here and perish!"
+msgstr ""
+
+#: DarzasDominion/DarzaGameServer/Logic/Data/Experienced/TheReachBehaviors.cs
+msgid "No! It wasn't supposed to be this way!"
+msgstr ""
+
+#: DarzasDominion/DarzaGameServer/Logic/Data/Experienced/TheReachBehaviors.cs
+msgid "This won't be the last time!"
 msgstr ""
 
 #: DarzasDominion/DarzaGameServer/Logic/Data/Experienced/TheReachBehaviors.cs
@@ -13146,6 +13252,10 @@ msgstr ""
 
 #: DarzasDominion/DarzaGameServer/Worlds/Data/Dungeon.cs
 msgid "\"This seeded run finished after the event window ended and will not count on the leaderboard!\" - Semreh"
+msgstr ""
+
+#: DarzasDominion/DarzaGameServer/Worlds/Data/Dungeon.cs
+msgid "It has not snowed on this plane in some time."
 msgstr ""
 
 #: DarzasDominion/DarzaGameServer/Worlds/Data/Dungeon.cs

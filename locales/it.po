@@ -3168,6 +3168,14 @@ msgid "south-east"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Map/MapEntries.cs
+msgid "Party summon"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Map/MapEntries.cs
+msgid "Summoned by {name}"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Map/MapEntries.cs
 msgid "Opening"
 msgstr ""
 
@@ -3189,6 +3197,14 @@ msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Map/MapEntries.cs
 msgid "At {next}, after {current}"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Map/MapEntries.cs
+msgid "Ready"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Map/MapEntries.cs
+msgid "Resting"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Map/MapEntries.cs
@@ -7390,6 +7406,10 @@ msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/World.cs
 msgid "Vesta, Axis Gatesguard"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/World.cs
+msgid "Joining your party...  (stand still, again to cancel)"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/World.cs
@@ -12410,6 +12430,10 @@ msgid "Choose a character first."
 msgstr ""
 
 #: DarzasDominion/DarzaGameServer/Networking/Database/Handlers/DbExecuteSummonHandler.cs
+msgid "You are already in that world."
+msgstr ""
+
+#: DarzasDominion/DarzaGameServer/Networking/Database/Handlers/DbExecuteSummonHandler.cs
 #: DarzasDominion/DarzaGameServer/Worlds/GameObjects/Entities/Player.Party.cs
 msgid "Could not join that world. It may no longer be available."
 msgstr ""
@@ -13395,6 +13419,10 @@ msgstr ""
 
 #: DarzasDominion/DarzaGameServer/Worlds/Commands/PlayerCommands.cs
 msgid "That dungeon is no longer open."
+msgstr ""
+
+#: DarzasDominion/DarzaGameServer/Worlds/Commands/PlayerCommands.cs
+msgid "You need {asks} Item Power to teleport there."
 msgstr ""
 
 #: DarzasDominion/DarzaGameServer/Worlds/Commands/PlayerCommands.cs

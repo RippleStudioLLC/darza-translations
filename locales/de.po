@@ -867,6 +867,7 @@ msgid "Shield Rank"
 msgstr "Schildrang"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/BossHealthBar.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Map/MapEntries.cs
 msgid "You're already closest to this Boss!"
 msgstr "Du bist diesem Boss bereits am nächsten!"
 
@@ -919,9 +920,9 @@ msgstr "Spieler ausblenden"
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/DesktopInventory.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/DesktopInventoryHidden.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/DesktopMMOUI.cs
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/PartyFinder/PartyFinderItemNode.cs
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Mobile/MobileUI.cs
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Mobile/Tabs/CharactersTab.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Map/MapDungeonTip.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Map/MapMenu.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Map/MapPane.cs
 msgid "LV {level}"
 msgstr ""
 
@@ -949,14 +950,6 @@ msgstr "Währungen"
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Mobile/MobileUI.cs
 msgid "Stats"
 msgstr "Attribute"
-
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/DesktopMMOUI.cs
-msgid "Press"
-msgstr "Drücke"
-
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/DesktopMMOUI.cs
-msgid "to close Map View"
-msgstr "um die Kartenansicht zu schließen"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/DesktopMMOUI.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/DesktopUI.cs
@@ -3063,6 +3056,216 @@ msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/LootAnnounce.cs
 msgid "Announce"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Map/MapEntries.cs
+msgid "Called dungeon"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Map/MapEntries.cs
+msgid "Nobody there"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Map/MapEntries.cs
+msgid "{there} player there"
+msgid_plural "{there} players there"
+msgstr[0] ""
+msgstr[1] ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Map/MapEntries.cs
+msgid "{distance} tiles away"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Map/MapEntries.cs
+msgid "Central Serenity"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Map/MapEntries.cs
+msgid "Serenity Village"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Map/MapEntries.cs
+msgid "Savanna"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Map/MapEntries.cs
+msgid "Savanna Village"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Map/MapEntries.cs
+msgid "North Village"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Map/MapEntries.cs
+msgid "The Frozen North"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Map/MapEntries.cs
+msgid "East Village"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Map/MapEntries.cs
+msgid "The Old East"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Map/MapEntries.cs
+msgid "South Village"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Map/MapEntries.cs
+msgid "The Molten South"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Map/MapEntries.cs
+msgid "The Wild West"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Map/MapEntries.cs
+msgid "West Village"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Map/MapEntries.cs
+msgid "Beach Statue"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Map/MapEntries.cs
+msgid "The Western Sea"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Map/MapEntries.cs
+msgid "Axis Statue"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Map/MapEntries.cs
+msgid "Frostspire"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Map/MapEntries.cs
+msgid "east"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Map/MapEntries.cs
+msgid "north-east"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Map/MapEntries.cs
+msgid "north"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Map/MapEntries.cs
+msgid "north-west"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Map/MapEntries.cs
+msgid "west"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Map/MapEntries.cs
+msgid "south-west"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Map/MapEntries.cs
+msgid "south"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Map/MapEntries.cs
+msgid "south-east"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Map/MapEntries.cs
+msgid "Opening"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Map/MapEntries.cs
+msgid "Opens in {opens}"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Map/MapEntries.cs
+msgid "At {at}"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Map/MapEntries.cs
+msgid "At {at}, in {time}"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Map/MapEntries.cs
+msgid "After {current}"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Map/MapEntries.cs
+msgid "At {next}, after {current}"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Map/MapEntries.cs
+msgid "{number} of {hours}"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Map/MapEntries.cs
+msgid "The Domain"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Map/MapEntries.cs
+msgid "Bulls slain"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Map/MapEntries.cs
+msgid "Crabs squished"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Map/MapEntries.cs
+msgid "Souls freed"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Map/MapEntries.cs
+msgid "Kills"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Map/MapEntries.cs
+msgid "Unknown"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Map/MapEntries.cs
+msgid "{name} o'clock"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Map/MapMenu.cs
+msgid "Current Events"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Map/MapMenu.cs
+msgid "Nothing is up"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Map/MapMenu.cs
+msgid "Teleports"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Map/MapMenu.cs
+msgid "Upcoming"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Map/MapMenu.cs
+msgid "In the Dominion..."
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Map/MapMenu.cs
+msgid "Less"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Map/MapMenu.cs
+msgid "More ({low})"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Map/MapMenu.cs
+msgid "{distance} tiles"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Map/WorldMapScreen.cs
+msgid "No teleporting in this world"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Map/WorldMapScreen.cs
+msgid "Triggers zoom"
 msgstr ""
 
 #. {0} is the name of an essence.
@@ -13196,6 +13399,10 @@ msgid "Party ({party.Members.Count}):"
 msgstr ""
 
 #: DarzasDominion/DarzaGameServer/Worlds/Commands/PlayerCommands.cs
+msgid "That dungeon is no longer open."
+msgstr ""
+
+#: DarzasDominion/DarzaGameServer/Worlds/Commands/PlayerCommands.cs
 msgid "Self Commands: /lefttomax"
 msgstr ""
 
@@ -13825,6 +14032,14 @@ msgid "This shop is not configured!"
 msgstr ""
 
 #: DarzasDominion/DarzaGameServer/Worlds/GameObjects/Map/Activatable/Portal.cs
+msgid "You need {needed} Item Power to enter this dungeon."
+msgstr ""
+
+#: DarzasDominion/DarzaGameServer/Worlds/GameObjects/Map/Activatable/Portal.cs
+msgid "You are already in that dungeon."
+msgstr ""
+
+#: DarzasDominion/DarzaGameServer/Worlds/GameObjects/Map/Activatable/Portal.cs
 msgid "Good luck, {trialPlayerName}!"
 msgstr ""
 
@@ -13942,3 +14157,9 @@ msgstr ""
 #: DarzasDominion/DarzaGameServer/Worlds/WorldManager.cs
 msgid "The Tavern is updating. Try escaping again in a moment."
 msgstr ""
+
+#~ msgid "Press"
+#~ msgstr "Drücke"
+
+#~ msgid "to close Map View"
+#~ msgstr "um die Kartenansicht zu schließen"

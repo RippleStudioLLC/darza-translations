@@ -3053,6 +3053,10 @@ msgstr ""
 msgid "Announce"
 msgstr ""
 
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Map/MapDropSourceTip.cs
+msgid "1st place rate"
+msgstr ""
+
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Map/MapEntries.cs
 msgid "Called dungeon"
 msgstr ""

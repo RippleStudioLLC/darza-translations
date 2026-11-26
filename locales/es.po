@@ -26,6 +26,7 @@ msgid "{what} dropped: the essences gathered for it are spent, and the sacrifice
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/Boosts/ClientBoosts.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildBoard/GuildBoardStyle.cs
 #: DarzasDominion/DarzaGameServer/Worlds/Boosting/BoostBreakdowns.cs
 msgid "Loot Boost"
 msgstr "Potenciador de botín"
@@ -36,6 +37,7 @@ msgid "Exp"
 msgstr "Experiencia"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Boosts/ClientBoosts.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/KylePages/PetSlotUnlockPopup.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Dm/DmAttachPicker.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/MarketBoard/MarketSellPage.cs
 #: DarzasDominion/DarzaGameServer/Worlds/Boosting/BoostBreakdowns.cs
@@ -63,7 +65,7 @@ msgid "Rank"
 msgstr "Rango"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/ContributionDisplay.cs
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildListMenu.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildBoard/GuildBoardScreen.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/PartyListMenu.cs
 #: DarzasClient/DarzasDominion/Nodes/GameChatBox.cs
 msgid "Guild"
@@ -77,6 +79,10 @@ msgstr "Nombre"
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/ContributionDisplay.cs
 msgid "Points"
 msgstr "Puntos"
+
+#: DarzasClient/DarzasDominion/Darza/Game/Objects/ContributionDisplay.cs
+msgid "Energy"
+msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Entities/Character.cs
 msgid "+{dif} Exp"
@@ -119,7 +125,7 @@ msgid "Trade"
 msgstr "Intercambio"
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/BannerDisplay.cs
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Gems/GemStorageMenu.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Vault/VaultWindow.Gems.cs
 msgid "Take"
 msgstr ""
 
@@ -402,6 +408,7 @@ msgid "Unlist Confirmation"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Alerts/Alert.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildBoard/GuildNoticeCard.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/MarketBoard/MarketSellPage.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/MobileGraphicsPage.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/PartyFinder/PartyFinderDetailWindow.cs
@@ -494,11 +501,11 @@ msgid "Next Step"
 msgstr "Paso siguiente"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentDisplayNode.cs
-#: DarzasClient/DarzasDominion/Darza/Game/UI/GuildMemberNode.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/KylePages/PlatinosStoreMenu.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/AttainmentLeaderboardMenu.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GamePackages/BuyPackageButton.cs
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildListMenu.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildBoard/GuildBoardScreen.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Reroll/RerollMenu2.cs
 msgid "Error"
 msgstr "Error"
 
@@ -771,9 +778,9 @@ msgstr[0] ""
 msgstr[1] ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Attainments/AttainmentsHubSection.cs
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Gems/GemStorageMenu.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopGraphicsPage.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/MobileGraphicsPage.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Vault/VaultWindow.Gems.cs
 msgid "Max"
 msgstr ""
 
@@ -979,7 +986,6 @@ msgstr "Pulsa Enter para enviar..."
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/DesktopMMOUI.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/DesktopUI.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/CharacterList/CharacterDetailPanel.cs
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Gems/GemStorageMenu.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/MarketBoard/MarketSellPage.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Reroll/RerollMenu2.cs
 msgid "Inventory"
@@ -1001,7 +1007,6 @@ msgid "Attempting to open page in Web Browser. Are you sure you want to open <c#
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/DesktopUI.cs
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Gems/GemStorageMenu.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/MarketBoard/MarketSellPage.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Reroll/RerollMenu2.cs
 msgid "Backpack"
@@ -1057,6 +1062,7 @@ msgid "History"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Hud/HudEditOverlay.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildBoard/GuildNoticeCard.cs
 msgid "Save"
 msgstr "Guardar"
 
@@ -1422,18 +1428,6 @@ msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopGravestonesPageTooltip.cs
 msgid "Tier 6: 40,000+ silver"
-msgstr ""
-
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopGuildMemberInfoTooltip.cs
-msgid ""
-"Last Online\n"
-"<c#0xb5b5b5>{text}<c/>"
-msgstr ""
-
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopGuildMemberInfoTooltip.cs
-msgid ""
-"Join Date\n"
-"<c#0xb5b5b5>{joinDateString}<c/>"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/DesktopItemTooltip.cs
@@ -2508,10 +2502,6 @@ msgstr ""
 msgid "Exchange"
 msgstr ""
 
-#: DarzasClient/DarzasDominion/Darza/Game/UI/FoundedNode.cs
-msgid "Founded: <c#{color}>{foundedDate}<c/>"
-msgstr ""
-
 #: DarzasClient/DarzasDominion/Darza/Game/UI/GameUI.cs
 msgid "Escaping...  (stand still, again to cancel)"
 msgstr ""
@@ -2770,11 +2760,6 @@ msgstr "Echar Miembro"
 #: DarzasClient/DarzasDominion/Darza/Game/UI/GuildMemberNode.cs
 msgid "Are you sure you want to kick {_memberInfo.Name} from the guild?"
 msgstr ""
-
-#. {3} is a number.
-#: DarzasClient/DarzasDominion/Darza/Game/UI/GuildMembersNode.cs
-msgid "Members: <c#{color}>{_guildInfo.Members.Count}/{GameConstants.Max_Guild_Members}<c#0x00FF00>({3})<c/>"
-msgstr "Miembros: <c#{color}>{_guildInfo.Members.Count}/{GameConstants.Max_Guild_Members}<c#0x00FF00>({3})<c/>"
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/KylePages/AttainmentsChroniclePage.cs
 msgid "Attainments Chronicle"
@@ -3206,37 +3191,6 @@ msgid "Pet updated."
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/KylePages/KyleCharacterCustomizationMenu.cs
-#: DarzasClient/DarzasDominion/Darza/Game/UI/KylePages/PetCustomizationPage.cs
-msgid "Unlock Pet Token Slot 3"
-msgstr ""
-
-#: DarzasClient/DarzasDominion/Darza/Game/UI/KylePages/KyleCharacterCustomizationMenu.cs
-#: DarzasClient/DarzasDominion/Darza/Game/UI/KylePages/PetCustomizationPage.cs
-msgid ""
-"Choose how to unlock <c#e8e881>Pet Token Slot 3<c/>:\n"
-"\n"
-"<c#8ef3ff>Pet Unlocks Available:<c/> <c#e8e881>{petUnlocks}<c/>\n"
-"<c#F6CA00>Gold Cost:<c/> <c#e8e881>{GameNetworkingConstants.PetThirdSlotPriceGold}<c/>\n"
-"<c#cfd8dc>Silver Available:<c/> <c#e8e881>{glory}<c/>\n"
-"<c#cfd8dc>Silver Cost:<c/> <c#e8e881>{GameNetworkingConstants.PetThirdSlotPriceGlory}<c/>"
-msgstr ""
-
-#: DarzasClient/DarzasDominion/Darza/Game/UI/KylePages/KyleCharacterCustomizationMenu.cs
-#: DarzasClient/DarzasDominion/Darza/Game/UI/KylePages/PetCustomizationPage.cs
-msgid "Use Pet Unlock"
-msgstr ""
-
-#: DarzasClient/DarzasDominion/Darza/Game/UI/KylePages/KyleCharacterCustomizationMenu.cs
-#: DarzasClient/DarzasDominion/Darza/Game/UI/KylePages/PetCustomizationPage.cs
-msgid "Pay {GameNetworkingConstants.PetThirdSlotPriceGold} Gold"
-msgstr ""
-
-#: DarzasClient/DarzasDominion/Darza/Game/UI/KylePages/KyleCharacterCustomizationMenu.cs
-#: DarzasClient/DarzasDominion/Darza/Game/UI/KylePages/PetCustomizationPage.cs
-msgid "Pay {GameNetworkingConstants.PetThirdSlotPriceGlory} Silver"
-msgstr ""
-
-#: DarzasClient/DarzasDominion/Darza/Game/UI/KylePages/KyleCharacterCustomizationMenu.cs
 msgid "Partial purchase: {failed.Count} failed."
 msgstr ""
 
@@ -3320,6 +3274,43 @@ msgstr ""
 msgid "Unlocked pet token slot 3 for this character."
 msgstr ""
 
+#: DarzasClient/DarzasDominion/Darza/Game/UI/KylePages/PetSlotUnlockPopup.cs
+msgid "Unlock Pet Token Slot 3"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/KylePages/PetSlotUnlockPopup.cs
+msgid "Permanently unlocks a third pet token slot"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/KylePages/PetSlotUnlockPopup.cs
+msgid "Pet Unlock"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/KylePages/PetSlotUnlockPopup.cs
+msgid "Use"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/KylePages/PetSlotUnlockPopup.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/CharacterList/CharacterListRows.cs
+msgid "Gold"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/KylePages/PetSlotUnlockPopup.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/KylePages/PlatinosStoreMenu.Cosmetics.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/KylePages/PlatinosStoreMenu.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/PackageStore/EffectSpotlight.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/PackageStore/StoreSpotlight.cs
+msgid "Buy"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/KylePages/PetSlotUnlockPopup.cs
+msgid "Owned: {spec.Balance}"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/KylePages/PetSlotUnlockPopup.cs
+msgid "Not enough"
+msgstr ""
+
 #: DarzasClient/DarzasDominion/Darza/Game/UI/KylePages/PlatinosStoreMenu.Cosmetics.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/KylePages/PlatinosStoreMenu.cs
 msgid "No Answer"
@@ -3336,13 +3327,6 @@ msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/KylePages/PlatinosStoreMenu.Cosmetics.cs
 msgid "Not Enough"
-msgstr ""
-
-#: DarzasClient/DarzasDominion/Darza/Game/UI/KylePages/PlatinosStoreMenu.Cosmetics.cs
-#: DarzasClient/DarzasDominion/Darza/Game/UI/KylePages/PlatinosStoreMenu.cs
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/PackageStore/EffectSpotlight.cs
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/PackageStore/StoreSpotlight.cs
-msgid "Buy"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/KylePages/PlatinosStoreMenu.Cosmetics.cs
@@ -3800,10 +3784,10 @@ msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/AttainmentLeaderboardMenu.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/CharacterList/CharacterListMenu.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildBoard/GuildAuditCard.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/MarketBoard/MarketBrowsePage.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/MarketBoard/MarketHistoryView.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/MarketBoard/MarketSalesPage.cs
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/MarketBoard/MarketStyle.cs
 msgid "Loading..."
 msgstr ""
 
@@ -3875,19 +3859,15 @@ msgid "This slot unlocks at {needs}."
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Attune/AttuneMenu.cs
-msgid "Pick a slot's top well to attune it to a unique or special drop."
+msgid "<c#{color}>ATTUNE<c/> to a Special/Unique item. Select it in the upper wells, in a slot you have unlocked. Attuning to an item allows you to gather essences, increasing the chance it will drop when its hosts are slain."
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Attune/AttuneMenu.cs
-msgid "Kills of the enemies that drop it fill the slot with essences, up to 100. Each essence adds 1% to that drop's chance."
+msgid "<c#{color}>SACRIFICE<c/> a Special/Unique Item of equal or higher IP than the one you're hunting. Sacrificing an item will increase your essence gain 50%, but pulling out a sacrificed item will reset all essence progress. Upon dropping your Attuned item, your sacrifice is lost to the void."
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Attune/AttuneMenu.cs
-msgid "Sacrifice an item of the same item power or more in the middle well: while it lies there, every essence you gain has a 50% chance of a second."
-msgstr ""
-
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Attune/AttuneMenu.cs
-msgid "Getting the drop spends the essences, and the sacrifice with them. Taking a sacrifice back sets the slot's essences to 0."
+msgid "<c#{color}>REAP<c/> the rewards of your hunt."
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Attune/AttuneMenu.cs
@@ -3957,15 +3937,7 @@ msgid "Take Back"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Attune/AttuneMenu.cs
-msgid "{held} lies on the altar. Every essence you gain for {name} has a 50% chance of a second. It is sacrificed when {name} drops, and taking it back sets this slot's essences to 0."
-msgstr ""
-
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Attune/AttuneMenu.cs
 msgid "{held} lies on the altar. Take it back, or attune this slot to an item."
-msgstr ""
-
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Attune/AttuneMenu.cs
-msgid "Sacrifice a unique or special item of IP {power} or more: the lit ones. While it lies here, every essence you gain for {name} has a 50% chance of a second."
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Attune/AttuneMenu.cs
@@ -3990,10 +3962,6 @@ msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Attune/AttuneMenu.cs
 msgid "Nothing drops {name} right now."
-msgstr ""
-
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Attune/AttuneMenu.cs
-msgid "{name} drops from these. A kill of any of them can give this slot an essence, and each essence adds 1% to its chance."
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Attune/AttuneMenu.cs
@@ -4275,10 +4243,6 @@ msgid "Buy Character Slot"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/CharacterList/CharacterListRows.cs
-msgid "Gold"
-msgstr ""
-
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/CharacterList/CharacterListRows.cs
 msgid "or"
 msgstr ""
 
@@ -4384,11 +4348,83 @@ msgid "Your message could not be sent."
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Dm/DmWindow.cs
+msgid "New"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Dm/DmWindow.cs
 msgid "New Message"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Dm/DmWindow.cs
 msgid "No conversations yet"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Dm/DmWindow.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopGameplay.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/MobileGameplayPage.cs
+#: DarzasClient/DarzasDominion/Darza/Game/Vault/VaultBrowse.cs
+msgid "Gifts"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Dm/DmWindow.cs
+msgid "Gifts ({unclaimed})"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Dm/DmWindow.cs
+msgid "Received"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Dm/DmWindow.cs
+msgid "Received ({incoming})"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Dm/DmWindow.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Friends/FriendsWindow.cs
+msgid "Sent"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Dm/DmWindow.cs
+msgid "Sent ({outgoing})"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Dm/DmWindow.cs
+msgid "No pending sent gifts"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Dm/DmWindow.cs
+msgid "1 sent gift waiting"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Dm/DmWindow.cs
+msgid "{matches.Count} sent gifts waiting"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Dm/DmWindow.cs
+msgid "No unclaimed gifts"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Dm/DmWindow.cs
+msgid "1 unclaimed gift"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Dm/DmWindow.cs
+msgid "{totalUnclaimed} unclaimed gifts"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Dm/DmWindow.cs
+msgid "From {capturedName}"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Dm/DmWindow.cs
+msgid "To {capturedName}"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Dm/DmWindow.cs
+msgid "1 unclaimed gift in this chat"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Dm/DmWindow.cs
+msgid "{count} unclaimed gifts in this chat"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Dm/DmWindow.cs
@@ -4417,6 +4453,10 @@ msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Dm/DmWindow.cs
 msgid "Message {_otherName}"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Dm/DmWindow.cs
+msgid "Type a player name above and press Enter"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Dm/DmWindow.cs
@@ -4504,10 +4544,6 @@ msgid "Waiting for your answer"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Friends/FriendsWindow.cs
-msgid "Sent"
-msgstr ""
-
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Friends/FriendsWindow.cs
 msgid "No pending requests"
 msgstr ""
 
@@ -4524,7 +4560,6 @@ msgid "Package was purchased successfully!"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GamePackages/BuyPackageButton.cs
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Gems/GemStorageMenu.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Products/ProductNode.cs
 #: DarzasDominion/DarzaGameServer/Networking/Client.cs
 msgid "Success"
@@ -4534,109 +4569,265 @@ msgstr ""
 msgid "Successfully purchased {package.Title}. Check your gift chests in The Vault. Thanks for the support!"
 msgstr ""
 
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Gems/GemStorageMenu.cs
-msgid "Bank"
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildBoard/GuildAuditCard.cs
+msgid "Audit Log"
 msgstr ""
 
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Gems/GemStorageMenu.cs
-msgid "Use"
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildBoard/GuildAuditCard.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildBoard/GuildEnergyCard.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildBoard/GuildNoticeCard.cs
+msgid "The guild board is not available on this server."
 msgstr ""
 
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Gems/GemStorageMenu.cs
-msgid "Tap a gem to bank it."
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildBoard/GuildAuditCard.cs
+msgid "Nothing has happened yet."
 msgstr ""
 
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Gems/GemStorageMenu.cs
-msgid "Only gems can be banked."
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildBoard/GuildBoardScreen.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildBoard/GuildEnergyCard.cs
+#: DarzasDominion/DarzaGameServer/Worlds/Boosting/BoostBreakdowns.cs
+msgid "Guild Energy"
 msgstr ""
 
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Gems/GemStorageMenu.cs
-msgid "The bank is full. Upgrade it to bank more gems."
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildBoard/GuildBoardScreen.cs
+msgid "Your guild gathers energy at guild contribution encounters, such as the minions of the Dominion's monoliths. It holds up to {cap}."
 msgstr ""
 
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Gems/GemStorageMenu.cs
-msgid "Connecting..."
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildBoard/GuildBoardScreen.cs
+msgid "Each notch of a boost costs {cost} energy an hour while it is raised, and the boosts pause when the energy runs out. Energy is only spent while a member is online."
 msgstr ""
 
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Gems/GemStorageMenu.cs
-msgid "Upgrade"
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildBoard/GuildBoardScreen.cs
+msgid "The guild could not be loaded."
 msgstr ""
 
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Gems/GemStorageMenu.cs
-msgid "+{gain} slots"
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildBoard/GuildBoardScreen.cs
+msgid "The request failed."
 msgstr ""
 
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Gems/GemStorageMenu.cs
-msgid "Upgrade the Bank"
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildBoard/GuildBoardScreen.cs
+msgid "Rank: <c#e8e881>{rankName}<c/>"
 msgstr ""
 
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Gems/GemStorageMenu.cs
-msgid "Increase the bank by <c#e8e881>{gain}<c/> gems for {price}?"
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildBoard/GuildBoardScreen.cs
+msgid "Founded <c#e8e881>{founded}<c/>"
 msgstr ""
 
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Gems/GemStorageMenu.cs
-msgid "Amount"
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildBoard/GuildBoardScreen.cs
+msgid "That could not be done."
 msgstr ""
 
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Gems/GemStorageMenu.cs
-msgid "Pick a gem from the bank."
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildBoard/GuildBoardScreen.cs
+msgid "the guild"
 msgstr ""
 
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Gems/GemStorageMenu.cs
-msgid "Crushing needs at least {GemStorageRules.GemsPerDust} gems."
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildBoard/GuildBoardScreen.cs
+msgid "You are no longer a member of {guild}."
 msgstr ""
 
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Gems/GemStorageMenu.cs
-msgid "Error occurred when Upgrading Gem Storage"
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildBoard/GuildBoardStyle.cs
+msgid "Exp Boost"
 msgstr ""
 
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildListMenu.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildBoard/GuildBoardStyle.cs
+msgid "Silver Boost"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildBoard/GuildBoardStyle.cs
+msgid "Shiny Chance"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildBoard/GuildBoardStyle.cs
+msgid "{amount} EXP"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildBoard/GuildBoardStyle.cs
+msgid "{amount} Silver"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildBoard/GuildBoardStyle.cs
+msgid "{amount} Shinies"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildBoard/GuildBoardStyle.cs
+msgid "{amount} Loot"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildBoard/GuildBoardStyle.cs
+msgid "{cost} energy an hour"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildBoard/GuildBoardStyle.cs
+msgid "Recruit"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildBoard/GuildBoardStyle.cs
+msgid "Member"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildBoard/GuildBoardStyle.cs
+msgid "Officer"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildBoard/GuildBoardStyle.cs
+msgid "Leader"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildBoard/GuildBoardStyle.cs
+msgid "Founder"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildBoard/GuildBoardStyle.cs
+msgid "Every member"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildBoard/GuildBoardStyle.cs
+msgid "Members and above"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildBoard/GuildBoardStyle.cs
+msgid "Officers and above"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildBoard/GuildBoardStyle.cs
+msgid "Leaders and the Founder"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildBoard/GuildBoardStyle.cs
+msgid "The Founder"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildBoard/GuildBoardStyle.cs
+msgid "<c#e8e881>{actor}<c/> founded the guild"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildBoard/GuildBoardStyle.cs
+msgid "<c#e8e881>{actor}<c/> joined"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildBoard/GuildBoardStyle.cs
+msgid "<c#e8e881>{actor}<c/> joined, invited by <c#e8e881>{target}<c/>"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildBoard/GuildBoardStyle.cs
+msgid "<c#e8e881>{actor}<c/> left"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildBoard/GuildBoardStyle.cs
+msgid "<c#e8e881>{actor}<c/> kicked <c#e8e881>{target}<c/>"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildBoard/GuildBoardStyle.cs
+msgid "<c#e8e881>{actor}<c/> promoted <c#e8e881>{target}<c/> to {rank}"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildBoard/GuildBoardStyle.cs
+msgid "<c#e8e881>{actor}<c/> demoted <c#e8e881>{target}<c/> to {rank}"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildBoard/GuildBoardStyle.cs
+msgid "<c#e8e881>{actor}<c/> made <c#e8e881>{target}<c/> the Founder"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildBoard/GuildBoardStyle.cs
+msgid "<c#e8e881>{actor}<c/> cleared the notice"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildBoard/GuildBoardStyle.cs
+msgid "<c#e8e881>{actor}<c/> changed the notice"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildBoard/GuildBoardStyle.cs
+msgid "<c#e8e881>{actor}<c/> turned <c#{hex}>{boost}<c/> off"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildBoard/GuildBoardStyle.cs
+msgid "<c#e8e881>{actor}<c/> set <c#{hex}>{boost}<c/> to {amount}"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildBoard/GuildBoardStyle.cs
+msgid "<c#e8e881>{actor}<c/> changed the guild"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildBoard/GuildEnergyCard.cs
+msgid "That could not be changed."
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildBoard/GuildEnergyCard.cs
+msgid "No boosts raised"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildBoard/GuildEnergyCard.cs
+msgid "Paused: no energy"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildBoard/GuildEnergyCard.cs
+msgid "{time} left"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildBoard/GuildEnergyCard.cs
+msgid "Using {drain} an hour"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildBoard/GuildEnergyCard.cs
+msgid "{ranks} set the guild's boosts."
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildBoard/GuildNoticeCard.cs
+msgid "Guild Notice"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildBoard/GuildNoticeCard.cs
+msgid "Write a notice for the guild..."
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildBoard/GuildNoticeCard.cs
+msgid "No notice yet."
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildBoard/GuildNoticeCard.cs
+msgid "Set by <c#e8e881>{who}<c/>, {when}"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildBoard/GuildNoticeCard.cs
+msgid "Members <c#e6e4dc>{total} / {cap}<c/>"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildBoard/GuildNoticeCard.cs
+msgid "Online now <c#52E86B>{online}<c/>"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildBoard/GuildNoticeCard.cs
+msgid "Founded <c#e6e4dc>{founded}<c/>"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildBoard/GuildNoticeCard.cs
+msgid "The notice could not be saved."
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildBoard/GuildRosterCard.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/PartyFinder/PartyFinderWindow.cs
+msgid "Members"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildBoard/GuildRosterCard.cs
 msgid "Search members..."
 msgstr ""
 
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildListMenu.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildBoard/GuildRosterCard.cs
 msgid "Loading guild roster..."
 msgstr ""
 
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildListMenu.cs
-msgid "Hover member for details"
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildBoard/GuildRosterCard.cs
+msgid "<c#e8e881>{total}/{cap}<c/> <c#52E86B>{online} online<c/>"
 msgstr ""
 
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildListMenu.cs
-msgid "Tap member for details"
-msgstr ""
-
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildListMenu.cs
-msgid "<c#e8e881>{total}/{GameConstants.Max_Guild_Members}<c/> <c#52E86B>({online} online)<c/>"
-msgstr ""
-
-#. {0} is the name of a guild rank.
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildListMenu.cs
-msgid "Rank: <c#e8e881>{0}<c/>"
-msgstr ""
-
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildListMenu.cs
-msgid "Founded <c#e8e881>{foundedDate}<c/>"
-msgstr ""
-
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildListMenu.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildBoard/GuildRosterCard.cs
 msgid "No guild members found."
 msgstr ""
 
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildListMenu.cs
-msgid "0 members"
-msgstr ""
-
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildListMenu.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildBoard/GuildRosterCard.cs
 msgid "No matching members."
-msgstr ""
-
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildListMenu.cs
-msgid "{_guildMembers.Count} of {total} members"
-msgstr ""
-
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildListMenu.cs
-msgid "{total} members · {online} online"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/LoginMenu.cs
@@ -6237,12 +6428,6 @@ msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopGameplay.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/MobileGameplayPage.cs
-#: DarzasClient/DarzasDominion/Darza/Game/Vault/VaultBrowse.cs
-msgid "Gifts"
-msgstr ""
-
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/DesktopGameplay.cs
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/MobileGameplayPage.cs
 msgid "Friend Requests"
 msgstr ""
 
@@ -7438,10 +7623,6 @@ msgid "Activity"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/PartyFinder/PartyFinderWindow.cs
-msgid "Members"
-msgstr ""
-
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/PartyFinder/PartyFinderWindow.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/PartyFinder/RecruitmentWindow.cs
 #: DarzasClient/DarzasDominion/Darza/Game/Vault/VaultBrowse.cs
 msgid "Item Power"
@@ -7874,12 +8055,210 @@ msgstr ""
 msgid "The vault did not answer."
 msgstr ""
 
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Vault/VaultWindow.Gems.cs
+msgid "Deposit"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Vault/VaultWindow.Gems.cs
+msgid "Deposit gems"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Vault/VaultWindow.Gems.cs
+msgid "Connecting..."
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Vault/VaultWindow.Gems.cs
+msgid "Select a gem above."
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Vault/VaultWindow.Gems.cs
+msgid "Into inventory"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Vault/VaultWindow.Gems.cs
+msgid "Consume"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Vault/VaultWindow.Gems.cs
+msgid "Use from bank"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Vault/VaultWindow.Gems.cs
+msgid "Crush"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Vault/VaultWindow.Gems.cs
+msgid "{GemStorageRules.GemsPerDust} gems -> 1 dust"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Vault/VaultWindow.Gems.cs
+msgid "Upgrade Capacity"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Vault/VaultWindow.Gems.cs
+msgid "+{spec.Gain} slots"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Vault/VaultWindow.Gems.cs
+msgid "Could not upgrade gem storage."
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Vault/VaultWindow.Gems.cs
+msgid "Gem storage upgraded!"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Vault/VaultWindow.Gems.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Vault/VaultWindow.Moves.cs
+msgid "Stand at a vault or gem bank to use."
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Vault/VaultWindow.Gems.cs
+msgid "Crushing needs at least {GemStorageRules.GemsPerDust} gems."
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Vault/VaultWindow.Gems.cs
+msgid "Stand at a vault or gem bank to upgrade."
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Vault/VaultWindow.Gems.cs
+msgid "Gem storage is already at max capacity."
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Vault/VaultWindow.Gems.cs
+msgid "Not enough currency for that upgrade."
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Vault/VaultWindow.Gems.cs
+msgid "Upgrade Gem Storage"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Vault/VaultWindow.Gems.cs
+msgid "Increase gem storage by <c#e8e881>{gain}<c/> gems for {price}?"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Vault/VaultWindow.Gems.cs
+msgid "Upgrade"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Vault/VaultWindow.Gems.cs
+msgid "Stand at a vault or gem bank to bank gems."
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Vault/VaultWindow.Gems.cs
+msgid "Only gems can be banked here."
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Vault/VaultWindow.Gems.cs
+msgid "Bound gems cannot be banked."
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Vault/VaultWindow.Gems.cs
+msgid "Gem storage is full."
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Vault/VaultWindow.Gems.cs
+msgid "Banking {queued} gem..."
+msgid_plural "Banking {queued} gems..."
+msgstr[0] ""
+msgstr[1] ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Vault/VaultWindow.Gems.cs
+msgid "No bankable gems in your inventory."
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Vault/VaultWindow.Gems.cs
+msgid "No gems in your inventory."
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Vault/VaultWindow.Gems.cs
+msgid "full"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Vault/VaultWindow.Gems.cs
+msgid "gems"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Vault/VaultWindow.Gems.cs
+msgid "Loading gem storage..."
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Vault/VaultWindow.Gems.cs
+msgid "{GemStorageRules.GemsPerDust} gems become 1 soulbound dust."
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Vault/VaultWindow.Gems.cs
+msgid "{GemStorageRules.GemsPerDust} {gem.Data.Id}s become 1 soulbound {dust.Id}."
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Vault/VaultWindow.Gems.cs
+msgid "Use gems straight from storage. Stops at a maxed stat."
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Vault/VaultWindow.Gems.cs
+msgid "Move gems into your inventory, one slot each."
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Vault/VaultWindow.Gems.cs
+msgid "Bank at Max Capacity"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Vault/VaultWindow.Gems.cs
+msgid "Crush {gems}"
+msgstr ""
+
+#. {2} is something the game fills in.
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Vault/VaultWindow.Gems.cs
+msgid "{gems} {name}{2} into {dusts} dust"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Vault/VaultWindow.Gems.cs
+msgid "Pick a gem to crush."
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Vault/VaultWindow.Gems.cs
+msgid "Consume {usable}"
+msgstr ""
+
+#. {2} is something the game fills in.
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Vault/VaultWindow.Gems.cs
+msgid "{usable} {name}{2}, raising the stat each gives"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Vault/VaultWindow.Gems.cs
+msgid "Pick a gem to consume."
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Vault/VaultWindow.Gems.cs
+msgid "Take {usable}"
+msgstr ""
+
+#. {2} is something the game fills in.
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Vault/VaultWindow.Gems.cs
+msgid "{usable} {name}{2} into your inventory"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Vault/VaultWindow.Gems.cs
+msgid "Pick a gem to take."
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Vault/VaultWindow.Gems.cs
+msgid "Working..."
+msgstr ""
+
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Vault/VaultWindow.Moves.cs
 msgid "Stand at a vault to move items."
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Vault/VaultWindow.Moves.cs
 msgid "Take it into your inventory first."
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Vault/VaultWindow.Moves.cs
+msgid "Drag or Quick-Pickup gems to bank"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Vault/VaultWindow.Moves.cs
+msgid "Tap Deposit or drag gems to bank"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Vault/VaultWindow.Moves.cs
@@ -7896,11 +8275,27 @@ msgid "Vault"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Vault/VaultWindow.cs
+msgid "Gems"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Vault/VaultWindow.cs
+msgid "Isolation Bank"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Vault/VaultWindow.cs
+msgid "Isolation"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Vault/VaultWindow.cs
 msgid "Search your vault"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Vault/VaultWindow.cs
 msgid "By chest"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Vault/VaultWindow.cs
+msgid "Equippable"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Vault/VaultWindow.cs
@@ -8231,11 +8626,6 @@ msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/WaveArenaOverlay.cs
 msgid "Wave {wave}"
-msgstr ""
-
-#. {1} is the name of a guild rank.
-#: DarzasClient/DarzasDominion/Darza/Game/UI/YourGuildRankNode.cs
-msgid "Your Rank: <c#{color}>{1}<c/>"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/Vault/VaultBrowse.cs
@@ -13354,6 +13744,46 @@ msgstr ""
 msgid "Failed to transfer to jail. Please reconnect."
 msgstr ""
 
+#: DarzasDominion/DarzaGameServer/Networking/Database/Handlers/DbGuildStateHandler.cs
+msgid "{who} cleared the guild notice."
+msgstr ""
+
+#: DarzasDominion/DarzaGameServer/Networking/Database/Handlers/DbGuildStateHandler.cs
+msgid "{who} changed the guild notice: {notice}"
+msgstr ""
+
+#: DarzasDominion/DarzaGameServer/Networking/Database/Handlers/DbGuildStateHandler.cs
+msgid "{who} turned off the guild's Exp boost."
+msgstr ""
+
+#: DarzasDominion/DarzaGameServer/Networking/Database/Handlers/DbGuildStateHandler.cs
+msgid "{who} turned off the guild's silver boost."
+msgstr ""
+
+#: DarzasDominion/DarzaGameServer/Networking/Database/Handlers/DbGuildStateHandler.cs
+msgid "{who} turned off the guild's shiny boost."
+msgstr ""
+
+#: DarzasDominion/DarzaGameServer/Networking/Database/Handlers/DbGuildStateHandler.cs
+msgid "{who} turned off the guild's loot boost."
+msgstr ""
+
+#: DarzasDominion/DarzaGameServer/Networking/Database/Handlers/DbGuildStateHandler.cs
+msgid "{who} set the guild's Exp boost to +{percent}%."
+msgstr ""
+
+#: DarzasDominion/DarzaGameServer/Networking/Database/Handlers/DbGuildStateHandler.cs
+msgid "{who} set the guild's silver boost to +{percent}%."
+msgstr ""
+
+#: DarzasDominion/DarzaGameServer/Networking/Database/Handlers/DbGuildStateHandler.cs
+msgid "{who} set the guild's shiny boost to +{percent}%."
+msgstr ""
+
+#: DarzasDominion/DarzaGameServer/Networking/Database/Handlers/DbGuildStateHandler.cs
+msgid "{who} set the guild's loot boost to +{percent}%."
+msgstr ""
+
 #: DarzasDominion/DarzaGameServer/Networking/Database/Handlers/DbPartyInviteNotifyHandler.cs
 msgid "/pinvite{notify.InviterName}"
 msgstr ""
@@ -14234,6 +14664,10 @@ msgid "HATED"
 msgstr ""
 
 #: DarzasDominion/DarzaGameServer/Worlds/Boosting/BoostBreakdowns.cs
+msgid "+{percent}% Shiny chance"
+msgstr ""
+
+#: DarzasDominion/DarzaGameServer/Worlds/Boosting/BoostBreakdowns.cs
 msgid "This World's Boosts: {rates}"
 msgstr ""
 
@@ -14549,6 +14983,10 @@ msgstr ""
 msgid "Invalid position"
 msgstr ""
 
+#: DarzasDominion/DarzaGameServer/Worlds/GameObjects/Entities/Player.Boosts.cs
+msgid "Your guild is out of energy: its boosts are paused until it gathers more."
+msgstr ""
+
 #: DarzasDominion/DarzaGameServer/Worlds/GameObjects/Entities/Player.Challenges.cs
 msgid "{dungeonName} completed without taking damage"
 msgstr ""
@@ -14707,6 +15145,10 @@ msgstr ""
 
 #: DarzasDominion/DarzaGameServer/Worlds/GameObjects/Entities/Player.cs
 msgid "\"I pulled you out of this attempt. Live to try again!\" - Semreh"
+msgstr ""
+
+#: DarzasDominion/DarzaGameServer/Worlds/GameObjects/Entities/Player.cs
+msgid "Guild Notice: {noticeText}"
 msgstr ""
 
 #. {0} is a number.
@@ -15038,6 +15480,14 @@ msgid_plural "Guild Contribution: {guild} placed #{place} of {guilds} with {poin
 msgstr[0] ""
 msgstr[1] ""
 
+#: DarzasDominion/DarzaGameServer/Worlds/Guilds/GuildContribution.cs
+msgid "+{gained} Guild Energy"
+msgstr ""
+
+#: DarzasDominion/DarzaGameServer/Worlds/Guilds/GuildContribution.cs
+msgid "Guild Energy: {guild} placed #{place} of {guilds}, gathering {energy} energy."
+msgstr ""
+
 #: DarzasDominion/DarzaGameServer/Worlds/Spawning/EventObols.cs
 msgid "Your {cleared} Obol from {eventName} faded away when the event ended."
 msgid_plural "Your {cleared} Obols from {eventName} faded away when the event ended."
@@ -15076,6 +15526,9 @@ msgstr ""
 #: DarzasDominion/DarzaGameServer/Worlds/WorldManager.cs
 msgid "The Tavern is updating. Try escaping again in a moment."
 msgstr ""
+
+#~ msgid "Members: <c#{color}>{_guildInfo.Members.Count}/{GameConstants.Max_Guild_Members}<c#0x00FF00>({3})<c/>"
+#~ msgstr "Miembros: <c#{color}>{_guildInfo.Members.Count}/{GameConstants.Max_Guild_Members}<c#0x00FF00>({3})<c/>"
 
 #~ msgid "Press"
 #~ msgstr "Presiona"

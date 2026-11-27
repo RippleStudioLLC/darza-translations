@@ -54,6 +54,14 @@ msgstr ""
 msgid "Boosts"
 msgstr ""
 
+#: DarzasClient/DarzasDominion/Darza/Game/Chat/ChatLinkView.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/BoostTooltip.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildBoard/GuildBoardScreen.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildBoard/GuildEnergyCard.cs
+#: DarzasDominion/DarzaGameServer/Worlds/Boosting/BoostBreakdowns.cs
+msgid "Guild Energy"
+msgstr ""
+
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Components/DynamicObjectMessage.cs
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Entities/Character.cs
 #: DarzasClient/DarzasDominion/Darza/Game/ParticleSystems/Fx/Stage/FxStage.Scenes.cs
@@ -344,6 +352,10 @@ msgid "<c#ff0000>Locked<c/>"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/Portal.cs
+msgid "Enter The Dominion"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/Portal.cs
 msgid "Enter Seeded Run?"
 msgstr ""
 
@@ -356,9 +368,18 @@ msgid ""
 "Do you want to enter?"
 msgstr ""
 
+#: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/Portal.cs
+msgid "Players Online: {online}"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/Portal.cs
+msgid "Players in {region}: {players}"
+msgstr ""
+
 #: DarzasClient/DarzasDominion/Darza/Game/Objects/Map/Activatable/Reroll.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Reroll/RerollMenu2.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/RerollMenu.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
 msgid "Reroll"
 msgstr ""
 
@@ -1267,6 +1288,33 @@ msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/BoostTooltip.cs
 msgid "No boosts right now."
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/BoostTooltip.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildBoard/GuildEnergyCard.cs
+msgid "No boosts raised"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/BoostTooltip.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildBoard/GuildEnergyCard.cs
+msgid "{time} left"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/BoostTooltip.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildBoard/GuildEnergyCard.cs
+msgid "Using {drain} an hour"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/BoostTooltip.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildBoard/GuildEnergyCard.cs
+msgid "Paused: no energy"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/BoostTooltip.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/MarketBoard/MarketBrowsePage.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/MarketBoard/MarketHistoryView.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/MarketBoard/MarketSellPage.cs
+msgid "Shiny"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Desktop/Tooltips/BoostTooltip.cs
@@ -2566,6 +2614,7 @@ msgid "Enter Dominion"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Gate/DominionGateScreen.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
 msgid "Set Hunt"
 msgstr ""
 
@@ -2598,14 +2647,17 @@ msgid "Gear Priority"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Gate/GateColumn.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
 msgid "Guild Hunt"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Gate/GateColumn.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
 msgid "Main Hunt"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Gate/GateColumn.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
 msgid "Personal Hunt"
 msgstr ""
 
@@ -3875,6 +3927,7 @@ msgid "For You"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Attune/AttuneMenu.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
 msgid "Attune"
 msgstr ""
 
@@ -3965,6 +4018,7 @@ msgid "Nothing drops {name} right now."
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Attune/AttuneMenu.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
 msgid "Reap"
 msgstr ""
 
@@ -4584,12 +4638,6 @@ msgid "Nothing has happened yet."
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildBoard/GuildBoardScreen.cs
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildBoard/GuildEnergyCard.cs
-#: DarzasDominion/DarzaGameServer/Worlds/Boosting/BoostBreakdowns.cs
-msgid "Guild Energy"
-msgstr ""
-
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildBoard/GuildBoardScreen.cs
 msgid "Your guild gathers energy at guild contribution encounters, such as the minions of the Dominion's monoliths. It holds up to {cap}."
 msgstr ""
 
@@ -4754,22 +4802,6 @@ msgid "That could not be changed."
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildBoard/GuildEnergyCard.cs
-msgid "No boosts raised"
-msgstr ""
-
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildBoard/GuildEnergyCard.cs
-msgid "Paused: no energy"
-msgstr ""
-
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildBoard/GuildEnergyCard.cs
-msgid "{time} left"
-msgstr ""
-
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildBoard/GuildEnergyCard.cs
-msgid "Using {drain} an hour"
-msgstr ""
-
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildBoard/GuildEnergyCard.cs
 msgid "{ranks} set the guild's boosts."
 msgstr ""
 
@@ -4807,6 +4839,7 @@ msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/GuildBoard/GuildRosterCard.cs
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/PartyFinder/PartyFinderWindow.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
 msgid "Members"
 msgstr ""
 
@@ -4984,12 +5017,6 @@ msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/MarketBoard/MarketBrowsePage.cs
 msgid "Compact"
-msgstr ""
-
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/MarketBoard/MarketBrowsePage.cs
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/MarketBoard/MarketHistoryView.cs
-#: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/MarketBoard/MarketSellPage.cs
-msgid "Shiny"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/MarketBoard/MarketBrowsePage.cs
@@ -7273,6 +7300,7 @@ msgid "UI Offset"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/OptionMenu/MobileGraphicsPage.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialTour.cs
 msgid "Done"
 msgstr ""
 
@@ -7742,6 +7770,7 @@ msgid "Affix"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/Menus/Reroll/RerollMenu2.cs
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
 msgid "Traits"
 msgstr ""
 
@@ -8439,6 +8468,10 @@ msgstr ""
 msgid "Next Quests In: <c#{shieldColor}>{nextQuestsText}<c/>"
 msgstr ""
 
+#: DarzasClient/DarzasDominion/Darza/Game/UI/OverheadLines.cs
+msgid "{time} <c#{green}>-{seconds}s<c/>"
+msgstr ""
+
 #: DarzasClient/DarzasDominion/Darza/Game/UI/PartyListMenu.cs
 msgid "Location"
 msgstr ""
@@ -8614,6 +8647,384 @@ msgstr ""
 #: DarzasDominion/DarzaGameServer/Networking/Game/Handlers/GmEquipCosmeticHandler.cs
 #: DarzasDominion/DarzaGameServer/Networking/Game/Handlers/GmUseItemHandler.cs
 msgid "You already have this skin equipped"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid "The Essence Altar"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid "Each of these seven columns is a hunt for one item. Attune a slot to the item you want, slay the enemies that drop it, and the chance for it to drop will increase."
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid "Choose an item"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid "ATTUNE to an item by selecting here, change your Attunement by coming back to it."
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid "Start here: press a '+' slot to choose the item you're hunting."
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid "Find your item"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid "For You suggests upgrades for the gear you wear. The other tabs list every Special and Unique item you can hunt."
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid "These tabs list every Special and Unique item you can hunt."
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid "Read the frames"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid "A green frame is an upgrade over what you wear, orange is gear you can wear, and a plain frame is for another class. Press an item to see who drops it."
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid "Here you see the item's power (IP), who drops it and how often. Press Attune to set the slot to hunt it."
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid "Gather essences"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid "A kill of an enemy that drops your item can give the slot an essence, up to 100. Each essence makes the item 1% more likely to drop, so a full slot doubles its chance. When the item drops, the essence count returns to 0."
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid "Sacrifice (optional)"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid "Place a Special or Unique item of equal or higher IP here to raise your essence gain by 50%. Taking it back resets the slot's essences, and it is lost to the void when your item drops."
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid "The enemies that drop your item show in the REAP slots. Press it to list them all, along with their essence drop chance."
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid "More slots"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid "A locked slot shows what opens it: a level first, then Glory. Each character has its own seven slots."
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid "Guild boosts"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid "Your guild spends its energy on four boosts: Loot, EXP, Silver and Shiny Chance."
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid "Raise a boost"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid "Press + to raise each boost, or - to lower it. Each notch costs {cost} energy an hour."
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid "Who sets the boosts"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid "Members and above raise and lower the boosts, but all ranks benefit!"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid "Guild energy"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid "Your guild's energy. Boosts spend it only while a member is online. At 0 energy, the boosts pause until more is earned."
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid "Earning energy"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid "Your guild earns energy when its members slay the minions of the Dominion's monoliths. Harder monoliths and more members online pay more. This button will give you more info."
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid "Guild notice"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid "A short message from your guild's leaders, shown to every member as they log in. Press Edit to write a new one."
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid "A short message from your guild's leaders, shown to every member as they log in."
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid "Everyone in your guild, online first. Search finds a member by name."
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid "Manage members"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid "On a member ranked below you, these buttons promote, demote or kick. Each one asks before anything changes."
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid "Audit log"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid "Every change to the guild, newest first: who joined or left, rank changes, the notice and the boosts."
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid "Pick an item"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid "Press an item in your inventory to select it. Greyed-out items can't be rerolled, and gear you wear has to come off first. The Backpack button shows the rest of your bag."
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid "Press an item in your inventory to put it in the cauldron. Greyed-out items can't be rerolled, and gear you wear has to come off first."
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid "What can change"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid ""
+"With an item in, these show its affix, its quality points and its traits. You choose which parts to reroll, and everything else stays exactly as it is.\n"
+"\n"
+"Each +/- on an item is worth 2 IP. Affix tiers can lower an item's IP by up to 4 (red affixes), or up to 6 (pink) through normal methods."
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid "Pay in silver"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid "A reroll costs silver, set by the item's power and the parts you choose. Roll scrolls and relic pieces give discounts, and duplicate items as fuel make a reroll free."
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid "Need the details?"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid "The (i) buttons explain the prices and the odds. Put an item in to begin."
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid "Your item"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid "This is your item as it is now. Note the +/-s, and what you prioritize from your gear."
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid "Choose the parts"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid "Press Reroll on each part you want changed: it lights up to show it will be rerolled. Anything you leave alone stays as it is."
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid "Quality and upgrades"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid "Quality + and ++ are bonus points, each rerolled on its own. Any silver spent rolling also fills the upgrade bar, and a full bar gives the item a +."
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid "Armor and accessories carry traits. They gain another trait point every 10 IP, starting at 15. Traits themselves are not IP bonuses, and can do more abstract things than affixes/quality points. Press a point to roll it to another trait, or every point of a trait to replace it."
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid "Fuel (optional)"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid "Press a second item in your inventory to burn it as fuel. A copy of the same item makes the reroll free, and a roll scroll or token makes it cheaper. Fuel is used up."
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid "Reroll Cost shows the silver for exactly what you chose. Once parts are chosen this button reads Reroll: press it and confirm."
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid "See the odds"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid "Tables list everything this part can roll, with the chance of each. Put on a roll scroll as fuel to see the odds change!"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid "Your shield"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid "Your Shield is your rank. Claim Shield attainments to raise it: this category counts the claims your next shield takes."
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid "Shield attainments"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid "Each row is an attainment: what to do, how far along you are, and what each stage pays. Rewards are claimed manually."
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid "Next shield"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid "NEXT SHIELD is how many more claims your next shield takes, and RANK counts the Shield rewards you have claimed out of all of them."
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid "Finished attainments leave their rewards here. Claim All takes every one at once, and View List shows individual attainments you've completed."
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid "Rewards"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid "Attainments can give you score, other currencies, and items. Score also adds to a total that is represented on leaderboards, and spendable score is yours to spend in various shops across the tavern."
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid "Ruby seasons"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid ""
+"Ruby is a seasonal session that lasts two months. The attainments within are very hard, meant to be stretch goals. In return they can offer high sums of premium currency, as well as a running count of seasonal completions called 'Prestige' if you complete every Ruby attainment in a season.\n"
+"\n"
+"Prestige grants you a red glow for the remainder of the season, and adds a running count to whenever you have a Ruby Shield active (e.g. Ruby I/II/IV/etc)"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid "Daily Gold Quests"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid "Running low on characters slots, or vault space, or cosmetics? Daily attainments offer 90 free gold a day, as well as spendable score to be spent on practice (trial) keys."
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid "Today's dailies"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid "Today's three Daily Attainments. A finished one of these claims automatically, unlike other attainments. We want you to get your free gold :)"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid "Events"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid "Event attainments run alongside Holiday Events, every other month. They grant obols to be spent at the Holiday Shop that runs with them, as well as other rewards!"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid "Gear priority"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid "Choose the gear you want most: weapon, ability, armor or ring. Each hunt below then changes to a recommended pick that's rare drops are upgrades for you."
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid "Pick a miniboss to hunt, based on what it drops. Killing minibosses and completing dungeons speeds up the respawn timer for your Main/Guild Hunts. Between main events, these will show up as your quests."
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid "Choose the main boss you're looking to hunt. These are experienced difficulty bosses, and are key to entering harder dungeons. They also have rare drops that reflect their level."
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid "Calling the bosses"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid "Bosses come only when hunters call them. Each miniboss you slay takes 45 seconds off the timer of the boss you hunt, and each Dominion dungeon you clear takes 90. Timers that haven't been cut in 5 minutes pause until someone returns to the hunt."
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid "The Reoccurring Ritual (Darza)"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid "The Ritual Counter shows which Aspects have been slain already, slaying all four brings all marked players to The Void. To become marked, be involved in at least 2 Aspect kills since joining the Dominion."
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid "Pick a monolith. When it says \"Ready\" anyone may begin the fight by teleporting. Monolith fights earn your guild energy, but are also hosts to rare loot, at an Item Power relative to their difficulty."
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid "The Dominion Map"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid "Your picks show on the map, and marks where you'll arrive. Press a marker to swap your hunt here instead."
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid "Your picks show on the map. Press a marker to hunt it."
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid "Dominions"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid "Each button is a regional Dominion server and shows how many players are in it. Its small squares are its bosses: red means one is active, and squares filling up are running timers."
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid "Enter the Dominion"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid "Change your picks here, then press Begin Hunt to keep them."
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialScripts.cs
+msgid "When you're set, 'Enter Dominion' takes you in with these hunts. Inside, the map's 'Dominion' tab lets you change them without coming back here."
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialTour.cs
+msgid "Next"
+msgstr ""
+
+#: DarzasClient/DarzasDominion/Darza/Game/UI/Tutorials/TutorialTour.cs
+msgid "Skip tutorial"
 msgstr ""
 
 #: DarzasClient/DarzasDominion/Darza/Game/UI/WaveArenaOverlay.cs
@@ -14668,8 +15079,32 @@ msgid "+{percent}% Shiny chance"
 msgstr ""
 
 #: DarzasDominion/DarzaGameServer/Worlds/Boosting/BoostBreakdowns.cs
+msgid "<c#{hex}>{shinyRate} Shiny<c/>"
+msgstr ""
+
+#: DarzasDominion/DarzaGameServer/Worlds/Boosting/BoostBreakdowns.cs
 msgid "This World's Boosts: {rates}"
 msgstr ""
+
+#: DarzasDominion/DarzaGameServer/Worlds/Boosting/BoostBreakdowns.cs
+msgid "{link}: Paused, out of energy"
+msgstr ""
+
+#: DarzasDominion/DarzaGameServer/Worlds/Boosting/BoostBreakdowns.cs
+msgid "{link}: {left} til 0"
+msgstr ""
+
+#: DarzasDominion/DarzaGameServer/Worlds/Boosting/BoostBreakdowns.cs
+msgid "{hours} hour"
+msgid_plural "{hours} hours"
+msgstr[0] ""
+msgstr[1] ""
+
+#: DarzasDominion/DarzaGameServer/Worlds/Boosting/BoostBreakdowns.cs
+msgid "{minutes} minute"
+msgid_plural "{minutes} minutes"
+msgstr[0] ""
+msgstr[1] ""
 
 #: DarzasDominion/DarzaGameServer/Worlds/Boosting/BoostBreakdowns.cs
 msgid "Your guild earned {name}: {effects} for {duration}!"
@@ -14682,18 +15117,6 @@ msgstr ""
 #: DarzasDominion/DarzaGameServer/Worlds/Boosting/BoostBreakdowns.cs
 msgid "{days} day"
 msgid_plural "{days} days"
-msgstr[0] ""
-msgstr[1] ""
-
-#: DarzasDominion/DarzaGameServer/Worlds/Boosting/BoostBreakdowns.cs
-msgid "{hours} hour"
-msgid_plural "{hours} hours"
-msgstr[0] ""
-msgstr[1] ""
-
-#: DarzasDominion/DarzaGameServer/Worlds/Boosting/BoostBreakdowns.cs
-msgid "{minutes} minute"
-msgid_plural "{minutes} minutes"
 msgstr[0] ""
 msgstr[1] ""
 
@@ -14984,7 +15407,7 @@ msgid "Invalid position"
 msgstr ""
 
 #: DarzasDominion/DarzaGameServer/Worlds/GameObjects/Entities/Player.Boosts.cs
-msgid "Your guild is out of energy: its boosts are paused until it gathers more."
+msgid "{guild} is out of energy: boosts are paused."
 msgstr ""
 
 #: DarzasDominion/DarzaGameServer/Worlds/GameObjects/Entities/Player.Challenges.cs
@@ -15421,6 +15844,10 @@ msgid "You cannot teleport in this world."
 msgstr ""
 
 #: DarzasDominion/DarzaGameServer/Worlds/GameObjects/Map/Activatable/Portal.cs
+msgid "Only the marked enter the Void."
+msgstr ""
+
+#: DarzasDominion/DarzaGameServer/Worlds/GameObjects/Map/Activatable/Portal.cs
 msgid "Teleported to {Name}"
 msgstr ""
 
@@ -15482,6 +15909,10 @@ msgstr[1] ""
 
 #: DarzasDominion/DarzaGameServer/Worlds/Guilds/GuildContribution.cs
 msgid "+{gained} Guild Energy"
+msgstr ""
+
+#: DarzasDominion/DarzaGameServer/Worlds/Guilds/GuildContribution.cs
+msgid "Energy cap reached for this fight."
 msgstr ""
 
 #: DarzasDominion/DarzaGameServer/Worlds/Guilds/GuildContribution.cs
